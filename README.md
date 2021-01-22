@@ -27,11 +27,11 @@ Some reasons for our transition to agroforestry are listed below:
 
 ## Management
 
-The owners plan to use these methods in their agroforesty practice.
+We plan to use these methods for managing our agroforesty practice.
 
 **BIM (Building Information Management)**
 
-Building Information Management (BIM) tools are being used for design of the farm layout, the buildings, and infrastructure, but with the eventual goal of using it to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, as well as buildings and infrastructure, ...) . While often associated with the design of buildings, industry is expanding the underlying BIM file system ([IFC5](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/)) to also include infrastructure and landscaping, thereby making it relevant to agroforestry (especially where the IFC standard is used by local government for the surrounding public works). Apart from farm management, this 3D file system may prove useful to researchers studying, or modelling the performance of, urban and rural agroforestry with carbon-sequestration.  This git repository was set up to hold the workflow and FreeCAD/Blender model.
+Building Information Management (BIM) tools are being used for design of the farm layout, the buildings, and infrastructure, but with the eventual goal of using it to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, as well as buildings and infrastructure, ...). While often associated with the design of buildings, industry is expanding the underlying BIM file system ([IFC5](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/)) to also include infrastructure and landscaping, thereby making it relevant to agroforestry (especially where the IFC standard is used by local government for the surrounding public works). Apart from farm management, this 3D file system may prove useful to researchers studying, or modelling the performance of, urban and rural agroforestry with carbon-sequestration.  This git repository was set up to hold the workflow and FreeCAD/Blender model.
 
 **Cogeneration of heat and power with carbon sinking**
 
