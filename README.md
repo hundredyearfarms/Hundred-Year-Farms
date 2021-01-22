@@ -11,7 +11,7 @@ There are five basic types of agroforestry practices today in North America: win
 
 Our plan, as shown by the superposition of trees onto the sattelite image below, is to plant strong wind-break trees along the upper-most ridges with the trees and crops that require more sunlight, warmth, and wind protection located progressively lower on the farm's south sloping land. The existing trees are a near single species of spruce resulting from a prior clear-cut, but the new trees will be a diverse mix that may include maple, oak, poplar, birch, hemlock, and apple, among others.  The trees in rows will be arranged to allow for selective harvesting while some blocks will be left to grow unmanaged. Similiar to the trees, the crops that will be planted in the tree understory and between the rows of trees will also be more diverse. 
 
-![Arial photo](https://github.com/hundredyearfarms/Hundred-Year-Farms/blob/main/IFCSite-FarmProposedTrees.png)
+<img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/IFCSite-FarmProposedTrees.png"/>
 
 <u>Image</u>: *Proposed new trees and storm-water collection pond laid over a sattelite image of the existing property on Prince Edward Island (gradient lines show how the land slopes toward the south where surface run-off water collects). A - water erosion down the centre of this field is already evident, but can be controlled by the new rows of trees that follow field contours. B - this prior clear-cut will be diversified to a range of native tree species. C - there will be relatively little change to this field apart from re-aligning the existing windbreak so it follows natural contours and then adding a second row at the lowest and steepest part of the field. D - Greenhouse.  Note that the proposed changes will be gradual and are likely to take decades to complete.*
 
@@ -48,4 +48,3 @@ Small farm agroforestry produces waste biomass that must be managed. Through gas
 
 Nancy and Brenon Knaggs both grew up on small farms. During their working careers Nancy helped manage new technology product development. Brenon worked in the engineering design of cogeneration power systems and later in public infrastructure projects. They both have a keen interest in the relation between small farms, communities, and biodiversity within a time of changing climate and technology. They can be contacted by email at "hun....yearfarms@protonmail.com"
 
-<img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/IFCSite-FarmProposedTrees.png"/>
