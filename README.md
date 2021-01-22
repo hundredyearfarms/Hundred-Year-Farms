@@ -48,4 +48,4 @@ Small farm agroforestry produces waste biomass that must be managed. Through gas
 
 Nancy and Brenon Knaggs both grew up on small farms. During their working careers Nancy helped manage new technology product development. Brenon worked in the engineering design of cogeneration power systems and later in public infrastructure projects. They both have a keen interest in the relation between small farms, communities, and biodiversity within a time of changing climate and technology. They can be contacted by email at "hun....yearfarms@protonmail.com"
 
-<img src="https://raw.githubusercontent.com/hundredyearfarms/knaggswood/main/IFCSite-FarmProposedTrees.png"/>
+<img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/IFCSite-FarmProposedTrees.png"/>
