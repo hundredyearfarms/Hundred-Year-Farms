@@ -23,11 +23,11 @@ Some reasons for our transition to agroforestry are listed below:
 
 - Diversify outputs: The farm will be more suited to grazing, while providing access to higher value wood, as well as fruit, vegetables, forage, or grains.  The expected outcome is lower, but more stable, sources of farm income.
   
-- Time:  We want to start planting trees now since high-value trees require a long lead-time to grow and, as the climate changes, it could become difficult to establish the most desirable species.  
+- Time:  High-value trees require a long lead-time to grow and, as the climate changes, it could be increasingly difficult to establish the most desirable species.  
 
 ## Management
 
-We plan to use these methods for managing our agroforesty practice.
+We are, or plan to, use these methods for managing our agroforesty practice.
 
 **BIM (Building Information Management)**
 
