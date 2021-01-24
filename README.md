@@ -23,7 +23,7 @@ Some reasons for our transition to agroforestry are listed below:
 
 - Diversify outputs: Investments will be made in greenhouses while the farmland will become better suited to grazing, provide higher value wood, as well as fruit, vegetables, forage, or grains.  Net income may not increase, but it should be more stable and more adaptable to change. 
   
-- Time: High-value trees require a long lead-time to grow and, as the climate changes, it could be increasingly difficult to establish the most desirable species.  
+- Time: High-value trees require a long lead-time to grow and, as the climate changes, it could become more difficult to establish the most desirable species.  
 
 ## Management
 
