@@ -17,7 +17,7 @@ Our plan for the island farm, as shown by the superposition of trees onto the sa
 
 Some reasons for our transition to agroforestry are listed below:
 
-- Productivity: Trees will reduce the higher wind speeds expected in the future and they will slow drainage from more extreme rainfall, both of which will help control soil erosion.  The lower wind speeds will also reduce damage to wind sensitive crops and, while increased tree shade will slow the growth of some crops, it will be beneficial to others as mid-afternoons become hotter. 
+- Productivity: Trees will reduce the higher wind speeds expected in the future and they will slow drainage from more extreme rainfall, both of which will help control soil erosion.  The lower wind speeds will also reduce damage to wind sensitive crops and, while increased tree shade will slow the growth of some crops, it will be beneficial to others as mid-afternoons become hotter. Waste tree and crop biomass will be used to provide lower cost and carbon negative heat, electricity, and char (carbon) for the greenhouses and soil.
 
 - Biodiversity: A more diverse mix of plants and wildlife will help mitigate climate induced pest, disease, and fire risks while also making the property more interesting to live on or visit.  
 
