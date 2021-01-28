@@ -21,7 +21,7 @@ Some reasons for our transition to agroforestry are listed below:
 
 - Biodiversity: A more diverse mix of plants and wildlife will help mitigate climate induced pest, disease, and fire risks while also making the property more interesting to live on or visit.  
 
-- Diversify outputs: Investments will be made in greenhouses while the farmland will become better suited to grazing, provide higher value wood, as well as fruit, vegetables, forage, or grains.  Net income may not increase, but it should be more stable and more adaptable to change. 
+- Diversify outputs: Investments will be made in greenhouses while the farmland will become better suited to grazing, provide higher value wood and fruit, while still being able to produce vegetables, forage and grains.  Work over the course of the year will be leveled as, for example, much tree and greenhouse work can be done during times when field crops are not being harvested.  Net income is not expected to increase, but it should be more stable and more adaptable to change. 
   
 - Timing: High-value trees require a long lead-time to grow and should be planted before changes to climate make them difficult to establish.  
 
