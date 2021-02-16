@@ -41,7 +41,7 @@ Small farm agroforestry produces waste biomass that must be managed. Through gas
 - [Practical example - heat and electricity at Scotston Farm](https://www.youtube.com/watch?v=i9xmWJ4hAGs)
 - [Practical example - heat and char at Burt's Greenhouse](https://biochar-international.org/burtsgreenhouse/)
 - [Practical example - heat and char by the City of Stokcholm](https://www.stockholmvattenochavfall.se/en/current-projects/development/biochar/#!/about-the-biochar-project)
-- [Commercial equipment - for producing heat, electricity, and char](https://www.reset-energy.com/en/syngasmart-plants-use-cases-applications-and-benefits/)
+- [Commercial scale heat, electricity, and char](https://www.reset-energy.com/en/syngasmart-plants-use-cases-applications-and-benefits/)
 - [Farm scale 25kW heat, electricity, and char](https://www.allpowerlabs.com/products/product-overview)
 
 **Smart Contracts**: Smart (automated) contracts that help manage project capital, when combined with the technologies that are now reorganizing supply chains, could make agroforestry projects more cost competitive and thus lead to higher rates of carbon capture. The smart contract platforms that are energy efficient (do not rely on proof-of-work) are still in early development but are likely to mature over the next decade.  Those developments may come even faster given the large amount of speculative capital flowing into that technology sector.  They are, however, already far enough along to begin planning for their long-term use in project work.  We plan to use this technology, as it develops, to the extent practical.
