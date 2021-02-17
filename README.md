@@ -48,7 +48,7 @@ Small farm agroforestry produces waste biomass that must be managed. Through gas
 
 While still immature, those platforms are far enough along to begin planning for their long-term use in project contract work.  The paper listed below from the US Federal Reserve (St Louis), the OASIS Standards Body - Baseline Protocol, and the Ernst & Young blockchain intiative summarize the opportunities and tools that may be application to agroforestry related project work. 
 
-[Smart Contract Report by the Federal Reserve - St. Louis ](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)
+[Smart Contract Research Report by the Federal Reserve - St. Louis ](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)
 [OASIS Standards Body - Baseline Protocol](https://docs.baseline-protocol.org/baseline-protocol/architecture)
 [Ernst & Younge Blockchain Initiative](https://blockchain.ey.com/)
 
