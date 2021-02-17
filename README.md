@@ -44,7 +44,7 @@ Small farm agroforestry produces woody biomass that, through gassification, can 
 This technology receives strong research and development support from most governments where climate change has been a priority since it is one of the very few that can realistically be carbon-negative, be deployed at scale, and become cost-effective.  In Canada the technology is promising, but cost-prohibitive, and there is only so much cost-reduction that will be achieved over the next few decades through improvements to the equipment itself which may only account for about 1/3 of the total installed cost.  To reach cost targets, improvements will also need to be made to the way project capital is raised and managed with one promising way to do this outlined below under the heading of Smart Contracts.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/biogassifier2021-02-12.png" alt="Farm plan overview" width="500">
+<img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/biogassifier2021-02-12.png" alt="Farm plan co-gen" width="500">
 </p>
 
 - [Agroforestry for Biomass Production - Benefiting Canadians](https://www.aftaweb.org/latest-newsletter/temporate-agroforester/97-2008-vol-17/april-no-1/74-agroforestry-for-biomass-production-benefiting-canadians.html)
