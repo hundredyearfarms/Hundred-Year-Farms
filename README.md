@@ -14,7 +14,7 @@ There are five basic types of agroforestry practices in North America: windbreak
 Our plan for the island farm, as shown by the superposition of trees onto the sattelite image below, is to plant strong wind-break trees along the upper-most ridges with the trees and crops that require more sunlight and wind protection located lower on the farm's south sloping land. The existing trees are a near single species of spruce resulting from a prior clear-cut, but the new trees will be a diverse mix that may include maple, oak, poplar, birch, hemlock, and apple, among others.  The trees in rows will be arranged to allow for selective harvesting while some blocks will be left to grow unmanaged. Similiar to the trees, the crops that will be planted in the tree understory and between the rows of trees will also be more diverse. 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/IFCSite-FarmProposedTrees.png" alt="Farm plan overview" width="500">
+<img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/IFCSite-FarmProposedTrees.png" alt="Farm plan - tree overlay" width="500">
 </p>
 
 <u>Image</u>: *Proposed new trees and storm-water collection pond laid over a sattelite image of the existing property on Prince Edward Island (gradient lines show how the land slopes toward the south where surface run-off water collects). A - water erosion down the centre of this field is already evident, but can be controlled by the new rows of trees that follow field contours. B - this prior clear-cut will be diversified to a range of native tree species. C - there will be relatively little change to this field apart from re-aligning the existing windbreak so it follows natural contours and then adding a second row at the lowest and steepest part of the field. D - Greenhouse.  Note that the proposed changes will be gradual and are likely to take decades to complete.*
@@ -44,7 +44,7 @@ Small farm agroforestry produces woody biomass that, through gassification, can 
 This technology receives strong research and development support from most governments where climate change has been a priority since it is one of the very few that can realistically be carbon-negative, be deployed at scale, and become cost-effective.  In Canada the technology is promising, but cost-prohibitive, and there is only so much cost-reduction that will be achieved over the next few decades through improvements to the equipment itself which may only account for about 1/3 of the total installed cost.  To reach cost targets, improvements will also need to be made to the way project capital is raised and managed with one promising way to do this outlined below under the heading of Smart Contracts.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/biogassifier2021-02-12.png" alt="Farm plan co-gen" width="500">
+<img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/biogassifier2021-02-12.png" alt="Farm plan co-gen" width="400">
 </p>
 
 - [Agroforestry for Biomass Production - Benefiting Canadians](https://www.aftaweb.org/latest-newsletter/temporate-agroforester/97-2008-vol-17/april-no-1/74-agroforestry-for-biomass-production-benefiting-canadians.html)
