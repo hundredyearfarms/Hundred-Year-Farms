@@ -1,6 +1,6 @@
 ## Overview
 
-Hundred Year Farms refers to two small farm properties (each about 43 acres); one on Prince Edward Island and the other in Manitoba. For both farms our plan is to make a gradual transition to carbon-negative Agroforestry.  Agroforesty involves the planting of varied crops, including grains, fruits, or vegetables, between rows of trees. We believe this type of farming can be carbon-negative through a combination of advanced co-generation combined with emerging smart-contract technologies.
+Hundred Year Farms refers to two small farm properties (each about 43 acres); one on Prince Edward Island and the other in Manitoba. For both farms our plan is to make a gradual transition to carbon-negative Agroforestry.  Agroforesty involves the planting of varied crops, including grains, fruits, or vegetables, between rows of trees. We believe this type of farming can be carbon-negative through a combination of advanced co-generation and the emerging smart-contract technologies.
 
 While crop acreage will stay the same, through these changes it is more likely that we will be able to  maintain the farm's habitat, topsoil, and water as climate changes. That, in turn, should lead to higher asset values than would otherwise be the case, while also making the farms more interesting and more enjoyable to visit for the next 100 years.
 
