@@ -1,8 +1,8 @@
 ## Overview
 
-Hundred Year Farms refers to two small farm properties (each about 43 acres); one on Prince Edward Island and the other in Manitoba. For both farms our plan is to make a gradual transition to carbon-negative Agroforestry.  Agroforesty involves the planting of varied crops, including grains, fruits, or vegetables, between rows of trees. We believe this type of farming can become carbon-negative when using a combination of advanced co-generation and the emerging smart-contract technologies.
+Hundred Year Farms refers to two small farm properties (each about 43 acres); one on Prince Edward Island and the other in Manitoba. For both farms our plan is to make a gradual transition to Agroforestry.  Agroforesty involves the planting of varied crops, including grains, fruits, or vegetables, between rows of trees. We believe that we can make this type of farming carbon-negative with the use of advanced co-generation and the emerging smart-contract technologies.
 
-Through these changes it is more likely that we will be able to  maintain the farm's habitat, topsoil, and water as climate changes. That, in turn, should lead to higher asset values than would otherwise be the case, while also making the farms more interesting and more enjoyable to visit for the next 100 years.
+Through this change to carbon-negative agroforestry it will be more likely that we can maintain the farm's habitat, conserve water, and build high-value topsoil as the climate changes. That, in turn, should lead to higher long-term asset values than would otherwise be the case, while also making the farms much more interesting and more enjoyable to visit for the next 100 years.
 
 - [What is agroforestry?](https://www.aftaweb.org/)
 - [Agroforestry - Canada](https://www.agr.gc.ca/eng/agriculture-and-climate/agricultural-practices/agroforestry/?id=1177431400694), [Agroforestry - UK](https://www.agforward.eu/index.php/en/silvoarable-agroforestry-in-the-uk.html), [Agroforestry - EU](https://euraf.isa.utl.pt/welcome), [Agroforestry - US](https://www.usda.gov/topics/forestry/agroforestry)
@@ -37,7 +37,9 @@ Building Information Management (BIM) tools are being used for design of the far
 
 **Cogeneration of heat and power with carbon sinking**
 
-Small farm agroforestry produces waste biomass that must be managed. Through gassification this debris can be used to produce heat (e.g. for greenhouses), electricity, and with some designs, [char](https://biochar-international.org/sustainability-climate-change/) (solid carbon) which can be used as a soil ammendment or sold as a [product](https://national-carbon.com/). This technology, while still early in development, is one of the very few that can realistically be carbon-negative and cost-effective.  
+Small farm agroforestry produces waste biomass that must be managed. Through gassification this debris can be used to produce heat (e.g. for greenhouses), electricity, and with some designs, [char](https://biochar-international.org/sustainability-climate-change/) (solid carbon) which can be used as a soil ammendment or sold as a [product](https://national-carbon.com/). 
+
+This technology receives strong research and development support from most governments where climate change is priority since it is one of the very few that can realistically be carbon-negative, be deployed at scale, and become cost-effective.  In Canada the technology is cost-prohibitive and there is only so much cost-reduction that will be achieved over the next decade through improvements to the equipment itself.  Improvements will also need to be made to the way capital is raised and managed with one promising way to do this outlined below under the heading of Smart Contracts.
 
 - [Agroforestry for Biomass Production - Benefiting Canadians](https://www.aftaweb.org/latest-newsletter/temporate-agroforester/97-2008-vol-17/april-no-1/74-agroforestry-for-biomass-production-benefiting-canadians.html)
 - [Practical example - heat and electricity at Scotston Farm](https://www.youtube.com/watch?v=i9xmWJ4hAGs)
