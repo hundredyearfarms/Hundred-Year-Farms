@@ -25,9 +25,9 @@ Some reasons for our transition to agroforestry are listed below:
 
 - Biodiversity: A more diverse mix of plants and wildlife will help mitigate climate induced pest, disease, and fire risks while also making the property more interesting to live on or visit.  
 
-- Diversify outputs: Investments will be made in greenhouses while the farmland will become better suited to grazing, provide higher value wood and fruit, while still being able to produce vegetables, forage and grains.  Work over the course of the year will be leveled as, for example, much tree and greenhouse work can be done during times when field crops are not being harvested.  Net income is not expected to increase, but it should be more stable and more adaptable to change. 
+- Diversify outputs: Investments will be made in greenhouses with trees providing higher value wood and fruit.  Work is leveled since much tree and greenhouse work can be done during times when field crops are not being harvested.  Net income is not expected to increase, but it should be more stable and more adaptable to change. 
   
-- Timing: High-value trees require a long lead-time to grow and should be planted before changes to climate make them difficult to establish.  
+- Timing: High-value trees require a long lead-time to grow and should be planted before changes to climate make them more difficult to establish.  
 
 ## Management
 
@@ -58,11 +58,9 @@ This technology receives strong research and development support from most gover
 
 The paper listed below from the US Federal Reserve (St Louis), the OASIS Standards Body - Baseline Protocol, and the Ernst & Young blockchain intiative summarize the opportunities and tools that may be relevant to agroforestry project work. 
 
-[Smart Contract Research Report by the Federal Reserve - St. Louis ](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)
-
-[OASIS Standards Body - Baseline Protocol](https://docs.baseline-protocol.org/baseline-protocol/architecture)
-
-[Ernst & Younge Blockchain Initiative](https://blockchain.ey.com/)
+- [Federal Reserve of St. Louis - Smart Contract Research Report+++++++++](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)
+- [OASIS Standards Body - Baseline Protocol](https://docs.baseline-protocol.org/baseline-protocol/architecture)
+- [Ernst & Younge Blockchain Initiative](https://blockchain.ey.com/)
 
 ## Owners
 
