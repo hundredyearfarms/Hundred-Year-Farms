@@ -46,7 +46,7 @@ Small farm agroforestry produces waste biomass that must be managed. Through gas
 
 **Smart Contracts**: Smart (automated) contracts that help manage project capital, when combined with the technologies that are now reorganizing supply chains, could make agroforestry projects more cost competitive and thus lead to higher rates of carbon capture. The smart contract platforms that are energy efficient (i.e. do not rely on proof-of-work) are still in early development but are likely to mature over the next decade, or perhaps sooner, given the large amounts of speculative capital that has been flowing into that technology sector.  
 
-While still immature, those platforms are far enough along to begin planning for their long-term use in project contract work.  The paper listed below from the US Federal Reserve (St Louis), the OASIS Standards Body - Baseline Protocol, and the Ernst & Young blockchain intiative summarize the opportunities and tools that may be application to agroforestry related project work. 
+While still based on an emerging technology, those platforms are far enough along to begin planning for their long-term use in project contract work.  The paper listed below from the US Federal Reserve (St Louis), the OASIS Standards Body - Baseline Protocol, and the Ernst & Young blockchain intiative summarize the opportunities and tools that may be application to agroforestry related project work. 
 
 [Smart Contract Research Report by the Federal Reserve - St. Louis ](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)
 [OASIS Standards Body - Baseline Protocol](https://docs.baseline-protocol.org/baseline-protocol/architecture)
