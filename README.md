@@ -41,9 +41,9 @@ Building Information Management (BIM) tools are being used for design of out-bui
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/slopedRoofFromSpecSheet-githubReadme.png" alt="Farm plan co-gen" width="400">
 </p>
 
-The main goal of BIM, in our case, however is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure). While often associated with the design of buildings, industry is expanding the underlying BIM file system ([IFC5](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/)) to also include infrastructure and landscaping, thereby making it relevant to agroforestry (especially where the IFC standard is used by local government for the surrounding public works). This ability to accurately record and then manage large amounts of farm data using an open standard is of high value to this project.  
+While tools for building design are useful, the main goal of BIM in our case is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure). While BIM is often just associated with the design of buildings, industry is expanding the underlying BIM file system ([IFC5](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/)) to also include infrastructure and landscaping, thereby making it relevant to agroforestry (especially where the IFC standard is used by local government for the surrounding public works). 
 
-Apart from farm asset management, this 3D file system may prove useful to researchers studying, or modelling the performance of, urban and rural agroforestry with carbon-sequestration.  This git repository will the workflow and FreeCAD/Blender model once sufficiently developed.
+This ability to scientifically record and then manage large amounts of agroforestry data using an open standard is of high value to this project and it may also prove useful to researchers studying, or modelling the performance of, urban and rural agroforestry systems that incorporate biomass energy and water treatment with carbon-sequestration.  This git repository will the workflow and FreeCAD/Blender models.
 
 **Cogeneration of heat, power, fertilizer, and treated water with carbon sinking**
 
