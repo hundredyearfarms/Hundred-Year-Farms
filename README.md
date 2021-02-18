@@ -2,7 +2,7 @@
 
 Hundred Year Farms refers to two small farm properties (each about 43 acres); one on Prince Edward Island and the other in Manitoba. For both farms our plan is to make a gradual transition to Agroforestry.  Agroforesty involves the planting of crops, including grains, fruits, or vegetables, between rows of trees. We believe that, over the long-term, we can make this type of farming carbon-negative with the use of advanced co-generation and the emerging smart-contract technologies.
 
-This transition to carbon-negative agroforestry will help maintain the farm's habitat, conserve water, and allow us to build high-value topsoil as the climate changes. That, in turn, should lead to higher long-term asset values than would otherwise be the case, while also making the farms much more interesting and more enjoyable to visit for the next 100 years.
+This transition to carbon-negative agroforestry will help maintain the farm's habitat, conserve water, and allow us to build high-value topsoil as the climate changes. That, in turn, should lead to higher long-term asset values than would otherwise be the case, while making the farms more interesting and more enjoyable to visit for the next 100 years.
 
 - [What is agroforestry?](https://www.aftaweb.org/)
 - [Agroforestry - Canada](https://www.agr.gc.ca/eng/agriculture-and-climate/agricultural-practices/agroforestry/?id=1177431400694), [Agroforestry - UK](https://www.agforward.eu/index.php/en/silvoarable-agroforestry-in-the-uk.html), [Agroforestry - EU](https://euraf.isa.utl.pt/welcome), [Agroforestry - US](https://www.usda.gov/topics/forestry/agroforestry)
