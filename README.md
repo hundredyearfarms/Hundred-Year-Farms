@@ -35,7 +35,15 @@ We are, or plan to, use these methods for managing our agroforesty practice.
 
 **BIM (Building Information Management)**
 
-Building Information Management (BIM) tools are being used for design of the farm layout, the buildings, and infrastructure, but with the eventual goal of using it to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, as well as buildings and infrastructure, ...). While often associated with the design of buildings, industry is expanding the underlying BIM file system ([IFC5](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/)) to also include infrastructure and landscaping, thereby making it relevant to agroforestry (especially where the IFC standard is used by local government for the surrounding public works). Apart from farm management, this 3D file system may prove useful to researchers studying, or modelling the performance of, urban and rural agroforestry with carbon-sequestration.  This git repository was set up to hold the workflow and FreeCAD/Blender model.
+Building Information Management (BIM) tools are being used for design of out-buildings (greenhouses, sheds, workshop, garage, ...) using simple sloped-roof buildings where possible.  A tool for converting a mark-down text document to a drawing suitable for costing (but not construction) is being used as illustrated below.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/slopedRoofFromSpecSheet-githubReadme.png" alt="Farm plan co-gen" width="400">
+</p>
+
+The main goal of BIM, in our case, however is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure). While often associated with the design of buildings, industry is expanding the underlying BIM file system ([IFC5](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/)) to also include infrastructure and landscaping, thereby making it relevant to agroforestry (especially where the IFC standard is used by local government for the surrounding public works). This ability to accurately record and then manage large amounts of farm data using an open standard is of high value to this project.  
+
+Apart from farm asset management, this 3D file system may prove useful to researchers studying, or modelling the performance of, urban and rural agroforestry with carbon-sequestration.  This git repository will the workflow and FreeCAD/Blender model once sufficiently developed.
 
 **Cogeneration of heat, power, fertilizer, and treated water with carbon sinking**
 
