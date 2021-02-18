@@ -37,15 +37,19 @@ We are, or plan to, use these methods for managing our agroforesty practice.
 
 Building Information Management (BIM) tools are being used for design of the farm layout, the buildings, and infrastructure, but with the eventual goal of using it to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, as well as buildings and infrastructure, ...). While often associated with the design of buildings, industry is expanding the underlying BIM file system ([IFC5](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/)) to also include infrastructure and landscaping, thereby making it relevant to agroforestry (especially where the IFC standard is used by local government for the surrounding public works). Apart from farm management, this 3D file system may prove useful to researchers studying, or modelling the performance of, urban and rural agroforestry with carbon-sequestration.  This git repository was set up to hold the workflow and FreeCAD/Blender model.
 
-**Cogeneration of heat and power with carbon sinking**
+**Cogeneration of heat, power, fertilizer, and treated water with carbon sinking**
 
-Small farm agroforestry produces woody biomass that, through gassification, can be used to produce heat (e.g. for greenhouses), electricity, purify water, and with some designs, produce [char](https://biochar-international.org/sustainability-climate-change/) (solid carbon) which can be used as a soil ammendment or sold as a [product](https://national-carbon.com/). 
-
-This technology receives strong research and development support from most governments where climate change has been a priority since it is one of the very few that can realistically be carbon-negative, be deployed at scale, and become cost-effective.  In Canada the technology is promising, but cost-prohibitive, and there is only so much cost-reduction that will be achieved over the next few decades through improvements to the equipment itself which may only account for about 1/3 of the total installed cost.  To reach cost targets, improvements will also need to be made to the way project capital is raised and managed with one promising way to do this outlined below under the heading of Smart Contracts.
+Small farm agroforestry produces woody biomass that, through gassification, can be used to produce heat (e.g. for greenhouses), electricity, treat water, and with some designs, produce fertilizer and [char](https://biochar-international.org/sustainability-climate-change/) (solid carbon) which can be used as a soil ammendment or sold as a [product](https://national-carbon.com/). A schematic showing design objectives for our application is shown below.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/biogassifier2021-02-12.png" alt="Farm plan co-gen" width="400">
 </p>
+
+The technologies for converting biomass to energy and other products has received strong research and development support from most governments where climate change is a priority since it is one of the very few that can realistically be carbon-negative, be deployed at scale, and become cost-effective.  A good summary of the research done in this area is provided by this [Energy and Environmental Science Article](https://pubs.rsc.org/en/content/articlepdf/2016/ee/c6ee00935b) article from the Royal Society of Chemistry.
+
+In Canada, given the vast amount of biomass available, the technology is promising but generally remains cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to the equipment itself, however, equipment may only account for about 1/3 of the total installed cost.  To reach cost targets, improvements will also need to be made to the way project capital is raised and managed with one promising way to do this outlined below under the heading of Smart Contracts.
+
+
 
 - [Agroforestry for Biomass Production - Benefiting Canadians](https://www.aftaweb.org/latest-newsletter/temporate-agroforester/97-2008-vol-17/april-no-1/74-agroforestry-for-biomass-production-benefiting-canadians.html)
 - [Practical example - heat and electricity at Scotston Farm](https://www.youtube.com/watch?v=i9xmWJ4hAGs)
