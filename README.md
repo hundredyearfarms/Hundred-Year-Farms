@@ -72,7 +72,7 @@ The paper listed below from the US Federal Reserve (St Louis), the OASIS Standar
 - [OASIS Standards Body - Baseline Protocol](https://docs.baseline-protocol.org/baseline-protocol/architecture)
 - [Ernst & Younge Blockchain Initiative](https://blockchain.ey.com/)
 
-**Schedule**:  Described above is our project concept which, over the course of 2021, we will continue to refine with the help of various consultants.  Next we will do our feasibility review that will consider the state of technology, regulations, costs, revenue, and tax treatments.  That feasibility review is not expected to change the concept or objectives, but rather tell us how quickly the above project can move and which may end up being anywhere from a decade to a very gradual multi-generational transition over the next hundred years.  Following feasibility will be the preliminary designs, then the down-selected detailed design, and finally implementation.     
+**Schedule**:  Described above is our project concept which, over the course of 2021, we will continue to refine with the help of various consultants.  Next we will do our feasibility review that will consider the state of technology (e.g. gassification, smart contracts), regulations, costs, revenue, and tax treatments.  That feasibility review is not expected to change the concept or objectives, but rather tell us how quickly the above project can move and which may end up being anywhere from a decade to a very gradual multi-generational transition over the next hundred years.  Following feasibility will be the preliminary designs, then the down-selected detailed design, and finally implementation.     
 
 ## Owners
 
