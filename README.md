@@ -35,15 +35,15 @@ We are, or plan to, use these methods for managing our agroforesty practice.
 
 **BIM (Building Information Management)**
 
-Building Information Management (BIM) tools are being used for design of out-buildings (greenhouses, sheds, workshop, garage, ...).  These use simple sloped-roof buildings which can be combined to form larger buildings if needed.  A tool for converting a mark-down text document to a model suitable for costing (but not construction) is illustrated below.
+Building Information Management (BIM) tools are being used for design of out-buildings (greenhouses, sheds, workshop, garage, ...).  These use simple sloped-roof buildings that can be combined to form larger buildings if needed.  A tool for converting a mark-down text document to a model suitable for costing (but not construction) is illustrated below.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/slopedRoofFromSpecSheet-githubReadme.png" alt="Farm plan co-gen" width="500">
 </p>
 
-The main goal of BIM in our case, however, is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure). This is possible since industry is expanding the underlying BIM file system ([IFC5](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/)) to also include infrastructure and landscaping, thereby making it relevant to agroforestry.  The IFC5 standard should be especially useful in regions where it is used by local government for the surrounding public works (roads, drainage, other infrastructure). 
+The main goal of BIM in our case, however, is not to design buildings, but rather manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure). This is possible since industry is expanding the underlying BIM file system ([IFC5](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/)) to also include infrastructure and landscaping, thereby making it relevant to agroforestry.  The IFC5 standard should be especially useful in regions where it is used by local government for the surrounding public works (roads, drainage, other infrastructure). 
 
-This ability to record and then manage large amounts of agroforestry data using an open standard is of high value to this project and it may also prove useful to researchers modelling carbon negative agroforestry systems.  This git repository will the workflow and FreeCAD/Blender models.
+This ability to record and then manage large amounts of agroforestry data using an open standard is of high value to this project and it may also prove useful to researchers modelling carbon negative agroforestry systems.  This git repository will hold the workflow and FreeCAD/Blender models.
 
 **Cogeneration of heat, power, treated water, and fertilizer with carbon sinking**
 
