@@ -35,7 +35,7 @@ We are, or plan to, use these methods for managing our agroforesty practice.
 
 **BIM (Building Information Management)**
 
-Building Information Management (BIM) tools are being used for design of out-buildings (greenhouses, sheds, workshop, garage, ...) using simple sloped-roof buildings which can be combined to form larger buildings if needed.  A tool for converting a mark-down text document to a model suitable for costing (but not construction) is being developed as illustrated below.
+Building Information Management (BIM) tools are being used for design of out-buildings (greenhouses, sheds, workshop, garage, ...).  These use simple sloped-roof buildings which can be combined to form larger buildings if needed.  A tool for converting a mark-down text document to a model suitable for costing (but not construction) is being developed as illustrated below.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/slopedRoofFromSpecSheet-githubReadme.png" alt="Farm plan co-gen" width="500">
