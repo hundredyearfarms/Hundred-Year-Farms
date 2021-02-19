@@ -72,6 +72,8 @@ The paper listed below from the US Federal Reserve (St Louis), the OASIS Standar
 - [OASIS Standards Body - Baseline Protocol](https://docs.baseline-protocol.org/baseline-protocol/architecture)
 - [Ernst & Younge Blockchain Initiative](https://blockchain.ey.com/)
 
+**Schedule**:  Described above is our project concept which, over the course of 2021, we will continue to refine with the help of various consultants.  Next we will do our feasibility review that will consider the state of technology, regulations, costs, revenue, and tax treatments.  That feasibility review is not expected to change the concept or objectives, but rather tell us how quickly the above project can move which may end up being anywhere from a decade to a very gradual, multi-generational transition, over the next hundred years.  Once the feasibility review is complete, the next stage will be preliminary design, followed by detailed design, then implementation.     
+
 ## Owners
 
 Nancy and Brenon Knaggs both grew up on small farms. During their working careers Nancy helped manage new technology product development. Brenon worked in the engineering design of low-carbon cogeneration power systems and later in project management for large public infrastructure projects. They both have a keen interest in the relation between small farms, communities, and biodiversity within a time of changing climate and technology. They can be contacted by email at "hun....yearfarms@protonmail.com"
