@@ -41,9 +41,9 @@ Building Information Management (BIM) tools are being used for design of out-bui
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/slopedRoofFromSpecSheet-githubReadme.png" alt="Farm plan co-gen" width="500">
 </p>
 
-The main goal of BIM in our case, however, is not to design buildings, but rather manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure). This is possible since industry is expanding the underlying BIM file system ([IFC5](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/)) to also include infrastructure and landscaping, thereby making it relevant to agroforestry.  The IFC5 standard should be especially useful in regions where it is used by local government for the surrounding public works (roads, drainage, other infrastructure). 
+The main goal of BIM in our case, however, is not to design buildings, but rather manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure). This is valuable and possible since industry is expanding the underlying BIM file system ([IFC5](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/)) to include infrastructure and landscaping, thereby making it relevant to agroforestry.  The IFC5 standard should be especially useful in regions where it is used by local government for the surrounding public works (roads, drainage, other infrastructure). 
 
-This ability to record and then manage large amounts of agroforestry data using an open standard is of high value to this project and it may also prove useful to researchers modelling carbon negative agroforestry systems.  This git repository will hold the workflow and FreeCAD/Blender models.
+This ability to record and then manage large amounts of agroforestry data over time using an open standard is of high value to this project and it may also prove useful to researchers modelling carbon-negative agroforestry systems.  This git repository will hold the workflow and FreeCAD/Blender models.
 
 **Cogeneration of heat, power, treated water, and fertilizer with carbon sinking**
 
@@ -64,12 +64,12 @@ In Canada, given the vast amount of biomass available, the technology is promisi
 - [Commercial scale heat, electricity, and char](https://www.reset-energy.com/en/syngasmart-plants-use-cases-applications-and-benefits/)
 - [Farm scale 25kW heat, electricity, and char](https://www.allpowerlabs.com/products/product-overview)
 
-**Smart Contracts**: Smart (automated) contracts that help manage project capital, when combined with the technologies that are now reorganizing supply chains, has the potential to lower projects costs which could make agroforestry more cost competitive and lead to higher rates of carbon capture. The smart contract platforms that are energy efficient (i.e. do not rely on proof-of-work) are still in early development but they are likely to mature over the next decade given the large amounts of capital that has been flowing into that technology sector.  
+**Smart Contracts**: Smart (automated) contracts that help manage project capital, when combined with the technologies that are now reorganizing supply chains, has the potential to lower projects costs which could make agroforestry more cost competitive and lead to higher rates of carbon sequestration. The smart contract platforms that are energy efficient (i.e. do not rely on proof-of-work) are still in early development but they are likely to mature quickly over the next decade given the large amounts of capital that has been flowing into that technology sector.  
 
 The paper listed below from the US Federal Reserve (St Louis), the OASIS Standards Body - Baseline Protocol, and the Ernst & Young blockchain intiative summarize the opportunities and tools that are most relevant to our agroforestry project. 
 
-- [Federal Reserve of St. Louis - Smart Contract Research Report](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)
-- [OASIS Standards Body - Baseline Protocol](https://docs.baseline-protocol.org/baseline-protocol/architecture)
+- [US Federal Reserve - Smart Contract Research Report](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)
+- [OASIS Standards Body - Baseline Protocol for Smart Contracts](https://docs.baseline-protocol.org/baseline-protocol/architecture)
 - [Ernst & Younge Blockchain Initiative](https://blockchain.ey.com/)
 
 **Schedule**:  Described above is our project concept which, over the course of 2021, we will continue to refine with the help of various consultants.  Next we will do our feasibility review that will consider the state of technology (e.g. gassification, smart contracts), regulations, costs, revenue, and tax treatments.  That feasibility review is not expected to change the concept or objectives, but rather tell us how quickly the above project can move and which may end up being anywhere from a decade to a very gradual multi-generational transition over the next hundred years.  Following feasibility will be the preliminary designs, then the down-selected detailed design, and finally implementation.     
