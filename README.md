@@ -38,10 +38,10 @@ We are, or plan to, use these methods for managing our agroforesty practice.
 Building Information Management (BIM) tools are being used for design of out-buildings (greenhouses, sheds, workshop, garage, ...) using simple sloped-roof buildings which can be combined to form larger buildings if needed.  A tool for converting a mark-down text document to a model suitable for costing (but not construction) is being developed as illustrated below.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/slopedRoofFromSpecSheet-githubReadme.png" alt="Farm plan co-gen" width="400">
+<img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/slopedRoofFromSpecSheet-githubReadme.png" alt="Farm plan co-gen" width="500">
 </p>
 
-The main goal of BIM in our case, however, is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure). This is possible since industry is expanding the underlying BIM file system ([IFC5](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/)) to also include infrastructure and landscaping, thereby making it more relevant to agroforestry.  The IFC5 standard should be especially useful in regions where it is used by local government for the surrounding public works (roads, drainage, other infrastructure). 
+The main goal of BIM in our case, however, is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure). This is possible since industry is expanding the underlying BIM file system ([IFC5](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/)) to also include infrastructure and landscaping, thereby making it relevant to agroforestry.  The IFC5 standard should be especially useful in regions where it is used by local government for the surrounding public works (roads, drainage, other infrastructure). 
 
 This ability to scientifically record and then manage large amounts of agroforestry data using an open standard is of high value to this project and it may also prove useful to researchers studying, or modelling the performance of, urban and rural agroforestry systems that incorporate biomass energy and water treatment with carbon-sequestration.  This git repository will the workflow and FreeCAD/Blender models.
 
@@ -56,8 +56,6 @@ Small farm agroforestry produces woody biomass that, through gassification, can 
 The technologies for converting biomass to energy and other products has received strong research and development support from most governments where climate change is a priority since it is one of the very few that can realistically be carbon-negative, be deployed at scale, and become cost-effective.  A good summary of the research done in this area is provided by this [Energy and Environmental Science Article](https://pubs.rsc.org/en/content/articlepdf/2016/ee/c6ee00935b) article from the Royal Society of Chemistry.
 
 In Canada, given the vast amount of biomass available, the technology is promising but generally remains cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to the equipment itself, however, equipment may only account for about 1/3 of the total installed cost.  To reach cost targets, improvements will also need to be made to the way project capital is raised and managed with one promising way to do this outlined below under the heading of Smart Contracts.
-
-
 
 - [Agroforestry for Biomass Production - Benefiting Canadians](https://www.aftaweb.org/latest-newsletter/temporate-agroforester/97-2008-vol-17/april-no-1/74-agroforestry-for-biomass-production-benefiting-canadians.html)
 - [Practical example - heat and electricity at Scotston Farm](https://www.youtube.com/watch?v=i9xmWJ4hAGs)
