@@ -64,7 +64,7 @@ In Canada, given the vast amount of biomass available, the technology is promisi
 - [Commercial scale heat, electricity, and char](https://www.reset-energy.com/en/syngasmart-plants-use-cases-applications-and-benefits/)
 - [Farm scale 25kW heat, electricity, and char](https://www.allpowerlabs.com/products/product-overview)
 
-**Smart Contracts**: Smart (automated) contracts that help manage project capital, when combined with the technologies that are now reorganizing supply chains, could make agroforestry more cost competitive and thus lead to higher rates of carbon capture. The smart contract platforms that are energy efficient (i.e. do not rely on proof-of-work) are still in early development but they are likely to mature over the next decade given the large amounts of capital that has been flowing into that technology sector.  
+**Smart Contracts**: Smart (automated) contracts that help manage project capital, when combined with the technologies that are now reorganizing supply chains, has the potential to lower projects costs which could make agroforestry more cost competitive and lead to higher rates of carbon capture. The smart contract platforms that are energy efficient (i.e. do not rely on proof-of-work) are still in early development but they are likely to mature over the next decade given the large amounts of capital that has been flowing into that technology sector.  
 
 The paper listed below from the US Federal Reserve (St Louis), the OASIS Standards Body - Baseline Protocol, and the Ernst & Young blockchain intiative summarize the opportunities and tools that are most relevant to our agroforestry project. 
 
