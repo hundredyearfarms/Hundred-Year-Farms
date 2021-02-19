@@ -21,11 +21,11 @@ Our plan for that farm, as shown by the superposition of trees onto the sattelit
 
 Some reasons for our transition to agroforestry are listed below:
 
-- Productivity: Trees will reduce the higher wind speeds expected in the future and they will slow drainage from more extreme rainfall, both of which will help control soil erosion.  The lower wind speeds will also reduce damage to wind sensitive crops and, while increased tree shade will slow the growth of some crops, it will be beneficial to others as mid-afternoons become hotter. Waste tree and crop biomass will be used to provide lower cost and carbon negative heat, electricity, and char (carbon) for the greenhouses and soil.
+- Productivity: Trees will reduce the higher wind speeds expected in the future and they will slow drainage from more extreme rainfall, both of which will help control soil erosion.  The lower wind speeds will also reduce damage to wind sensitive crops and, while increased tree shade will slow the growth of some crops, it will be beneficial to others as mid-afternoons become hotter. 
 
 - Biodiversity: A more diverse mix of plants and wildlife will help mitigate climate induced pest, disease, and fire risks while also making the property more interesting to live on or visit.  
 
-- Diversify outputs: Investments will be made in greenhouses with trees providing higher value wood and fruit.  Work is leveled since much tree and greenhouse work can be done during times when field crops are not being harvested.  Net income is not expected to increase, but it should be more stable and more adaptable to change. 
+- Diversify outputs: Investments will be made in greenhouses and trees that provide higher value wood and fruit.  
   
 - Timing: High-value trees require a long lead-time to grow and should be planted before changes to climate make them more difficult to establish.  
 
@@ -47,7 +47,7 @@ This ability to scientifically record and then manage large amounts of agrofores
 
 **Cogeneration of heat, power, treated water, and fertilizer with carbon sinking**
 
-Small farm agroforestry produces woody biomass that, through gassification, can be used to produce heat (e.g. for greenhouses), electricity, treat water, and with some designs, produce fertilizer and [char](https://biochar-international.org/sustainability-climate-change/) (solid carbon) which can be used as a soil ammendment or sold as a [product](https://national-carbon.com/). A schematic showing design objectives for our application is shown below.
+Small farm agroforestry produces woody biomass that must be managed.  Through gassification, this biomass can be used to produce heat (e.g. for greenhouses), electricity, treat water, and with some designs, produce fertilizer and [char](https://biochar-international.org/sustainability-climate-change/) (solid carbon) which can be used as a soil ammendment or sold as a [product](https://national-carbon.com/). A schematic showing design objectives for our application is shown below.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/biogassifier2021-02-12.png" alt="Farm plan co-gen" width="400">
