@@ -43,7 +43,7 @@ Building Information Management (BIM) tools are being used for design of out-bui
 
 The main goal of BIM in our case, however, is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure). This is possible since industry is expanding the underlying BIM file system ([IFC5](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/)) to also include infrastructure and landscaping, thereby making it relevant to agroforestry.  The IFC5 standard should be especially useful in regions where it is used by local government for the surrounding public works (roads, drainage, other infrastructure). 
 
-This ability to scientifically record and then manage large amounts of agroforestry data using an open standard is of high value to this project and it may also prove useful to researchers studying, or modelling the performance of, urban and rural agroforestry systems that incorporate biomass energy and water treatment with carbon-sequestration.  This git repository will the workflow and FreeCAD/Blender models.
+This ability to scientifically record and then manage large amounts of agroforestry data using an open standard is of high value to this project and it may also prove useful to researchers modelling carbon negative agroforestry systems.  This git repository will the workflow and FreeCAD/Blender models.
 
 **Cogeneration of heat, power, treated water, and fertilizer with carbon sinking**
 
