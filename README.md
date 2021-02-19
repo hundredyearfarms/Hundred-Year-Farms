@@ -35,17 +35,17 @@ We are, or plan to, use these methods for managing our agroforesty practice.
 
 **BIM (Building Information Management)**
 
-Building Information Management (BIM) tools are being used for design of out-buildings (greenhouses, sheds, workshop, garage, ...) using simple sloped-roof buildings where possible.  A tool for converting a mark-down text document to a drawing suitable for costing (but not construction) is being used as illustrated below.
+Building Information Management (BIM) tools are being used for design of out-buildings (greenhouses, sheds, workshop, garage, ...) using simple sloped-roof buildings which can be combined to form larger buildings if needed.  A tool for converting a mark-down text document to a model suitable for costing (but not construction) is being developed as illustrated below.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/slopedRoofFromSpecSheet-githubReadme.png" alt="Farm plan co-gen" width="400">
 </p>
 
-While tools for building design are useful, the main goal of BIM in our case is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure). While BIM is often just associated with the design of buildings, industry is expanding the underlying BIM file system ([IFC5](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/)) to also include infrastructure and landscaping, thereby making it relevant to agroforestry (especially where the IFC standard is used by local government for the surrounding public works). 
+The main goal of BIM in our case, however, is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure). This is possible since industry is expanding the underlying BIM file system ([IFC5](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/)) to also include infrastructure and landscaping, thereby making it more relevant to agroforestry.  The IFC5 standard should be especially useful in regions where it is used by local government for the surrounding public works (roads, drainage, other infrastructure). 
 
 This ability to scientifically record and then manage large amounts of agroforestry data using an open standard is of high value to this project and it may also prove useful to researchers studying, or modelling the performance of, urban and rural agroforestry systems that incorporate biomass energy and water treatment with carbon-sequestration.  This git repository will the workflow and FreeCAD/Blender models.
 
-**Cogeneration of heat, power, fertilizer, and treated water with carbon sinking**
+**Cogeneration of heat, power, treated water, and fertilizer with carbon sinking**
 
 Small farm agroforestry produces woody biomass that, through gassification, can be used to produce heat (e.g. for greenhouses), electricity, treat water, and with some designs, produce fertilizer and [char](https://biochar-international.org/sustainability-climate-change/) (solid carbon) which can be used as a soil ammendment or sold as a [product](https://national-carbon.com/). A schematic showing design objectives for our application is shown below.
 
