@@ -33,7 +33,7 @@ We are, or plan to, use these methods for managing our agroforesty practice.
 
 **BIM (Building Information Management)**
 
-Building Information Management (BIM) tools are being used for design of out-buildings (greenhouses, sheds, workshop, garage, ...).  These use simple sloped-roof buildings that can be combined to form larger buildings if needed.  A tool for converting a mark-down text document to a model suitable for visualization and costing (but not construction) is illustrated below.
+Building Information Management (BIM) tools are being used for design of out-buildings (greenhouses, sheds, workshop, garage, ...).  These use simple sloped-roof buildings that can be combined to form larger buildings if needed.  For example, a tool for converting a mark-down text document to a model suitable for visualization and costing (but not construction) is illustrated below.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/slopedRoofFromSpecSheet-githubReadme.png" alt="Farm plan co-gen" width="500">
@@ -51,7 +51,7 @@ Small farm agroforestry produces large amounts of woody biomass that must be man
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/biogassifier2021-02-12.png" alt="Farm plan co-gen" width="400">
 </p>
 
-The technologies for converting biomass to energy and other products has received strong research and development support from governments where climate change is a priority since it is one of the very few that can realistically be carbon-negative, be deployed at scale, and become cost-effective.  A good summary of the research done in this area is provided by this [Energy and Environmental Science Article](https://pubs.rsc.org/en/content/articlepdf/2016/ee/c6ee00935b) from the Royal Society of Chemistry.
+The technologies for converting waste biomass to energy and other products has received strong research and development support from governments where climate change is a priority since it is one of the very few that can realistically be carbon-negative, be deployed at scale, and become cost-effective.  A good summary of the research done in this area is provided by this [Energy and Environmental Science Article](https://pubs.rsc.org/en/content/articlepdf/2016/ee/c6ee00935b) from the Royal Society of Chemistry.
 
 In Canada, given the vast amount of biomass available, the technology is promising but generally remains cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to the equipment itself, however, equipment may only account for about 1/3 of the total installed cost.  To reach cost targets, improvements may also need to be made to the way project capital is raised and managed with one promising way to do this outlined below under the heading of Smart Contracts.
 
