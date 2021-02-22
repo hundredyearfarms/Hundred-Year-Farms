@@ -21,9 +21,9 @@ Some reasons for our transition to agroforestry are listed below:
 
 - Productivity: Trees will reduce the higher wind speeds expected in the future and they will slow drainage from more extreme rainfall, both of which will help control soil erosion.  The lower wind speeds will also reduce damage to wind sensitive crops and, while increased tree shade will slow the growth of some crops, it will be beneficial to others as mid-afternoons become hotter. 
 
-- Biodiversity: A diverse mix of plants and wildlife will help mitigate climate induced pest, disease, and fire risks while making the property more interesting to live on or visit.  
+- Biodiversity: Mitigates climate induced pest and fire risks while making the property more interesting to live on or visit.  
 
-- Diversify outputs: Investments in greenhouses and higher-value trees can provide income independent of field crops.  
+- Diversify outputs: Greenhouses and higher-value trees can provide income independent of field crops.  
   
 - Timing: Higher-value trees should be planted before changes to climate make them more difficult to establish.  
 
