@@ -43,15 +43,13 @@ This ability to record and then visually manage large amounts of agroforestry da
 
 **Carbon negative cogeneration of heat, power, and treated water**
 
-Small farm agroforestry produces waste biomass that, through gassification, can be used to produce heat (e.g. for greenhouses), electricity, treated water, and with some designs, produce fertilizer and [char](https://biochar-international.org/sustainability-climate-change/) (solid carbon) which can be used as a soil ammendment or sold as a [product](https://national-carbon.com/). A schematic showing the long-term design objectives for our application that we are working towards is shown below.
+Small farm agroforestry produces waste biomass that, through gassification, can be used to produce heat (e.g. for greenhouses), electricity, treated water, and with some designs, fertilizer and [char](https://biochar-international.org/sustainability-climate-change/) (solid carbon) which can be used as a soil ammendment or sold as a [product](https://national-carbon.com/). A schematic showing the long-term design objectives for our application that we are working towards is shown below.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/biogassifier2021-02-12.png" alt="Farm plan co-gen" width="400">
 </p>
 
-These technologies for converting waste biomass to energy and other products have received strong research and development support from governments where climate change is a priority since it is one of the very few that can realistically be carbon-negative, be deployed at scale, and become cost-effective.  A good summary of the research done in this area is provided by this [Energy and Environmental Science Article](https://pubs.rsc.org/en/content/articlepdf/2016/ee/c6ee00935b) from the Royal Society of Chemistry.
-
-While the technology is promising, it generally remains cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to equipment and system design, however, to reach cost targets, improvements may also need to be made to the way project capital is raised and managed with one promising way to do this outlined below under the heading of Smart Contracts.
+The technologies for converting waste biomass to energy and products have received strong research and development support from governments where climate change is a priority.  This is because the technology is one of the very few that integrates with the natural environment, can realistically become carbon-negative, deployed at scale, and potentially provide all utility services in a sustainable manner.  A good summary of the research done in this area is provided by this [Energy and Environmental Science Article](https://pubs.rsc.org/en/content/articlepdf/2016/ee/c6ee00935b) from the Royal Society of Chemistry, with practical exmaples listed below.
 
 - [Agroforestry for Biomass Production - Benefiting Canadians](https://www.aftaweb.org/latest-newsletter/temporate-agroforester/97-2008-vol-17/april-no-1/74-agroforestry-for-biomass-production-benefiting-canadians.html)
 - [Practical example - heat and electricity at Scotston Farm](https://www.youtube.com/watch?v=i9xmWJ4hAGs)
@@ -60,15 +58,17 @@ While the technology is promising, it generally remains cost-prohibitive.  Some 
 - [Commercial scale heat, electricity, and char](https://www.reset-energy.com/en/syngasmart-plants-use-cases-applications-and-benefits/)
 - [Farm scale 25kW heat, electricity, and char](https://www.allpowerlabs.com/products/product-overview)
 
-**Smart Contracts**: Smart (automated) contracts that help manage project capital have the potential to lower projects costs and that could make agroforestry more cost competitive and, in turn, lead to higher rates of carbon sequestration. All of the smart contract platforms are still in early development and may require a decade or more to mature, however, in the meantime it is worth planning for their use given the potential for reducing system installed cost.  
+While the technology is promising, it generally remains cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to equipment and system design, but these reductions are likely to be marginal and slow.  A new opportunity for significant cost reduction through improvements to the way in which project capital is raised and managed has recently emerged and is described under the heading for Smart Contracts below.  We have been studying this opportunity for years and will continue to see if it can be used as our application develops.
 
-The paper listed below from the US Federal Reserve (St Louis), the OASIS Standards Body - Baseline Protocol, and the Ernst & Young blockchain intiative summarize the opportunities and tools that are being researched for application to our agroforestry project. 
+**Smart Contracts**: Smart (automated) contracts that help manage project capital have the potential to lower projects costs and that could make carbon-negative technologies more cost competitive and, in turn, lead to higher rates of carbon sequestration. All of the smart contract platforms are still in early development and may require a decade or more to mature, however, in the meantime it is worth planning for their use given their potential for reducing system installed cost.  
+
+The paper listed below from the US Federal Reserve (St Louis), the OASIS Standards Body - Baseline Protocol, and the Ernst & Young blockchain intiative summarize the opportunities and tools available. 
 
 - [US Federal Reserve - Smart Contract Research Report](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)
 - [OASIS Standards Body - Baseline Protocol for Smart Contracts](https://docs.baseline-protocol.org/baseline-protocol/architecture)
 - [Ernst & Younge Blockchain Initiative](https://blockchain.ey.com/)
 
-The diagram below illustrates where smart contracts may one day be implemented within the project process.
+The diagram below illustrates where we see smart contracts may one day be implemented within the project process.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/SMARTCONTRACTS.svg" alt="Smart Contract Cooperatives" width="800">
