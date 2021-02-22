@@ -41,17 +41,17 @@ Building Information Management (BIM) tools are being used for design of out-bui
 
 The main goal of BIM in our case, however, is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) using a 3D file system in which data is much easier to store, find, and analize when compared to using conventional 2D folder arrangements. This is possible since industry is expanding the underlying BIM file system for buildings to include to include ([infrastructure and landscaping](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/)), thereby making BIM relevant to agroforestry.  The IFC5 standard should be especially useful in regions where it is used by local government for the surrounding public works (roads, drainage, other infrastructure). 
 
-This ability to record and then manage large amounts of agroforestry data over decades, using an open standard, and in a way that can seamlessly transition to the next generation is of high value to this project and should also prove useful to researchers modelling carbon-negative agroforestry systems.  This git repository will hold the workflow and associated FreeCAD/Blender models.
+This ability to record and then manage large amounts of agroforestry data over decades, using an open standard, and in a way that can seamlessly transition to the next generation should prove useful as we work with consultants or researchers modelling carbon-negative agroforestry systems.  This git repository will hold the workflow and associated FreeCAD/Blender models.
 
-**Cogeneration of heat, power, treated water, and fertilizer with carbon sinking**
+**Carbon negative cogeneration of heat, power, and treated water**
 
-Small farm agroforestry produces large amounts of woody biomass that must be managed.  Through gassification, this biomass can be used to produce heat (e.g. for greenhouses), electricity, treat water, and with some designs, produce fertilizer and [char](https://biochar-international.org/sustainability-climate-change/) (solid carbon) which can be used as a soil ammendment or sold as a [product](https://national-carbon.com/). A schematic showing design objectives for our application is shown below.
+Small farm agroforestry produces large amounts of woody biomass that must be managed.  Through gassification, this biomass can be used to produce heat (e.g. for greenhouses), electricity, treated water, and with some designs, produce fertilizer and [char](https://biochar-international.org/sustainability-climate-change/) (solid carbon) which can be used as a soil ammendment or sold as a [product](https://national-carbon.com/). A schematic showing design objectives for our application is shown below.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/biogassifier2021-02-12.png" alt="Farm plan co-gen" width="400">
 </p>
 
-The technologies for converting biomass to energy and other products has received strong research and development support from most governments where climate change is a priority since it is one of the very few that can realistically be carbon-negative, be deployed at scale, and become cost-effective.  A good summary of the research done in this area is provided by this [Energy and Environmental Science Article](https://pubs.rsc.org/en/content/articlepdf/2016/ee/c6ee00935b) article from the Royal Society of Chemistry.
+The technologies for converting biomass to energy and other products has received strong research and development support from governments where climate change is a priority since it is one of the very few that can realistically be carbon-negative, be deployed at scale, and become cost-effective.  A good summary of the research done in this area is provided by this [Energy and Environmental Science Article](https://pubs.rsc.org/en/content/articlepdf/2016/ee/c6ee00935b) from the Royal Society of Chemistry.
 
 In Canada, given the vast amount of biomass available, the technology is promising but generally remains cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to the equipment itself, however, equipment may only account for about 1/3 of the total installed cost.  To reach cost targets, improvements will also need to be made to the way project capital is raised and managed with one promising way to do this outlined below under the heading of Smart Contracts.
 
@@ -62,7 +62,7 @@ In Canada, given the vast amount of biomass available, the technology is promisi
 - [Commercial scale heat, electricity, and char](https://www.reset-energy.com/en/syngasmart-plants-use-cases-applications-and-benefits/)
 - [Farm scale 25kW heat, electricity, and char](https://www.allpowerlabs.com/products/product-overview)
 
-**Smart Contracts**: Smart (automated) contracts that help manage project capital have the potential to lower projects costs and that could make agroforestry more cost competitive and lead to higher rates of carbon sequestration. All of the smart contract platforms are still in early development and may require a decade or more to mature, however, in the meantime it is worth planning for their potential use since they could prove to be highly effective.  
+**Smart Contracts**: Smart (automated) contracts that help manage project capital have the potential to lower projects costs and that could make agroforestry more cost competitive and, in turn, lead to higher rates of carbon sequestration. All of the smart contract platforms are still in early development and may require a decade or more to mature, however, in the meantime it is worth planning for their potential use since they could prove to be highly effective.  
 
 The paper listed below from the US Federal Reserve (St Louis), the OASIS Standards Body - Baseline Protocol, and the Ernst & Young blockchain intiative summarize the opportunities and tools that are being researched for application to our agroforestry project. 
 
@@ -70,7 +70,7 @@ The paper listed below from the US Federal Reserve (St Louis), the OASIS Standar
 - [OASIS Standards Body - Baseline Protocol for Smart Contracts](https://docs.baseline-protocol.org/baseline-protocol/architecture)
 - [Ernst & Younge Blockchain Initiative](https://blockchain.ey.com/)
 
-**Schedule**:  Described above is our project concept which, over the course of 2021, will continue to be refined with the help of various consultants.  Following that will be a feasibility review that considers the state of technology (e.g. gassification, smart contracts) as well as government regulations and carbon related tax treatments.  The feasibility review is not expected to change our concept for negative carbon agroforestry, but rather will tell us how quickly the above project can be implemented and which may end up being as fast as this decade or we may need to plan for a very gradual multi-generational transition over the next hundred years.  Following feasibility will be the preliminary designs, then the down-selected detailed design, and finally implementation.     
+**Schedule**:  Described above is our project concept which, over the course of 2021, will continue to be refined with the help of various consultants.  Following that will be a feasibility review that considers the state of technology (e.g. gassification, smart contracts) as well as government regulations and carbon related tax treatments.  The feasibility review is not expected to change our concept for negative carbon agroforestry, but rather will tell us how quickly the above project can be implemented and which may end up being within this decade or we may need to plan for a very gradual inter-generational transition.  Following feasibility will be the preliminary designs, then the down-selected detailed design, and finally implementation.     
 
 ## Owners
 
