@@ -8,8 +8,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="440.27267mm"
-   height="158.04648mm"
-   viewBox="0 0 440.2727 158.04649"
+   height="156.92148mm"
+   viewBox="0 0 440.2727 156.92149"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e81, 2020-09-07)"
@@ -563,17 +563,11 @@
          x="23.654564"
          y="177.45423"><tspan>amounts of capital in a short time.  This is, by far, the </tspan></tspan><tspan
          x="23.654564"
-         y="183.62785"><tspan>most common form of project financing.  However, it is </tspan></tspan><tspan
+         y="183.62785"><tspan>most common form of project financing, however, the </tspan></tspan><tspan
          x="23.654564"
-         y="189.80146"><tspan>heavily regulated since customers (users) and workers </tspan></tspan><tspan
+         y="189.80146"><tspan>Finance Management aspect of the organization is </tspan></tspan><tspan
          x="23.654564"
-         y="195.97508"><tspan>have no ownership or control and the large pool of </tspan></tspan><tspan
-         x="23.654564"
-         y="202.14869"><tspan>money under financial management can (and often has) </tspan></tspan><tspan
-         x="23.654564"
-         y="208.32231"><tspan>led to theft of investor funds.  The Finance Management </tspan></tspan><tspan
-         x="23.654564"
-         y="214.49592"><tspan>aspect of the organization is administratively expensive. </tspan></tspan></text>
+         y="195.97508"><tspan>administratively expensive. </tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:138.32;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -586,17 +580,11 @@
          x="172.2101"
          y="177.45423"><tspan>users which makes it harder to raise funds, but tends </tspan></tspan><tspan
          x="172.2101"
-         y="183.62785"><tspan>to produce more social benefits.  Good for mature </tspan></tspan><tspan
+         y="183.62785"><tspan>to produce more social benefits.  Many electric utilities </tspan></tspan><tspan
          x="172.2101"
-         y="189.80146"><tspan>technology projects requiring little innovation. Many </tspan></tspan><tspan
+         y="189.80146"><tspan>in the US are organized in this way.   Finance </tspan></tspan><tspan
          x="172.2101"
-         y="195.97508"><tspan>electric utilities in the US are organized in this way.   </tspan></tspan><tspan
-         x="172.2101"
-         y="202.14869"><tspan>Since a large pool of money is still created, it also </tspan></tspan><tspan
-         x="172.2101"
-         y="208.32231"><tspan>requires a great deal of regulation to prevent theft and </tspan></tspan><tspan
-         x="172.2101"
-         y="214.49592"><tspan>this also means substantial administrative overhead.  </tspan></tspan></text>
+         y="195.97508"><tspan>Management is administratively expensive.  </tspan></tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.365;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect2162"
@@ -760,16 +748,14 @@
          y="171.28062"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">SC Cooperative</tspan><tspan>: Similar to the cooperative, </tspan></tspan><tspan
          x="321.96417"
-         y="177.45423"><tspan>only there is no large pool of money, hence the </tspan></tspan><tspan
+         y="177.45423"><tspan>only with a Smart Contract (SC) automating </tspan></tspan><tspan
          x="321.96417"
-         y="183.62785"><tspan>need for regulation and the potential for theft is </tspan></tspan><tspan
+         y="183.62785"><tspan>much of the financial management.  This </tspan></tspan><tspan
          x="321.96417"
-         y="189.80146"><tspan>reduced.  Automating the financial management </tspan></tspan><tspan
+         y="189.80146"><tspan>automation has the potential to increase </tspan></tspan><tspan
          x="321.96417"
-         y="195.97508"><tspan>cost component has the potential to increase </tspan></tspan><tspan
+         y="195.97508"><tspan>organizational efficiency and thereby deliver </tspan></tspan><tspan
          x="321.96417"
-         y="202.14869"><tspan>organizational efficiency and thereby deliver </tspan></tspan><tspan
-         x="321.96417"
-         y="208.32231"><tspan>products at a lower cost.</tspan></tspan></text>
+         y="202.14869"><tspan>products at a lower cost.</tspan></tspan></text>
   </g>
 </svg>
