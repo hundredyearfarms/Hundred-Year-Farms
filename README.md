@@ -60,21 +60,21 @@ The technologies for converting waste biomass to energy and products have receiv
 
 While the technology is promising, it generally remains cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to equipment and system design, but these reductions are likely to be marginal and slow.  A new opportunity for significant cost reduction through improvements to the way in which project capital is raised and managed has recently emerged and is described under the heading for Smart Contracts below.  We have been studying this opportunity for years and will continue to see if it can be used as our application develops.
 
-**Smart Contracts**: Smart (automated) contracts that help manage project capital have the potential to lower projects costs and that could make carbon-negative technologies more cost competitive and, in turn, lead to higher rates of carbon sequestration. All of the smart contract platforms are still in early development and may require a decade or more to mature, however, in the meantime it is worth planning for their use given their potential for reducing system installed cost.  
+**Smart Contracts**: Smart (automated) contracts that help manage project capital have the potential to lower projects costs and that could make carbon-negative technologies more cost competitive. All of the smart contract platforms are still in early development and may require a decade or more to mature, however, in the meantime it is worth planning for their use given their potential for reducing system cost.  
 
-The paper listed below from the US Federal Reserve (St Louis), the OASIS Standards Body - Baseline Protocol, and the Ernst & Young blockchain intiative summarize the opportunities and tools available. 
+The paper listed below from the US Federal Reserve (St Louis), the OASIS Standards Body - Baseline Protocol, and the Ernst & Young blockchain intiative summarize the opportunities and tools most relevant to our project. 
 
 - [US Federal Reserve - Smart Contract Research Report](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)
 - [OASIS Standards Body - Baseline Protocol for Smart Contracts](https://docs.baseline-protocol.org/baseline-protocol/architecture)
 - [Ernst & Younge Blockchain Initiative](https://blockchain.ey.com/)
 
-The diagram below illustrates where we see smart contracts may one day be implemented within the project process.
+The diagram below illustrates where we see smart contracts being implemented within the project process.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/SMARTCONTRACTS.svg" alt="Smart Contract Cooperatives" width="800">
 </p>
 
-**Schedule**:  Described above is our project concept which, over the course of 2021, will be refined with the help of consultants.  Following that will be a feasibility review that considers the state of technology (e.g. gassification, smart contracts) as well as government regulations and carbon related tax treatments.  The feasibility review is not expected to change our overall concept for carbon-negative agroforestry, but rather will tell us how quickly the above project can be implemented.  That implemenation very well may end up being within this decade or we may need to plan for a very gradual inter-generational transition to carbon-negative agroforestry.  Following feasibility will be the preliminary designs, then the down-selected detailed design, then implementation.     
+**Schedule**:  Described above is our project concept which, over the course of 2021, will be refined with the help of consultants.  Following that will be a feasibility review that considers the state of technology (e.g. gassification, smart contracts) as well as government regulations and carbon related tax treatments.  The feasibility review is not expected to change our overall concept for carbon-negative agroforestry, but rather will tell us how quickly the above project can be implemented and the scope of our activities.  That implemenation very well may end up being within this decade or we may need to plan for a very gradual inter-generational transition to carbon-negative agroforestry.  Following feasibility will be the preliminary designs, then the down-selected detailed design, then implementation.     
 
 ## Owners
 
