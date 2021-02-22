@@ -58,7 +58,7 @@ The technologies for converting waste biomass to energy and products have receiv
 - [Commercial scale heat, electricity, and char](https://www.reset-energy.com/en/syngasmart-plants-use-cases-applications-and-benefits/)
 - [Farm scale 25kW heat, electricity, and char](https://www.allpowerlabs.com/products/product-overview)
 
-While the technology is promising, it generally remains cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to equipment and system design, but these reductions are likely to be marginal and slow.  A new opportunity for significant cost reduction through improvements to the way in which project capital is raised and managed has recently emerged and is described under the heading for Smart Contracts below.  We have been studying this opportunity for years and will continue to see if it can be used as our application develops.
+While the technology is promising, it generally remains cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to equipment and system design, but these reductions are likely to be marginal and slow.  A new opportunity for significant cost reduction through improvements to the way in which project capital is raised and managed has recently emerged and is described under the heading for Smart Contracts below.  We have been studying this opportunity for several years and will continue to see if it can be used as our application develops.
 
 **Smart Contracts**: Smart (automated) contracts could be used to help manage project capital and that could make carbon-negative technologies more cost competitive. The paper listed below from the US Federal Reserve (St Louis), the OASIS Standards Body - Baseline Protocol, and the Ernst & Young blockchain intiative summarize the opportunities and tools most relevant to our project. 
 
@@ -71,7 +71,8 @@ The diagram below illustrates where we see smart contracts being implemented wit
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/SMARTCONTRACTS.svg" alt="Smart Contract Cooperatives" width="800">
 </p>
-All of the smart contract platforms are still in early development and may require a decade or more to mature and become widespread, but they are far enough along today to begin serious evaluation of their potential in project work.  
+
+Note: All of the smart contract platforms are still in early development and may require a decade or more to mature and become widespread. 
 
 **Schedule**:  Described above is our project concept which, over the course of 2021, will be refined with the help of consultants.  Following that will be a feasibility review that considers the state of technology (e.g. gassification, smart contracts) as well as government regulations and carbon related tax treatments.  The feasibility review is not expected to change our overall concept for carbon-negative agroforestry, but rather will tell us how quickly the above project can be implemented and the scope of our activities.  That implemenation very well may end up being within this decade or we may need to plan for a very gradual inter-generational transition to carbon-negative agroforestry.  Following feasibility will be the preliminary designs, then the down-selected detailed design, then implementation.     
 
