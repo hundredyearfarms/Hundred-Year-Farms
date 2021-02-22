@@ -45,13 +45,13 @@ This ability to record and then visually manage large amounts of agroforestry da
 
 **Carbon negative cogeneration of heat, power, and treated water**
 
-Small farm agroforestry produces waste biomass that, through gassification, can be used to produce heat (e.g. for greenhouses), electricity, treated water, and with some designs, produce fertilizer and [char](https://biochar-international.org/sustainability-climate-change/) (solid carbon) which can be used as a soil ammendment or sold as a [product](https://national-carbon.com/). A schematic showing the long-term design objectives for our application is shown below.
+Small farm agroforestry produces waste biomass that, through gassification, can be used to produce heat (e.g. for greenhouses), electricity, treated water, and with some designs, produce fertilizer and [char](https://biochar-international.org/sustainability-climate-change/) (solid carbon) which can be used as a soil ammendment or sold as a [product](https://national-carbon.com/). A schematic showing the long-term design objectives for our application that will work towards is shown below.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/biogassifier2021-02-12.png" alt="Farm plan co-gen" width="400">
 </p>
 
-The technologies for converting waste biomass to energy and other products has received strong research and development support from governments where climate change is a priority since it is one of the very few that can realistically be carbon-negative, be deployed at scale, and become cost-effective.  A good summary of the research done in this area is provided by this [Energy and Environmental Science Article](https://pubs.rsc.org/en/content/articlepdf/2016/ee/c6ee00935b) from the Royal Society of Chemistry.
+These technologies for converting waste biomass to energy and other products have received strong research and development support from governments where climate change is a priority since it is one of the very few that can realistically be carbon-negative, be deployed at scale, and become cost-effective.  A good summary of the research done in this area is provided by this [Energy and Environmental Science Article](https://pubs.rsc.org/en/content/articlepdf/2016/ee/c6ee00935b) from the Royal Society of Chemistry.
 
 In Canada the technology is promising but generally remains cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to equipment and system design, however, to reach cost targets, improvements may also need to be made to the way project capital is raised and managed with one promising way to do this outlined below under the heading of Smart Contracts.
 
