@@ -15,17 +15,17 @@ Our plan for that farm, as shown by the superposition of trees onto the sattelit
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/IFCSite-FarmProposedTrees.png" alt="Farm plan - tree overlay" width="500">
 </p>
 
-<u>Image</u>: *Proposed new trees and storm-water collection pond laid over a sattelite image of the existing property on Prince Edward Island (gradient lines show how the land slopes toward the south where surface run-off water collects). A - water erosion down the centre of this field is already evident, but can be controlled by the new rows of trees that follow field contours. B - this prior clear-cut will be diversified to a range of native tree species. C - there will be relatively little change to this field apart from re-aligning the existing windbreak so it follows natural contours and then adding a second row at the lowest and steepest part of the field. D - Greenhouse.  Note that the proposed changes will be gradual and are likely to take decades to complete.*
+<u>Image</u>: *Proposed new trees and storm-water collection pond laid over a sattelite image of the existing property on Prince Edward Island (gradient lines show how the land slopes toward the south where surface run-off water can be collected). A - water erosion down the centre of this field is already evident, but can be controlled by the new rows of trees that follow field contours. B - this prior clear-cut will be diversified to a range of native tree species. C - there will be relatively little change to this field apart from re-aligning the existing windbreak so it follows natural contours and then adding a second row at the lowest and steepest part of the field. D - Greenhouse.  Note that the proposed changes will be gradual and may take decades to complete.*
 
 Some reasons for our transition to agroforestry are listed below:
 
 - Productivity: Trees will reduce the higher wind speeds expected in the future and they will slow drainage from more extreme rainfall, both of which will help control soil erosion.  The lower wind speeds will also reduce damage to wind sensitive crops and, while increased tree shade will slow the growth of some crops, it will be beneficial to others as mid-afternoons become hotter. 
 
-- Biodiversity: A more diverse mix of plants and wildlife will help mitigate climate induced pest, disease, and fire risks while also making the property more interesting to live on or visit.  
+- Biodiversity: A diverse mix of plants and wildlife will help mitigate climate induced pest, disease, and fire risks while making the property more interesting to live on or visit.  
 
-- Diversify outputs: Investments will be made in greenhouses and higher-value trees that can provide income independent of field crops.  
+- Diversify outputs: Investments in greenhouses and higher-value trees can provide income independent of field crops.  
   
-- Timing: Higher-value trees require a long lead-time to grow and should be planted before changes to climate make them more difficult to establish.  
+- Timing: Higher-value trees should be planted before changes to climate make them more difficult to establish.  
 
 ## Management
 
