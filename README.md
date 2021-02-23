@@ -1,13 +1,13 @@
 ## Overview
 
-Hundred Year Farms refers to two small farm properties (each about 43 acres); one on Prince Edward Island and the other in Manitoba. For both farms our plan is to make a gradual transition to Agroforestry.  Agroforesty involves the planting of crops, including grains, fruits, or vegetables, between rows of trees.  We believe that, over the long-term, this type of farming can be made so that it becomes carbon-negative, rebuilds topsoil, and maintains habitat even as climate changes. That, in turn, should lead to higher long-term asset values than would otherwise be the case, while making the farms more interesting and more enjoyable to visit for the next 100 years.
+Hundred Year Farms refers to two small farm properties (each about 43 acres); one on Prince Edward Island and the other in Manitoba. For both farms our plan is to make a gradual transition to Agroforestry.  Agroforesty involves the planting of crops, including grains, fruits, or vegetables, between rows of trees.  We believe that, over the long-term, this type of farming can be made so that it becomes carbon-negative while rebuilding topsoil and maintaining habitat. That, in turn, should lead to higher long-term asset values than would otherwise be the case and make the farms more interesting to visit for the next 100 years.
 
 - [What is agroforestry?](https://www.aftaweb.org/)
 - [Agroforestry - Canada](https://www.agr.gc.ca/eng/agriculture-and-climate/agricultural-practices/agroforestry/?id=1177431400694), [Agroforestry - UK](https://www.agforward.eu/index.php/en/silvoarable-agroforestry-in-the-uk.html), [Agroforestry - EU](https://euraf.isa.utl.pt/welcome), [Agroforestry - US](https://www.usda.gov/topics/forestry/agroforestry)
 
 ## Farm Plan (PEI)
 
-Our plan for the island farm, as shown by the superposition of trees onto the sattelite image below, is to plant strong wind-break trees along the uppermost ridge with the trees and crops that require more sunlight and wind protection located lower on the farm's south sloping land. The existing trees are a near single species of spruce resulting from a prior clear-cut, but the new trees will be a diverse mix that may include maple, oak, poplar, birch, hemlock, and apple, among others.  The trees in rows will be arranged to allow for selective harvesting while some blocks will be left to grow unmanaged.  
+Our plan for the island farm, as shown by the superposition of trees onto the sattelite image below, is to plant strong wind-break trees along the uppermost ridge with the trees and crops that require more sunlight and wind protection located lower on the farm's south sloping land. The existing trees are a near single species of spruce resulting from a prior clear-cut, but the new trees will be a more diverse mix that may include maple, oak, poplar, birch, hemlock, and apple, among others.  The trees in rows will be arranged to allow for selective harvesting while some blocks will be left to grow unmanaged.  
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/IFCSite-FarmProposedTrees.png" alt="Farm plan - tree overlay" width="500">
@@ -17,11 +17,11 @@ Our plan for the island farm, as shown by the superposition of trees onto the sa
 
 Some reasons for our transition to agroforestry are listed below:
 
-- Productivity: Trees will reduce the higher wind speeds expected in the future and they will slow drainage from more extreme rainfall, both of which will help control soil erosion.  The lower wind speeds will also reduce damage to wind sensitive crops and, while increased tree shade will slow the growth of some crops, it will be beneficial to others as mid-afternoons become hotter. 
-
+- Productivity: Trees in rows will reduce the higher wind speeds expected in the future and they will slow drainage from more extreme rainfall, both of which will help control soil erosion.  
+ 
 - Biodiversity: Mitigates climate induced pest and fire risks while making the property more interesting to live on or visit.  
 
-- Diversified outputs: Greenhouses and higher-value trees can provide income independent of field crops.  
+- Diversified outputs: Greenhouses and higher-value trees can provide income independent of the field crop.  
   
 - Timing: Higher-value trees should be planted before changes to climate make them more difficult to establish.  
 
@@ -31,25 +31,25 @@ We are, or plan to, use these methods for managing our agroforesty practice.
 
 **BIM (Building Information Management)**
 
-Building Information Management (BIM) tools are being used for design of out-buildings (greenhouses, sheds, workshop, garage, ...).  These use sloped-roof buildings that can be combined to form larger buildings if needed.  For example, a tool for quickly converting a simple mark-down text document to a model suitable for visualization and costing (but not construction) is illustrated below.
+Building Information Management (BIM) tools are being used for design of out-buildings (greenhouses, sheds, workshop, garage, ...).  These use sloped-roof buildings that can be combined to form larger buildings if needed.  For example, one of the tools we use can quickly convert a simple mark-down text document to a model suitable for visualization and costing (but not construction) as illustrated below.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/slopedRoofFromSpecSheet-githubReadme.png" alt="Farm plan co-gen" width="500">
 </p>
 
-The main goal of BIM in our case, however, is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) using a 3D file system.  This makes large collections of data easier to store, find, and analize when compared to using conventional 2D folder arrangements. The use of BIM in this manner is now possible due to industry expanding the underlying BIM file system from buildings to include ([infrastructure and landscaping](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/)).  The IFC5 standard should be especially useful in regions where it is used by local government for the surrounding public works (roads, drainage, other infrastructure). 
+The main goal of BIM in our case, however, is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) using a 3D file system.  This makes large collections of data easier to store, find, and analize when compared to using conventional 2D folder arrangements. The use of BIM in this manner is possible due to industry expanding the underlying BIM file system from buildings to include ([infrastructure and landscaping](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/)) which is applicable to agroforestry.  The IFC5 standard should be especially useful in regions where it is used by local government for the surrounding public works (roads, drainage, other infrastructure). 
 
-This ability to record and then visually manage large amounts of agroforestry data over decades, using an open standard, and in a way that can transition to the next generation should prove useful as we work with consultants or with researchers modelling carbon-negative agroforestry systems.  This git repository will hold the workflow and associated FreeCAD/Blender models.
+This ability to record and then visually manage large amounts of agroforestry data over decades, using an open standard, and in a way that can transition to the next generation, should prove useful as we work with consultants or with researchers modelling carbon-negative agroforestry systems.  This git repository will hold the workflow and associated FreeCAD/Blender models as they develop.
 
 **Carbon negative cogeneration of heat, power, and treated water**
 
-Small farm agroforestry produces waste biomass that, through gassification, can be used to produce heat (e.g. for greenhouses), gas, electricity, treated water, and with some designs, fertilizer and [char](https://biochar-international.org/sustainability-climate-change/) (solid carbon) which can be used as a soil ammendment or sold as a [product](https://national-carbon.com/). A schematic showing the long-term design objectives for our application is shown below.
+Small farm agroforestry produces waste biomass that must be managed.  Through gassification this waste can be used to produce heat (e.g. for greenhouses), gas, electricity, treated water, and with some designs, fertilizer and [char](https://biochar-international.org/sustainability-climate-change/) (solid carbon) which can be used as a soil ammendment or sold as a [product](https://national-carbon.com/). A schematic showing the long-term design objectives for our application is shown below.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/biogassifier2021-02-12.png" alt="Farm plan co-gen" width="400">
 </p>
 
-The technologies for converting waste biomass to energy and products have received strong research and development support from governments where climate change is a priority.  This is because the technology is one of the very few that integrates with the natural environment, can realistically become carbon-negative, deployed at scale, and potentially provide all utility services in a sustainable manner.  A good summary of the research done in this area is provided by this [Energy and Environmental Science Article](https://pubs.rsc.org/en/content/articlepdf/2016/ee/c6ee00935b) from the Royal Society of Chemistry, with practical examples listed below.
+The technologies for using waste farm biomass to provide utility services have received strong research and development support from governments where climate change is a priority.  This is because the technology is one of the very few that integrates with the natural environment, can realistically become carbon-negative, be deployed at scale, and potentially provide all utility services in a sustainable manner.  A good summary of the technology is provided by this [Energy and Environmental Science Article](https://pubs.rsc.org/en/content/articlepdf/2016/ee/c6ee00935b) from the Royal Society of Chemistry, with practical examples of use listed below.
 
 - [Agroforestry for Biomass Production - Benefiting Canadians](https://www.aftaweb.org/latest-newsletter/temporate-agroforester/97-2008-vol-17/april-no-1/74-agroforestry-for-biomass-production-benefiting-canadians.html)
 - [Practical example - heat and electricity at Scotston Farm](https://www.youtube.com/watch?v=i9xmWJ4hAGs)
@@ -58,7 +58,7 @@ The technologies for converting waste biomass to energy and products have receiv
 - [Commercial scale heat, electricity, and char](https://www.reset-energy.com/en/syngasmart-plants-use-cases-applications-and-benefits/)
 - [Farm scale 25kW heat, electricity, and char](https://www.allpowerlabs.com/products/product-overview)
 
-While the technology is promising, it generally remains cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to equipment and system design, but these reductions are likely to be marginal and slow.  A new opportunity for more significant cost reduction has recently emerged through improvements to the way in which project capital is raised and managed. We have been studying this opportunity for several years and will continue to see if it can be used as our application develops.
+While the technology is proven, it generally remains cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to equipment and system design, but these reductions are likely to be marginal and slow.  A new opportunity for more significant cost reduction has recently emerged through Smart Contract technology that could improveme the way in which project capital is raised and managed. We have been studying this opportunity for several years and are adapting it as our application develops.
 
 **Smart Contracts**: Smart (automated) contracts could be used to help manage project capital and that could make carbon-negative technologies more cost competitive. The paper listed below from the US Federal Reserve (St Louis), the OASIS Standards Body - Baseline Protocol, and the Ernst & Young blockchain intiative summarize the opportunities and tools most relevant to our project. 
 
