@@ -31,7 +31,7 @@ We are, or plan to, use these methods for managing our agroforesty practice.
 
 **BIM (Building Information Management)**
 
-Building Information Management (BIM) tools are being used for design of out-buildings (greenhouses, sheds, workshop, garage, ...).  These use sloped-roof buildings that can be combined to form larger buildings if needed.  For example, one of the tools we use can quickly convert a simple mark-down text document to a model suitable for visualization and costing (but not construction) as illustrated below.
+Building Information Management (BIM) tools are being used for design of out-buildings (greenhouses, sheds, workshop, garage, ...).  These use sloped-roof buildings that can be combined to form larger buildings if needed.  For example, one of the tools we use can quickly convert a simple mark-down text document to a model suitable for visualization and costing as illustrated below.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/slopedRoofFromSpecSheet-githubReadme.png" alt="Farm plan co-gen" width="500">
@@ -39,7 +39,7 @@ Building Information Management (BIM) tools are being used for design of out-bui
 
 The main goal of BIM in our case, however, is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) using a 3D file system.  This makes large collections of data easier to store, find, and analize when compared to using conventional 2D folder arrangements. The use of BIM in this manner is possible due to industry expanding the underlying BIM file system from buildings to include ([infrastructure and landscaping](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/)) which is applicable to agroforestry.  The IFC5 standard should be especially useful in regions where it is used by local government for the surrounding public works (roads, drainage, other infrastructure). 
 
-This ability to record and then visually manage large amounts of agroforestry data over decades, using an open standard, and in a way that can transition to the next generation, should prove useful as we work with consultants or with researchers modelling carbon-negative agroforestry systems.  This git repository will hold the workflow and associated FreeCAD/Blender models as they develop.
+This ability to record and then visually manage large amounts of farm agroforestry data over decades, using an open standard, and in a way that can be used and understood by the next generation should prove useful as we work with consultants or with researchers modelling carbon-negative agroforestry systems.  This git repository will hold the workflow and associated FreeCAD/Blender models as they develop.
 
 **Carbon negative cogeneration of heat, power, and treated water**
 
