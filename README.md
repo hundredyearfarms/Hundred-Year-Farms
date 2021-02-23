@@ -69,7 +69,7 @@ Of these two, the smart (automated) contracts are likely to be the most importan
 - [OASIS Standards Body - Baseline Protocol for Smart Contracts](https://docs.baseline-protocol.org/baseline-protocol/architecture)
 - [Ernst & Younge Blockchain Initiative](https://blockchain.ey.com/)
 
-The diagram below illustrates where we see smart contracts lowering cost by removing costs associated with obtaining and administering capital.
+The diagram below illustrates where we see smart contracts lowering cost by removing administrative overhead.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/SMARTCONTRACTS.svg" alt="Smart Contract Cooperatives" width="800">
