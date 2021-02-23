@@ -60,8 +60,8 @@ The technologies for using waste farm biomass to provide utility services have r
 
 While the technology is proven, it generally remains cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to equipment, but these reductions are likely to be marginal and slow.  The more significant cost reduction opportunities are likely to be those from:
 
-1) improved system integration: increasing value by providing all utility services as illustrated above. 
-2) improved project delivery using the emerging Smart Contract platforms (i.e. lowering the cost of capital and administrative overhead). 
+1) Improved system integration that increases value by providing all utility services as illustrated above. 
+2) Improved project delivery using the emerging Smart Contract platforms (i.e. lowering the cost of capital and administrative overhead). 
 
 Of these two, the smart (automated) contracts are likely to be the most important and, if successful, could make carbon-negative technologies more cost competitive and thus increase the rate of carbon sequestration. The paper listed below from the US Federal Reserve (St Louis), the OASIS Standards Body - Baseline Protocol, and the Ernst & Young blockchain intiative summarize the opportunities and tools most relevant to our project. 
 
@@ -69,13 +69,13 @@ Of these two, the smart (automated) contracts are likely to be the most importan
 - [OASIS Standards Body - Baseline Protocol for Smart Contracts](https://docs.baseline-protocol.org/baseline-protocol/architecture)
 - [Ernst & Younge Blockchain Initiative](https://blockchain.ey.com/)
 
-The diagram below illustrates where we see smart contracts lowering cost by removing administrative overhead.
+The diagram below illustrates where we see smart contracts lowering cost by removing administrative overhead, especially for smaller projects that are most effectively managed through a cooperative.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/SMARTCONTRACTS.svg" alt="Smart Contract Cooperatives" width="800">
 </p>
 
-Note: All of the smart contract platforms are still in early development and may require a decade or more to mature and become widespread. 
+Note: The smart contract platforms are still in early development, but are far enough along to plan for their use in project work. 
 
 **Schedule**:  Described above is our project concept which, over the course of 2021, will be refined with the help of consultants.  Following that will be a feasibility review that considers the state of technology (e.g. gassification, smart contracts) as well as government regulations and carbon related tax treatments.  The feasibility review is not expected to change our overall concept for carbon-negative agroforestry, but rather will tell us how quickly the greenhouse integrated co-generation system can be implemented and the scope of our activities (system integration or, if neccesary, component fabricator).  That implemenation very well may end up being within this decade or we may need to plan for a very gradual inter-generational transition to carbon-negative agroforestry.  Following feasibility will be the preliminary designs, then the down-selected detailed design, then implementation.     
 
