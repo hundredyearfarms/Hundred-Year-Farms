@@ -43,7 +43,7 @@ This ability to record and then visually manage large amounts of agroforestry da
 
 **Carbon negative cogeneration of heat, power, and treated water**
 
-Small farm agroforestry produces waste biomass that, through gassification, can be used to produce heat (e.g. for greenhouses), gas, electricity, treated water, and with some designs, fertilizer and [char](https://biochar-international.org/sustainability-climate-change/) (solid carbon) which can be used as a soil ammendment or sold as a [product](https://national-carbon.com/). A schematic showing the long-term design objectives for our application that we are working towards is shown below.
+Small farm agroforestry produces waste biomass that, through gassification, can be used to produce heat (e.g. for greenhouses), gas, electricity, treated water, and with some designs, fertilizer and [char](https://biochar-international.org/sustainability-climate-change/) (solid carbon) which can be used as a soil ammendment or sold as a [product](https://national-carbon.com/). A schematic showing the long-term design objectives for our application is shown below.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/biogassifier2021-02-12.png" alt="Farm plan co-gen" width="400">
@@ -58,7 +58,7 @@ The technologies for converting waste biomass to energy and products have receiv
 - [Commercial scale heat, electricity, and char](https://www.reset-energy.com/en/syngasmart-plants-use-cases-applications-and-benefits/)
 - [Farm scale 25kW heat, electricity, and char](https://www.allpowerlabs.com/products/product-overview)
 
-While the technology is promising, it generally remains cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to equipment and system design, but these reductions are likely to be marginal and slow.  A new opportunity for significant cost reduction through improvements to the way in which project capital is raised and managed has recently emerged and is described under the heading for Smart Contracts below.  We have been studying this opportunity for several years and will continue to see if it can be used as our application develops.
+While the technology is promising, it generally remains cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to equipment and system design, but these reductions are likely to be marginal and slow.  A new opportunity for more significant cost reduction has recently emerged through improvements to the way in which project capital is raised and managed. We have been studying this opportunity for several years and will continue to see if it can be used as our application develops.
 
 **Smart Contracts**: Smart (automated) contracts could be used to help manage project capital and that could make carbon-negative technologies more cost competitive. The paper listed below from the US Federal Reserve (St Louis), the OASIS Standards Body - Baseline Protocol, and the Ernst & Young blockchain intiative summarize the opportunities and tools most relevant to our project. 
 
