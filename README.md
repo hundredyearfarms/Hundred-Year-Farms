@@ -58,15 +58,18 @@ The technologies for using waste farm biomass to provide utility services have r
 - [Commercial scale heat, electricity, and char](https://www.reset-energy.com/en/syngasmart-plants-use-cases-applications-and-benefits/)
 - [Farm scale 25kW heat, electricity, and char](https://www.allpowerlabs.com/products/product-overview)
 
-While the technology is proven, it generally remains cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to equipment and system design, but these reductions are likely to be marginal and slow.  A new opportunity for more significant cost reduction has recently emerged through Smart Contract technology that could improveme the way in which project capital is raised and managed. We have been studying this opportunity for several years and are adapting it as our application develops.
+While the technology is proven, it generally remains cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to equipment, but these reductions are likely to be marginal and slow.  The more significant cost reduction opportunities are likely to be those from:
 
-**Smart Contracts**: Smart (automated) contracts could be used to help manage project capital and that could make carbon-negative technologies more cost competitive. The paper listed below from the US Federal Reserve (St Louis), the OASIS Standards Body - Baseline Protocol, and the Ernst & Young blockchain intiative summarize the opportunities and tools most relevant to our project. 
+1) improved system integration: increasing value by providing all utility services as illustrated above. 
+2) improved project delivery using the emerging Smart Contract platforms (i.e. lowering the cost of capital and administrative overhead). 
+
+Of these two, the smart (automated) contracts are likely to be the most important and, if successful, could make carbon-negative technologies more cost competitive and thus increase the rate of carbon sequestration. The paper listed below from the US Federal Reserve (St Louis), the OASIS Standards Body - Baseline Protocol, and the Ernst & Young blockchain intiative summarize the opportunities and tools most relevant to our project. 
 
 - [US Federal Reserve - Smart Contract Research Report](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)
 - [OASIS Standards Body - Baseline Protocol for Smart Contracts](https://docs.baseline-protocol.org/baseline-protocol/architecture)
 - [Ernst & Younge Blockchain Initiative](https://blockchain.ey.com/)
 
-The diagram below illustrates where we see smart contracts being implemented within the project process.
+The diagram below illustrates where we see smart contracts lowering cost by removing costs associated with obtaining and administering capital.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/SMARTCONTRACTS.svg" alt="Smart Contract Cooperatives" width="800">
