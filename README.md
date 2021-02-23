@@ -61,7 +61,7 @@ The technologies for using waste wood and crop biomass to provide utility servic
 While the technology is proven, it generally remains cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to equipment, but these reductions are likely to be marginal and slow.  The more significant cost reduction opportunities are likely to be those from:
 
 1) Improved system integration that increases value by providing all utility services as illustrated above. 
-2) Improved project delivery using the emerging Smart Contract platforms (i.e. lowering the cost of capital and administrative overhead). 
+2) Improved project delivery using Smart Contract platforms (i.e. lowering the cost of capital and administrative overhead). 
 
 Of these two, the smart (automated) contracts are likely to be the most important and, if successful, could make carbon-negative technologies more cost competitive and thus increase the rate of carbon sequestration. The paper listed below from the US Federal Reserve (St Louis), the OASIS Standards Body - Baseline Protocol, and the Ernst & Young blockchain intiative summarize the opportunities and tools most relevant to our project. 
 
