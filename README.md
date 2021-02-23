@@ -41,7 +41,7 @@ The main goal of BIM in our case, however, is to manage the farm's asset data ov
 
 This ability to record and then visually manage large amounts of farm agroforestry data over decades, using an open standard, and in a way that can be used and understood by the next generation should prove useful as we work with consultants or with researchers modelling carbon-negative agroforestry systems.  This git repository will hold the workflow and associated FreeCAD/Blender models as they develop.
 
-**Carbon negative cogeneration of heat, power, and treated water**
+**Carbon-negative cogeneration of heat, power, and treated water**
 
 Small farm agroforestry produces waste biomass that must be managed.  Through gassification this waste can be used to produce heat (e.g. for greenhouses), gas, electricity, treated water, and with some designs, fertilizer and [char](https://biochar-international.org/sustainability-climate-change/) (solid carbon) which can be used as a soil ammendment or sold as a [product](https://national-carbon.com/). A schematic showing the long-term design objectives for our greenhouse integrated application is shown below.
 
@@ -77,7 +77,9 @@ The diagram below illustrates where we see smart contracts lowering cost by remo
 
 Note: The smart contract platforms are still in early development, but are far enough along to plan for their use in project work. 
 
-**Schedule**:  Described above is our project concept which, over the course of 2021, will be refined with the help of consultants.  Following that will be a feasibility review that considers the state of technology (e.g. gassification, smart contracts) as well as government regulations and carbon related tax treatments.  The feasibility review is not expected to change our overall concept for carbon-negative agroforestry, but rather will tell us how quickly the greenhouse integrated co-generation system can be implemented and the scope of our activities (system integration, smart contracts and if neccesary component fabricator).  That implemenation very well may end up being within this decade or we may need to plan for a very gradual inter-generational transition to carbon-negative agroforestry.  Following feasibility will be the preliminary designs, then the down-selected detailed design, then implementation.     
+## Schedule:  
+
+We are at the concept design stage and over the course of 2021 will continue to refine it with the help of consultants.  Following that will be a feasibility study that considers the state of technology (e.g. IFC5, co-generation, and smart contracts) as well as government regulations and carbon related tax treatments.  The feasibility study is not expected to change our overall concept for carbon-negative agroforestry, but rather will tell us how quickly the greenhouse integrated co-generation system it requires can be implemented and the scope of our activities (e.g. user, system integrator, smart contract co-developer, or even, if neccesary, component fabricator).  Following feasibility will be the preliminary designs, then the down-selected detailed design, then implementation. Implemenation very well may end up being within this decade or we may need to plan for a more gradual inter-generational transition to carbon-negative agroforestry.  
 
 ## Owners
 
