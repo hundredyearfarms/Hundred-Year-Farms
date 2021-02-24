@@ -75,7 +75,7 @@ The third panel in the diagram below illustrates where we see smart contracts lo
 
 The most common project structure is shown in the first panel above.  A recent [low-carbon biogas-from-waste project](https://www.torontozoo.com/tz/biogas) at the Toronto Zoo (completed in 2021) used a project structure similiar to that in the second panel.  They were able to organize their project as a cooperative since the surrounding community viewed their project as having a social purpose and this allowed them to raise money by selling bonds to those in the surrounding area at 5% as opposed to the 15% or more that an investor led project would require.  For this $5M project, the difference between having to return 5% versus 15% is significant.  The smart contract technology, as shown in the third panel, could further lower the cost of that approach especially for the smaller social purpose projects.
 
-Note: The smart contract platforms are still in early development, but are far enough along to plan for their use in project work. 
+Note: The smart contract platforms are still in early development, but are far enough along to research their use in practical project work. 
 
 ## Schedule:  
 
