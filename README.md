@@ -58,22 +58,22 @@ The technologies for using waste wood and waste crop biomass to provide utility 
 
 In our case, the availability of this technology encourages a transition to agroforestry (and the associated improvements to biodiversity and food production).  Without it, we are economically encourages to continue with mono-crop farming. However, while the core technology is mature and proven, practical systems generally remain cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to equipment, but these reductions are likely to be marginal and slow.  The more significant cost reduction opportunities are likely to be those from:
 
-1. Improved system integration that provides all utility services as illustrated above. 
-1. Improved project delivery using Smart Contract platforms (i.e. lowering the cost of capital and administrative overhead). 
+1. Improve system integration to provide all utility services as illustrated above. 
+1. Using Smart Contract platforms to lower the cost of capital and administrative overhead. 
 
-Of these two, the smart (automated) contracts are judged to be the most important and, if successful, could make carbon-negative technologies in general more cost competitive and thus increase the rate of carbon sequestration. The paper listed below from the US Federal Reserve (St Louis), the OASIS Standards Body - Baseline Protocol, and the Ernst & Young blockchain intiative summarize the opportunities and tools most relevant to our project. 
+Of these two, the smart (automated) contracts are judged to be the most important and, if successful, could make carbon-negative technologies in general more cost competitive and thus increase the rate of carbon sequestration. The paper listed below from the US Federal Reserve, the OASIS Standards Body - Baseline Protocol, and the Ernst & Young blockchain intiative summarize the opportunities and tools most relevant to our project. 
 
 - [US Federal Reserve - Smart Contract Research Report](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)
 - [OASIS Standards Body - Baseline Protocol for Smart Contracts](https://docs.baseline-protocol.org/baseline-protocol/architecture)
 - [Ernst & Younge Blockchain Initiative](https://blockchain.ey.com/)
 
-The third panel in the diagram below illustrates where we see smart contracts lowering cost by removing administrative overhead in projects with a social purpose that can be financed through a cooperative.  
+The first panel in the diagram below depicts conventional project financing from investor shares.  The second panel depicts a common, but less frequently used, form of financing for projects with a social purpose known as a cooperative.  The third panel improves upon the social purpose cooperative using smart contracts.    
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/SMARTCONTRACTS.svg" alt="Smart Contract Cooperatives" width="800">
 </p>
 
-The most common project structure is shown in the first panel above.  A recent [low-carbon biogas-from-waste project](https://www.torontozoo.com/tz/biogas) at the Toronto Zoo (completed in 2021) used a project structure similiar to that in the second panel.  They were able to organize their project as a cooperative since the surrounding community viewed their project as having a social purpose and this allowed them to raise money by selling bonds to those in the surrounding area at 5% as opposed to the 15% or more that an investor led project would require.  For this $5M project, the difference between having to return capital at 5% versus 15% is significant.  The smart contract technology, as shown in the third panel, could further lower the cost of that approach especially for the smaller social purpose projects.
+A recent [low-carbon biogas-from-waste project](https://www.torontozoo.com/tz/biogas) at the Toronto Zoo (completed in 2021) used a project structure similiar to that in the second panel.  They were able to organize their project as a cooperative since the surrounding community viewed their project as having a social purpose and this allowed them to raise money by selling bonds to those in the surrounding area at 5% as opposed to the 15% or more that an investor led project would require.  For this $5M project, the difference between having to return capital at 5% versus 15% is significant.  The smart contract technology, as shown in the third panel, could further lower the cost of that approach especially for the smaller social purpose projects.
 
 Note: The smart contract platforms are still in early development, but are far enough along to research their use in practical project work. 
 
