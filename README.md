@@ -37,9 +37,7 @@ Building Information Management (BIM) tools are being used for design of out-bui
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/slopedRoofFromSpecSheet-githubReadme.png" alt="Farm plan co-gen" width="500">
 </p>
 
-The main goal of BIM in our case, however, is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) using a 3D file system.  This makes large collections of data easier to store, find, and analize when compared to using conventional 2D folder arrangements. The use of BIM in this manner is possible due to industry expanding the underlying BIM file system from buildings to include ([infrastructure and landscaping](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/)) which is applicable to agroforestry.  The IFC5 standard should be especially useful in regions where it is used by local government for the surrounding public works (roads, drainage, other infrastructure). 
-
-This ability to record and then visually manage large amounts of farm agroforestry data over decades, using an open standard, and in a way that can be used and understood by the next generation should prove useful as we work with consultants or with researchers modelling carbon-negative agroforestry systems.  This git repository will hold the workflow and associated FreeCAD/Blender models as they develop.
+The main goal of BIM in our case, however, is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) using an open standard 3D file system.  This makes large collections of data easier to store, find, and analize when compared to using conventional 2D folder arrangements which can quickly become overwhelming and have no industry standard structure to them. The use of BIM in this manner is possible due to industry expanding the underlying BIM file system from buildings to include ([infrastructure and landscaping](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/)) which is applicable to our application.  Use of the BIM-IFC5 standard should be especially useful in regions where it is used by local government for the surrounding public works (roads, drainage, other infrastructure). This git repository will hold the workflow and associated FreeCAD/Blender models as they develop.
 
 **Carbon-negative cogeneration of heat, power, and treated water**
 
@@ -49,7 +47,7 @@ Small farm agroforestry produces waste biomass that must be managed.  Through ga
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/biogassifier2021-02-12.png" alt="Farm plan co-gen" width="400">
 </p>
 
-The technologies for using waste wood and crop biomass to provide utility services have received strong research and development support from governments where climate change is a priority.  This is because the technology is one of the very few that integrates with the natural environment, can realistically become carbon-negative, be deployed at scale, and potentially provide all utility services in a sustainable manner.  A good summary of the technology is provided by this [Energy and Environmental Science Article](https://pubs.rsc.org/en/content/articlepdf/2016/ee/c6ee00935b) from the Royal Society of Chemistry, with practical examples of use listed below.
+The technologies for using waste wood and waste crop biomass to provide utility services have received strong research and development support from governments where climate change is a priority.  This is because the technology is one of the very few that integrates with the natural environment, can realistically become carbon-negative, be deployed at scale, and potentially provide all utility services in a sustainable manner.  A good summary of the technology is provided by this [Energy and Environmental Science Article](https://pubs.rsc.org/en/content/articlepdf/2016/ee/c6ee00935b) from the Royal Society of Chemistry, with practical examples of use listed below.
 
 - [Agroforestry for Biomass Production - Benefiting Canadians](https://www.aftaweb.org/latest-newsletter/temporate-agroforester/97-2008-vol-17/april-no-1/74-agroforestry-for-biomass-production-benefiting-canadians.html)
 - [Practical example - heat and electricity at Scotston Farm](https://www.youtube.com/watch?v=i9xmWJ4hAGs)
@@ -58,22 +56,24 @@ The technologies for using waste wood and crop biomass to provide utility servic
 - [Commercial scale heat, electricity, and char](https://www.reset-energy.com/en/syngasmart-plants-use-cases-applications-and-benefits/)
 - [Farm scale 25kW heat, electricity, and char](https://www.allpowerlabs.com/products/product-overview)
 
-While the technology is proven, it generally remains cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to equipment, but these reductions are likely to be marginal and slow.  The more significant cost reduction opportunities are likely to be those from:
+In our case, the availability of this technology encourages a transition to agroforestry (and the associated improvements to biodiversity and food production).  Without it, we are economically encourages to continue with mono-crop farming. However, while the core technology is mature and proven, practical systems generally remain cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to equipment, but these reductions are likely to be marginal and slow.  The more significant cost reduction opportunities are likely to be those from:
 
-1) Improved system integration that increases value by providing all utility services as illustrated above. 
-2) Improved project delivery using Smart Contract platforms (i.e. lowering the cost of capital and administrative overhead). 
+-Improved system integration that provides all utility services as illustrated above. 
+-Improved project delivery using Smart Contract platforms (i.e. lowering the cost of capital and administrative overhead). 
 
-Of these two, the smart (automated) contracts are likely to be the most important and, if successful, could make carbon-negative technologies more cost competitive and thus increase the rate of carbon sequestration. The paper listed below from the US Federal Reserve (St Louis), the OASIS Standards Body - Baseline Protocol, and the Ernst & Young blockchain intiative summarize the opportunities and tools most relevant to our project. 
+Of these two, the smart (automated) contracts are judged to be the most important and, if successful, could make carbon-negative technologies in general more cost competitive and thus increase the rate of carbon sequestration. The paper listed below from the US Federal Reserve (St Louis), the OASIS Standards Body - Baseline Protocol, and the Ernst & Young blockchain intiative summarize the opportunities and tools most relevant to our project. 
 
 - [US Federal Reserve - Smart Contract Research Report](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)
 - [OASIS Standards Body - Baseline Protocol for Smart Contracts](https://docs.baseline-protocol.org/baseline-protocol/architecture)
 - [Ernst & Younge Blockchain Initiative](https://blockchain.ey.com/)
 
-The diagram below illustrates where we see smart contracts lowering cost by removing administrative overhead, especially for smaller projects, or those with a social purpose, that can be more effectively managed through a cooperative.  The improved administrative efficiency is a key potential advantage, but it appears the smart contracts in this context will also offer particular advantages, or new and better ways of doing business, that can't be achieved any other way.  Part of our project involves our expanding on those opportunities. 
+The diagram below illustrates where we see smart contracts lowering cost by removing administrative overhead, especially for smaller projects, or those with a social purpose, such as those that can be most effectively managed through a cooperative.  The improved administrative efficiency is a key potential advantage, but the smart contracts in this context may offer new and better ways of doing business that can't be achieved any other way.  
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/SMARTCONTRACTS.svg" alt="Smart Contract Cooperatives" width="800">
 </p>
+
+https://www.torontozoo.com/tz/biogas
 
 Note: The smart contract platforms are still in early development, but are far enough along to plan for their use in project work. 
 
