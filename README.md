@@ -58,8 +58,8 @@ The technologies for using waste wood and waste crop biomass to provide utility 
 
 In our case, the availability of this technology encourages a transition to agroforestry (and the associated improvements to biodiversity and food production).  Without it, we are economically encourages to continue with mono-crop farming. However, while the core technology is mature and proven, practical systems generally remain cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to equipment, but these reductions are likely to be marginal and slow.  The more significant cost reduction opportunities are likely to be those from:
 
--Improved system integration that provides all utility services as illustrated above. 
--Improved project delivery using Smart Contract platforms (i.e. lowering the cost of capital and administrative overhead). 
+1. Improved system integration that provides all utility services as illustrated above. 
+1. Improved project delivery using Smart Contract platforms (i.e. lowering the cost of capital and administrative overhead). 
 
 Of these two, the smart (automated) contracts are judged to be the most important and, if successful, could make carbon-negative technologies in general more cost competitive and thus increase the rate of carbon sequestration. The paper listed below from the US Federal Reserve (St Louis), the OASIS Standards Body - Baseline Protocol, and the Ernst & Young blockchain intiative summarize the opportunities and tools most relevant to our project. 
 
@@ -67,13 +67,13 @@ Of these two, the smart (automated) contracts are judged to be the most importan
 - [OASIS Standards Body - Baseline Protocol for Smart Contracts](https://docs.baseline-protocol.org/baseline-protocol/architecture)
 - [Ernst & Younge Blockchain Initiative](https://blockchain.ey.com/)
 
-The diagram below illustrates where we see smart contracts lowering cost by removing administrative overhead, especially for smaller projects, or those with a social purpose, such as those that can be most effectively managed through a cooperative.  The improved administrative efficiency is a key potential advantage, but the smart contracts in this context may offer new and better ways of doing business that can't be achieved any other way.  
+The diagram below illustrates where we see smart contracts lowering cost by removing administrative overhead in projects with a social purpose that can be most effectively managed through a cooperative.  In addition, the smart contracts may offer additional benefits through new and more streamlined ways of doing busines.  
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/SMARTCONTRACTS.svg" alt="Smart Contract Cooperatives" width="800">
 </p>
 
-https://www.torontozoo.com/tz/biogas
+A recent [low-carbon biogas-from-waste project](https://www.torontozoo.com/tz/biogas) at the Toronto Zoo (completed in 2021) illustrates the use of the project structure shown in the second panel above.  They were able to organize their project as a cooperative since the surrounding community viewed it as having a social purpose and this allowed them to raise money by selling bonds to those in the community at 5% as opposed to the 15%+ that an investor led project would require.  For this $5M project, the difference between having to return 5% versus 15% is significant.  The smart contract technology could further lower the cost of this approach.
 
 Note: The smart contract platforms are still in early development, but are far enough along to plan for their use in project work. 
 
