@@ -67,13 +67,13 @@ Of these two, the smart (automated) contracts are judged to be the most importan
 - [OASIS Standards Body - Baseline Protocol for Smart Contracts](https://docs.baseline-protocol.org/baseline-protocol/architecture)
 - [Ernst & Younge Blockchain Initiative](https://blockchain.ey.com/)
 
-The third panel in the diagram below illustrates where we see smart contracts lowering cost by removing administrative overhead in projects with a social purpose that can be most effectively managed through a cooperative.  
+The third panel in the diagram below illustrates where we see smart contracts lowering cost by removing administrative overhead in projects with a social purpose that can be financed through a cooperative.  
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/SMARTCONTRACTS.svg" alt="Smart Contract Cooperatives" width="800">
 </p>
 
-The most common project structure is shown in the first panel above.  A recent [low-carbon biogas-from-waste project](https://www.torontozoo.com/tz/biogas) at the Toronto Zoo (completed in 2021) used a project structure similiar to that in the second panel.  They were able to organize their project as a cooperative since the surrounding community viewed their project as having a social purpose and this allowed them to raise money by selling bonds to those in the surrounding area at 5% as opposed to the 15% or more that an investor led project would require.  For this $5M project, the difference between having to return 5% versus 15% is significant.  The smart contract technology, as shown in the third panel, could further lower the cost of that approach especially for the smaller social purpose projects.
+The most common project structure is shown in the first panel above.  A recent [low-carbon biogas-from-waste project](https://www.torontozoo.com/tz/biogas) at the Toronto Zoo (completed in 2021) used a project structure similiar to that in the second panel.  They were able to organize their project as a cooperative since the surrounding community viewed their project as having a social purpose and this allowed them to raise money by selling bonds to those in the surrounding area at 5% as opposed to the 15% or more that an investor led project would require.  For this $5M project, the difference between having to return capital at 5% versus 15% is significant.  The smart contract technology, as shown in the third panel, could further lower the cost of that approach especially for the smaller social purpose projects.
 
 Note: The smart contract platforms are still in early development, but are far enough along to research their use in practical project work. 
 
