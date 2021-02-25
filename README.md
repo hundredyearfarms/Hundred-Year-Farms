@@ -27,19 +27,19 @@ Some reasons for our transition to agroforestry are listed below:
 
 ## Management
 
-We are using an open standard 3D file system for design and to manage the farm's data.  To improve the long-term economics of our agro-forestry project we are working towards using waste wood and crop waste to provide the farm's utilty services.  Both of these are expanded upon below.
+We are using an open standard 3D file system for design and to manage the farm's data.  To improve the long-term economics of our agro-forestry project we are working towards using waste wood and crop waste to provide the farm's utilty services.  These are expanded upon below.
 
 **Buildings, Infrastructure, and Landscaping (using BIM-IFC5)**
 
-For buildings, some of the conventional Building Information Management (BIM) tools are being used to design out-buildings (greenhouses, sheds, workshop, garage, ...).  For example, one of the tools we use can generate a model, that is suitable for visualization and costing, from a simple mark-down text document as illustrated below.
+For buildings, some of the conventional Building Information Management (BIM) tools are being used to design out-buildings (greenhouses, sheds, workshop, garage, ...).  For example, one of the tools we use can quickly generate a model, that is suitable for visualization and costing, from a simple mark-down text document as illustrated below.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/slopedRoofFromSpecSheet-githubReadme.png" alt="Farm plan co-gen" width="500">
 </p>
 
-The main purpose of BIM in our case, however, is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) using an open standard 3D file system for infrastructure and landscaping.  This will make large collections of data easier to store, find, and analize when compared to using conventional 2D folder arrangements which can become overwhelming and difficult to share since they lack  an industry standard structure and since information, that is inherently 3 dimensional, must be collapsed into two dimensions. 
+The main purpose of BIM in our case, however, is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) using the BIM extension for [infrastructure and landscaping](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/) (known as BIM-IFC5).  This will make large collections of data, gathered over decades, easier to store, find, and analize when compared to using conventional 2D folder arrangements which can quickly become overwhelming and difficult for others to use.  
 
-The use of BIM in this manner is possible due to industry recently expanding the underlying BIM file system for buildings to include ([infrastructure and landscaping](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/)), which is more applicable for our application.  Use of the BIM-IFC5 standard should be especially useful to agroforestry projects in regions where that standard is also used by local government for the surrounding public works (roads, drainage, other infrastructure). This git repository will hold the workflow and associated FreeCAD/Blender models as they develop.
+Use of the BIM-IFC5 standard should be especially useful to agroforestry projects in regions where that standard is also used by local government for the surrounding public works (roads, drainage, other infrastructure). This git repository will hold the workflow and associated FreeCAD/Blender models as they develop.
 
 **Carbon-negative cogeneration of heat, power, and treated water**
 
@@ -49,7 +49,7 @@ Small-farm agroforestry produces significant amounts of waste biomass that must 
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/biogassifier2021-02-12.png" alt="Farm plan co-gen" width="400">
 </p>
 
-The technologies for using waste wood and waste crop biomass to provide utility services have received strong research and development support from governments where climate change is a priority.  That is because the technology is one of the very few that integrates with the natural environment, can realistically become carbon-negative, be deployed at scale, and potentially provide all utility services in a sustainable manner.  A good summary of the technology is provided by this [Energy and Environmental Science Article](https://pubs.rsc.org/en/content/articlepdf/2016/ee/c6ee00935b) from the Royal Society of Chemistry, with practical examples of use listed below.
+The technologies for using waste wood and waste crop biomass to provide utility services have received strong research and development support from governments where climate change is a priority.  That is because the technology is one of the very few that integrates so completely with the natural environment, can realistically become carbon-negative, be fabricated by any modern country and deployed at scale, and sustainably provide all utility services.  A good summary of the core gassification technology is provided by this [Energy and Environmental Science Article](https://pubs.rsc.org/en/content/articlepdf/2016/ee/c6ee00935b) from the Royal Society of Chemistry, with practical examples of use listed below.
 
 - [Agroforestry for Biomass Production - Benefiting Canadians](https://www.aftaweb.org/latest-newsletter/temporate-agroforester/97-2008-vol-17/april-no-1/74-agroforestry-for-biomass-production-benefiting-canadians.html)
 - [Practical example - heat and electricity at Scotston Farm](https://www.youtube.com/watch?v=i9xmWJ4hAGs)
