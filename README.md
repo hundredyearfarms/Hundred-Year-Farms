@@ -79,9 +79,9 @@ A recent [low-carbon biogas-from-waste project](https://www.torontozoo.com/tz/bi
 
 Apart from cost-reduction, the smart-contract cooperative could also offer these rather substantial advantages:
 
-- The customer's investment could have much greater liquidity, thus making it a more attractive investment.  
-- When the coop is providing a product, early adopters investing in a prototype could receive automated credits that provide them with a finished product at no cost. This could speed technology development by lowering total costs for those taking early risks (customers/users rewarded for taking risk similiar to how early stock investors are rewarded in a conventionally funded project).   
-- No money is pooled.  Instead it remains in the customer/user wallet and released directly to suppliers, only as needed, as the project meets targets.  This would improve financial security and by lowering risk even further, allow for more cost reduction.  
+- The customer's investment could have much greater liquidity than the typical bond issued by a coop.  
+- When the coop is providing a product, early adopters investing in a prototype could receive automated credits that provide them with a finished product at no cost. This could speed technology development by lowering future costs (i.e. early adopters are rewarded for taking risk similiar to how early stock investors are rewarded in a conventionally funded project).   
+- No money is pooled.  Instead it remains in the customer/user wallet and released directly to suppliers as needed and as the project meets targets.  This improvement to financial security and associated reduction in administrative costs could allow for further cost reduction.  
 
 ## Schedule:  
 
