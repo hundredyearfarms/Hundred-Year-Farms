@@ -82,6 +82,7 @@ Apart from cost-reduction, the smart-contract cooperative could also offer these
 - The customer's investment could have much greater liquidity than the typical bond issued by a coop.  
 - When the coop is providing a product, early adopters investing in prototype, alpha, or beta units, could receive automated credits that provide them with a finished product at no further cost. This could speed technology development by rewarding early adopters for taking risk similiar to how early stock investors are rewarded in a conventionally funded project.   
 - No money is pooled.  Instead it remains in the customer/user wallet and released directly to suppliers as needed and as the project meets targets.  This improvement to financial security (and associated reduction in administrative oversight costs) could allow for further cost reduction.  
+- Stable coins tied to a local currency can be used for efficient and automatically tracked domestic project payments.  For contracts in which equipment is purchased over extended periods from an export country, the risk of currency fluctuations can be significant.  The sometimes volatile swings of the Canadian currency can be addressed by the more stable synthetic smart contracts that track the price of an agreed upon basket of goods or other asset.     
 
 ## Schedule:  
 
