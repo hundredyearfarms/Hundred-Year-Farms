@@ -69,15 +69,21 @@ Of these two, the smart (automated) contracts are judged to be the most importan
 - [OASIS Standards Body - Baseline Protocol for Smart Contracts](https://docs.baseline-protocol.org/baseline-protocol/architecture)
 - [Ernst & Younge Blockchain Initiative](https://blockchain.ey.com/)
 
-The first panel in the diagram below depicts conventional project financing from investor shares.  The second panel depicts a common, but less frequently used, form of financing for projects with a social purpose known as a cooperative.  The third panel improves upon the social purpose cooperative using smart contracts.    
+The first panel in the diagram below depicts conventional project financing from investor shares.  The second panel depicts a common, but less frequently used, form of financing for projects with a social purpose known as a cooperative.  The third panel proposes to improve upon the social purpose cooperative using smart contracts.    
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/SMARTCONTRACTS.svg" alt="Smart Contract Cooperatives" width="800">
 </p>
 
-A recent [low-carbon biogas-from-waste project](https://www.torontozoo.com/tz/biogas) at the Toronto Zoo (completed in 2021) used a project structure similiar to that in the second panel.  They were able to organize their project as a cooperative since the surrounding community viewed their project as having a social purpose and this allowed them to raise money by selling bonds to those in the surrounding area at 5% as opposed to the 15% or more that an investor led project would require.  For this $5M project, the difference between having to return capital at 5% versus 15% is significant.  The smart contract technology, as shown in the third panel, could further lower the cost of that approach especially for the smaller social purpose projects.
+A recent [low-carbon biogas-from-waste project](https://www.torontozoo.com/tz/biogas) at the Toronto Zoo (completed in 2021) used a project structure similiar to that in the second panel.  They were able to organize their project as a cooperative since the surrounding community viewed their project as having a social purpose and this allowed them to raise money by selling bonds to those in the surrounding area at 5% as opposed to the 15% or more that an investor led project would require.  For this $5M project, the difference between having to return capital at 5% versus 15% is a far more significant cost reduction than could have been acheived through equipment design.  The proposed smart contract technology, as shown in the third panel, could further lower the cost of that approach especially for the smaller social purpose (e.g. carbon negative) projects and allow them to be implemented at scale in a shorter time frame than otherwise possible.  How significant smart contracts could bring forward low-carbon technologies is unknown and the subject of our feasibility study.  
 
-Note: The smart contract platforms are still in early development, but are far enough along to research their use in practical project work. 
+Apart from cost-reduction, the smart-contract cooperative could also offer these rather substantial advantages:
+
+- The customer's investment could have much greated liquidity.
+- When the coop provides a product, early adopters could receive automated credits providing them with a finished product once available at no cost. This could speed technology development by lowering future costs for those taking early risks (similiar to how early stock investors are rewarded).   
+- No money is pooled.  Instead it remains in the customer/user wallet and only gradually released, as needed and directly to suppliers, as the project meets targets.  This would improve financial security and by lowering risk even further, allow for more cost reduction.  
+
+
 
 ## Schedule:  
 
