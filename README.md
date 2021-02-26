@@ -77,11 +77,11 @@ The first panel in the diagram below depicts conventional project financing from
 
 A recent [low-carbon biogas-from-waste project](https://www.torontozoo.com/tz/biogas) at the Toronto Zoo (completed in 2021) used a project structure similiar to that in the second panel.  They were able to organize their project as a cooperative since the surrounding community viewed their project as having a social purpose and this allowed them to raise money by selling bonds to those in the surrounding area at 5% as opposed to the 15% or more that an investor led project would require.  For this $5M project, the difference between having to return capital at 5% versus 15% is a far more significant cost reduction than could have been acheived through equipment design.  The proposed smart contract technology, as shown in the third panel, could further lower the cost of that approach especially for the smaller social purpose (e.g. carbon negative) projects and allow them to be implemented at scale in a shorter time frame than otherwise possible.  How significant smart contracts could bring forward low-carbon technologies is unknown and the subject of our feasibility study.  
 
-Apart from cost-reduction, the smart-contract cooperative could also offer these rather substantial advantages:
+Apart from cost-reduction, the smart-contract cooperative could also offer these advantages:
 
 - The customer's investment could have much greater liquidity than the typical bond issued by a coop.  
-- When the coop is providing a product, early adopters investing in a prototype could receive automated credits that provide them with a finished product at no cost. This could speed technology development by lowering future costs (i.e. early adopters are rewarded for taking risk similiar to how early stock investors are rewarded in a conventionally funded project).   
-- No money is pooled.  Instead it remains in the customer/user wallet and released directly to suppliers as needed and as the project meets targets.  This improvement to financial security and associated reduction in administrative costs could allow for further cost reduction.  
+- When the coop is providing a product, early adopters investing in prototype, alpha, or beta units, could receive automated credits that provide them with a finished product at no further cost. This could speed technology development by rewarding early adopters for taking risk similiar to how early stock investors are rewarded in a conventionally funded project.   
+- No money is pooled.  Instead it remains in the customer/user wallet and released directly to suppliers as needed and as the project meets targets.  This improvement to financial security (and associated reduction in administrative oversight costs) could allow for further cost reduction.  
 
 ## Schedule:  
 
