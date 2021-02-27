@@ -7,7 +7,7 @@ Hundred Year Farms refers to two small farm properties (each about 43 acres); on
 
 ## Farm Plan (PEI)
 
-Our plan for the island farm, as shown by the superposition of trees onto the sattelite image below, is to plant strong wind-break trees along the uppermost ridge with the trees and crops that require more sunlight and wind protection located lower on the farm's south sloping land. The existing trees are a near single species of spruce resulting from a prior clear-cut, but the new trees will be a more diverse mix that may include maple, oak, poplar, birch, hemlock, and apple, among others.  The trees in rows will be arranged to allow for selective harvesting while some blocks will be left to grow unmanaged.  
+Our plan for the island farm, as shown by the superposition of trees onto the sattelite image below, is to plant strong wind-break trees along the uppermost ridge with the trees and crops that require more sunlight and wind protection located lower on the farm's south sloping land. The existing trees are a near single species of spruce resulting from a prior clear-cut, but the new trees will be a more diverse mix that may include maple, oak, poplar, birch, hemlock, and apple, among others.  The trees in rows will be arranged to allow for selective harvesting while some blocks will be left to grow unmanaged.  One or more greenhouses will be incorporated into this farm system.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/IFCSite-FarmProposedTrees.png" alt="Farm plan - tree overlay" width="500">
@@ -25,7 +25,7 @@ Some of the reasons agroforestry is a better match for this particular property 
 
 Agroforestry itself is not a new idea, it is a well-established practice that has been around for a very long time.  What will make our approach somewhat unique is or use of new tools to manage data and the way we plan to manage waste biomass by using it to provide greenhouse utility services.  These are expanded upon below.
 
-## Management of Data and Biomass
+## Managing Data, Crops, and Biomass
 
 **Data - Buildings, Infrastructure, and Landscaping (using BIM-IFC5)**
 
@@ -39,7 +39,7 @@ The main purpose of BIM in our case, however, is to manage the farm's asset data
 
 Use of the BIM-IFC5 standard should be especially useful to agroforestry projects in regions where that standard is also used by local government for the surrounding public works (roads, drainage, other infrastructure). This git repository will hold the workflow and associated FreeCAD/Blender models as they develop.
 
-**Biomass - Carbon-negative cogeneration of heat, power, and treated water**
+**Crops and Biomass - Carbon-negative cogeneration of heat, power, and treated water**
 
 Small-farm agroforestry produces significant amounts of waste biomass that must be managed.  Through gassification this waste can be used to produce heat (e.g. for greenhouses), gas, electricity, treated water, and with some designs, fertilizer and [char](https://biochar-international.org/sustainability-climate-change/) (solid carbon) which can be used as a soil ammendment or sold as a [product](https://national-carbon.com/). A schematic showing the long-term design objectives for our greenhouse integrated application is shown below.
 
