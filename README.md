@@ -17,13 +17,11 @@ Our plan for the island farm, as shown by the superposition of trees onto the sa
 
 Agroforestry itself is not a new idea, it is a well-established practice that has been around for a very long time.  Some of the reasons we believe it is a better match for this particular property relate to:
 
-- Erosion Control: Trees in rows reduce wind speeds and slow drainage from more extreme winds and rainfall.  
+- Erosion Control: Trees in rows reduce wind speeds and slow drainage during extreme weather.  
  
-- Biodiversity: Mitigates climate induced pest and fire risks while making the property more interesting to live on or visit.  
+- Biodiversity: Mitigates pest and fire risk while making the property more interesting to visit.  
 
-- Diversification: Greenhouses and higher-value trees provide income independent of the field crop and distribute work more evenly over the year  
-  
-- Timing: Higher-value trees should be planted before changes to climate make them more difficult to establish.  
+- Diversification: Greenhouses and higher-value trees provide income independent of the field crop and distribute work more evenly over the year.    
 
 ## Management
 
