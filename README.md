@@ -15,7 +15,7 @@ Our plan for the island farm, as shown by the superposition of trees onto the sa
 
 <u>Image</u>: *Proposed new trees and storm-water collection pond laid over a sattelite image(gradient lines show how the land slopes toward the south where surface run-off water collects). A - water erosion down the centre of this field is evident, but can be controlled by the new rows of trees that follow field contours. B - this prior clear-cut will be diversified to a wider range of native tree species. C - windbreak realligned to follow land contours and a second row of trees added at the lowest and steepest part of the field. D - Co-generation Greenhouse.*
 
-Some of the reasons we believe it is a better match for this particular property relate to:
+Some of the reasons agroforestry is a better match for this particular property relate to:
 
 - Erosion Control: Trees in rows reduce wind speeds and slow drainage during extreme weather.  
  
@@ -23,15 +23,13 @@ Some of the reasons we believe it is a better match for this particular property
 
 - Diversification: Greenhouses and higher-value trees provide income independent of the field crop and distribute work more evenly over the year.   
 
-Agroforestry itself is not a new idea, it is a well-established practice that has been around for a very long time.  What will make our approach somewhat unique is or use of new tools to manage data and our working toward greenhouses whose utility services are provided by the farm's waste biomass.
+Agroforestry itself is not a new idea, it is a well-established practice that has been around for a very long time.  What will make our approach somewhat unique is or use of new tools to manage data and the way we plan to manage waste biomass by using it to provide greenhouse utility services.  These are expanded upon below.
 
-## Management
+## Management of Data and Biomass
 
-We are using an open standard 3D file system for design and to manage the farm's data.  To improve the long-term economics of our agro-forestry project we are working towards using waste wood and crop waste to provide the farm's utilty services.  These are expanded upon below.
+**Data - Buildings, Infrastructure, and Landscaping (using BIM-IFC5)**
 
-**Buildings, Infrastructure, and Landscaping (using BIM-IFC5)**
-
-For buildings, some of the conventional Building Information Management (BIM) tools are being used to design out-buildings (greenhouses, sheds, workshop, garage, ...).  For example, one of the tools we use can quickly generate a model, that is suitable for visualization and costing, from a simple mark-down text document as illustrated below.
+We are using an open standard 3D file system for design and to manage the farm's data.  For buildings, some of the conventional Building Information Management (BIM) tools are being used to design out-buildings (greenhouses, sheds, workshop, garage, ...).  For example, one of the tools we use can quickly generate a model, that is suitable for visualization and costing, from a simple mark-down text document as illustrated below.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/slopedRoofFromSpecSheet-githubReadme.png" alt="Farm plan co-gen" width="500">
@@ -41,7 +39,7 @@ The main purpose of BIM in our case, however, is to manage the farm's asset data
 
 Use of the BIM-IFC5 standard should be especially useful to agroforestry projects in regions where that standard is also used by local government for the surrounding public works (roads, drainage, other infrastructure). This git repository will hold the workflow and associated FreeCAD/Blender models as they develop.
 
-**Carbon-negative cogeneration of heat, power, and treated water**
+**Biomass - Carbon-negative cogeneration of heat, power, and treated water**
 
 Small-farm agroforestry produces significant amounts of waste biomass that must be managed.  Through gassification this waste can be used to produce heat (e.g. for greenhouses), gas, electricity, treated water, and with some designs, fertilizer and [char](https://biochar-international.org/sustainability-climate-change/) (solid carbon) which can be used as a soil ammendment or sold as a [product](https://national-carbon.com/). A schematic showing the long-term design objectives for our greenhouse integrated application is shown below.
 
