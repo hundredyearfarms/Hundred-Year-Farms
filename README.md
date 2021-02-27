@@ -82,8 +82,8 @@ Apart from cost-reduction, the smart-contract cooperative could offer additional
 - No money is pooled.  Instead it remains in the customer/user wallet and released directly to suppliers as needed and as the project meets targets.  This lowers financial risk and administrative oversight costs.  
 - The customer's investment could have much greater liquidity than the typical bond issued by a coop.  
 - When the coop is providing a product, early adopters investing in prototype, alpha, or beta units, could receive automated credits toward future products.  
-- Stable coins tied to a local currency (with traceability) could potentially be used for efficient project payments that ensure tracking with automated records.     
-- In many cases, small cooperatives are the best solution, but the likleihood of a small group of non-financial experts having the skills and time to operate one can be low.  Automating the financial management function could help ensure regulatory compliance, provide indisputable records, and make these organizations more likely to succeed.  
+- Stable coins tied to a local currency (with traceability) could potentially be used for project payments that ensure automated tracking and records (i.e. reduced administration).     
+- In many cases, small cooperatives are the best solution, but the likelihood of a small group of non-financial experts having the skills and time to operate one can be low.  Automating the financial management function could help ensure regulatory compliance, provide indisputable records, and make these organizations more likely to succeed.  
 
 ## Schedule:  
 
