@@ -1,6 +1,6 @@
 ## Overview
 
-Hundred Year Farms refers to two small farm properties (each about 43 acres); one on Prince Edward Island and the other in Manitoba. For both farms our plan is to make a gradual transition to Agroforestry.  Agroforesty involves the planting of crops, including grains, fruits, or vegetables, between rows of trees.  We believe that, over the long-term, this type of farming can be made so that it becomes carbon-negative while it rebuilds topsoil and maintains habitat. That, in turn, should lead to higher long-term asset values than would otherwise be the case and make the farms more interesting to visit for the next 100 years.
+Hundred Year Farms refers to two small farm properties (each about 43 acres); one on Prince Edward Island and the other in Manitoba. For both farms our plan is to make a gradual transition to Agroforestry.  Agroforesty involves the planting of crops, including grains, fruits, or vegetables, between rows of trees.  We believe that, over the long-term, this type of farming can be made so that it becomes carbon-negative while maintaing food production, rebuilding topsoil, and maintaining habitat. That, in turn, should lead to higher long-term asset values than would otherwise be the case and it will make the farms more interesting to visit over the next 100 years.
 
 - [What is agroforestry?](https://www.aftaweb.org/)
 - [Agroforestry - Canada](https://www.agr.gc.ca/eng/agriculture-and-climate/agricultural-practices/agroforestry/?id=1177431400694), [Agroforestry - UK](https://www.agforward.eu/index.php/en/silvoarable-agroforestry-in-the-uk.html), [Agroforestry - EU](https://euraf.isa.utl.pt/welcome), [Agroforestry - US](https://www.usda.gov/topics/forestry/agroforestry)
@@ -13,15 +13,15 @@ Our plan for the island farm, as shown by the superposition of trees onto the sa
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/IFCSite-FarmProposedTrees.png" alt="Farm plan - tree overlay" width="500">
 </p>
 
-<u>Image</u>: *Proposed new trees and storm-water collection pond laid over a sattelite image of the existing property on Prince Edward Island (gradient lines show how the land slopes toward the south where surface run-off water collects). A - water erosion down the centre of this field is already evident, but can be controlled by the new rows of trees that follow field contours. B - this prior clear-cut will be diversified to a range of native tree species. C - there will be relatively little change to this field apart from re-aligning the existing windbreak so it follows natural contours and then adding a second row at the lowest and steepest part of the field. D - Greenhouse.*
+<u>Image</u>: *Proposed new trees and storm-water collection pond laid over a sattelite image of the existing property on Prince Edward Island (gradient lines show how the land slopes toward the south where surface run-off water collects). A - water erosion down the centre of this field is already evident, but can be controlled by the new rows of trees that follow field contours. B - this prior clear-cut will be diversified to a wider range of native tree species. C - windbreak realligned to follow land contours and a second row of trees added at the lowest and steepest part of the field. D - Greenhouse.*
 
 Some reasons for our transition to agroforestry are listed below:
 
-- Productivity: Trees in rows will reduce the higher wind speeds expected in the future and they will slow drainage from more extreme rainfall, both of which will help control soil erosion.  
+- Erosion Control: Trees in rows will reduce the higher wind speeds expected in the future and they will slow drainage from more extreme rainfall, both of which will help control soil erosion.  
  
 - Biodiversity: Mitigates climate induced pest and fire risks while making the property more interesting to live on or visit.  
 
-- Diversified outputs: Greenhouses and higher-value trees can provide income independent of the field crop.  
+- Diversified outputs: Greenhouses and higher-value trees can provide income independent of the field crop and require work spread out over the year.  
   
 - Timing: Higher-value trees should be planted before changes to climate make them more difficult to establish.  
 
@@ -82,9 +82,8 @@ Apart from cost-reduction, the smart-contract cooperative could offer additional
 - No money is pooled.  Instead it remains in the customer/user wallet and released directly to suppliers as needed and as the project meets targets.  This lowers financial risk and administrative oversight costs.  
 - The customer's investment could have much greater liquidity than the typical bond issued by a coop.  
 - When the coop is providing a product, early adopters investing in prototype, alpha, or beta units, could receive automated credits toward future products.  
-- Stable coins tied to a local currency can be used for efficient and automatically tracked domestic project payments.  
-- For contracts in which equipment is purchased over extended periods from another country, the risks caused by swings of the Canadian currency could be addressed by using more stable smart contract "synthetics" that track an agreed upon basket of goods or other asset both parties agree upon.     
-- In many cases, small cooperatives are the best solution, but the likleihood of a small group of non-financial experts having the skills and time to operate can be low.  Automating the financial management function could help ensure regulatory compliance, indisputable records, and make these organizations more likely to succeed.  
+- Stable coins tied to a local currency (with traceability) could potentially be used for efficient project payments that ensure tracking with automated records.     
+- In many cases, small cooperatives are the best solution, but the likleihood of a small group of non-financial experts having the skills and time to operate one can be low.  Automating the financial management function could help ensure regulatory compliance, provide indisputable records, and make these organizations more likely to succeed.  
 
 ## Schedule:  
 
