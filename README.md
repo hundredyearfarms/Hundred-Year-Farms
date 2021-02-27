@@ -13,15 +13,15 @@ Our plan for the island farm, as shown by the superposition of trees onto the sa
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/IFCSite-FarmProposedTrees.png" alt="Farm plan - tree overlay" width="500">
 </p>
 
-<u>Image</u>: *Proposed new trees and storm-water collection pond laid over a sattelite image of the existing property on Prince Edward Island (gradient lines show how the land slopes toward the south where surface run-off water collects). A - water erosion down the centre of this field is already evident, but can be controlled by the new rows of trees that follow field contours. B - this prior clear-cut will be diversified to a wider range of native tree species. C - windbreak realligned to follow land contours and a second row of trees added at the lowest and steepest part of the field. D - Greenhouse.*
+<u>Image</u>: *Proposed new trees and storm-water collection pond laid over a sattelite image(gradient lines show how the land slopes toward the south where surface run-off water collects). A - water erosion down the centre of this field is evident, but can be controlled by the new rows of trees that follow field contours. B - this prior clear-cut will be diversified to a wider range of native tree species. C - windbreak realligned to follow land contours and a second row of trees added at the lowest and steepest part of the field. D - Co-generation Greenhouse.*
 
-Some reasons for our transition to agroforestry are listed below:
+Agroforestry itself is not a new idea, it is a well-established practice that has been around for a very long time.  Some of the reasons we believe it is a better match for this property relate to:
 
 - Erosion Control: Trees in rows will reduce the higher wind speeds expected in the future and they will slow drainage from more extreme rainfall, both of which will help control soil erosion.  
  
-- Biodiversity: Mitigates climate induced pest and fire risks while making the property more interesting to live on or visit.  
+- Biodiversity: This will help mitigate climate induced pest and fire risks while making the property more interesting to live on or visit.  
 
-- Diversified outputs: Greenhouses and higher-value trees can provide income independent of the field crop and require work spread out over the year.  
+- Diversification: Greenhouses and higher-value trees can provide income independent of the field crop and work is distributed more evenly over the year.  
   
 - Timing: Higher-value trees should be planted before changes to climate make them more difficult to establish.  
 
@@ -37,7 +37,7 @@ For buildings, some of the conventional Building Information Management (BIM) to
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/slopedRoofFromSpecSheet-githubReadme.png" alt="Farm plan co-gen" width="500">
 </p>
 
-The main purpose of BIM in our case, however, is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) using the BIM extension for [infrastructure and landscaping](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/) (known as BIM-IFC5).  This will make large collections of data, gathered over decades, easier to store, find, and analize when compared to using conventional 2D folder arrangements which can quickly become overwhelming and difficult for others to use.  
+The main purpose of BIM in our case, however, is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) using the BIM extension for [infrastructure and landscaping](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/) (known as BIM-IFC5).  This will make large collections of data, gathered over decades, easier to store, find, and analize when compared to using conventional 2D file folder arrangements which can quickly become overwhelming and difficult for others to use.  
 
 Use of the BIM-IFC5 standard should be especially useful to agroforestry projects in regions where that standard is also used by local government for the surrounding public works (roads, drainage, other infrastructure). This git repository will hold the workflow and associated FreeCAD/Blender models as they develop.
 
