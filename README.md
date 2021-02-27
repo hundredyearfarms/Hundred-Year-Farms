@@ -15,13 +15,13 @@ Our plan for the island farm, as shown by the superposition of trees onto the sa
 
 <u>Image</u>: *Proposed new trees and storm-water collection pond laid over a sattelite image(gradient lines show how the land slopes toward the south where surface run-off water collects). A - water erosion down the centre of this field is evident, but can be controlled by the new rows of trees that follow field contours. B - this prior clear-cut will be diversified to a wider range of native tree species. C - windbreak realligned to follow land contours and a second row of trees added at the lowest and steepest part of the field. D - Co-generation Greenhouse.*
 
-Agroforestry itself is not a new idea, it is a well-established practice that has been around for a very long time.  Some of the reasons we believe it is a better match for this property relate to:
+Agroforestry itself is not a new idea, it is a well-established practice that has been around for a very long time.  Some of the reasons we believe it is a better match for this particular property relate to:
 
-- Erosion Control: Trees in rows will reduce the higher wind speeds expected in the future and they will slow drainage from more extreme rainfall, both of which will help control soil erosion.  
+- Erosion Control: Trees in rows reduce wind speeds and slow drainage from more extreme winds and rainfall.  
  
-- Biodiversity: This will help mitigate climate induced pest and fire risks while making the property more interesting to live on or visit.  
+- Biodiversity: Mitigates climate induced pest and fire risks while making the property more interesting to live on or visit.  
 
-- Diversification: Greenhouses and higher-value trees can provide income independent of the field crop and work is distributed more evenly over the year.  
+- Diversification: Greenhouses and higher-value trees provide income independent of the field crop and distribute work more evenly over the year  
   
 - Timing: Higher-value trees should be planted before changes to climate make them more difficult to establish.  
 
