@@ -79,11 +79,12 @@ A recent [low-carbon biogas-from-waste project](https://www.torontozoo.com/tz/bi
 
 Apart from cost-reduction, the smart-contract cooperative could offer additional advantages such as these:
 
-- No money is pooled.  Instead it remains in the customer/user wallet and released directly to suppliers as needed and as the project meets targets.  This improvement to financial security (and associated reduction in administrative oversight costs) could allow for further cost reduction.  
+- No money is pooled.  Instead it remains in the customer/user wallet and released directly to suppliers as needed and as the project meets targets.  This lowers financial risk and administrative oversight costs.  
 - The customer's investment could have much greater liquidity than the typical bond issued by a coop.  
 - When the coop is providing a product, early adopters investing in prototype, alpha, or beta units, could receive automated credits toward future products.  
 - Stable coins tied to a local currency can be used for efficient and automatically tracked domestic project payments.  
-- For contracts in which equipment is purchased over extended periods from another country, the risk of currency fluctuations can be significant.  Swings of the Canadian currency could be addressed by using more stable smart contract "synthetics" that track an agreed upon basket of goods or other asset both parties agree upon.     
+- For contracts in which equipment is purchased over extended periods from another country, the risks caused by swings of the Canadian currency could be addressed by using more stable smart contract "synthetics" that track an agreed upon basket of goods or other asset both parties agree upon.     
+- In many cases, small cooperatives are the best solution, but the likleihood of a small group of non-financial experts having the skills and time to operate can be low.  Automating the financial management function could help ensure regulatory compliance, indisputable records, and make these organizations more likely to succeed.  
 
 ## Schedule:  
 
