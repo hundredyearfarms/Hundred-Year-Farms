@@ -77,12 +77,13 @@ The first panel in the diagram below depicts conventional project financing from
 
 A recent [low-carbon biogas-from-waste project](https://www.torontozoo.com/tz/biogas) at the Toronto Zoo (completed in 2021) used a project structure similiar to that in the second panel.  They were able to organize their project as a cooperative since the surrounding community viewed their project as having a social purpose and this allowed them to raise money by selling bonds to those in the surrounding area at 5% as opposed to the 15% or more that an investor led project would require.  For this $5M project, the difference between having to return capital at 5% versus 15% is a far more significant cost reduction than could have been acheived through equipment design.  The proposed smart contract technology, as shown in the third panel, could further lower the cost of that approach especially for the smaller social purpose (e.g. carbon negative) projects and allow them to be implemented at scale in a shorter time frame than otherwise possible.  How significant smart contracts could bring forward low-carbon technologies is unknown and the subject of our feasibility study.  
 
-Apart from cost-reduction, the smart-contract cooperative could also offer these advantages:
+Apart from cost-reduction, the smart-contract cooperative could offer additional advantages such as these:
 
-- The customer's investment could have much greater liquidity than the typical bond issued by a coop.  
-- When the coop is providing a product, early adopters investing in prototype, alpha, or beta units, could receive automated credits that provide them with a finished product at no further cost. This could speed technology development by rewarding early adopters for taking risk similiar to how early stock investors are rewarded in a conventionally funded project.   
 - No money is pooled.  Instead it remains in the customer/user wallet and released directly to suppliers as needed and as the project meets targets.  This improvement to financial security (and associated reduction in administrative oversight costs) could allow for further cost reduction.  
-- Stable coins tied to a local currency can be used for efficient and automatically tracked domestic project payments.  For contracts in which equipment is purchased over extended periods from an export country, the risk of currency fluctuations can be significant.  The sometimes volatile swings of the Canadian currency can be addressed by the more stable synthetic smart contracts that track the price of an agreed upon basket of goods or other asset.     
+- The customer's investment could have much greater liquidity than the typical bond issued by a coop.  
+- When the coop is providing a product, early adopters investing in prototype, alpha, or beta units, could receive automated credits toward future products.  
+- Stable coins tied to a local currency can be used for efficient and automatically tracked domestic project payments.  
+- For contracts in which equipment is purchased over extended periods from another country, the risk of currency fluctuations can be significant.  Swings of the Canadian currency could be addressed by using more stable smart contract "synthetics" that track an agreed upon basket of goods or other asset both parties agree upon.     
 
 ## Schedule:  
 
