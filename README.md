@@ -24,7 +24,7 @@ Some of the reasons for our transitioning to agroforestry with greenhouse includ
 For managing data, we are using a 3D file system ([BIM-IFC5 for infrastructure and landscaping](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/)) as illustrated below.   
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/slopedRoofFromSpecSheet-githubReadme.svg" alt="BIM Models" width="900">
+<img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/slopedRoofFromSpecSheet-githubReadme.svg" alt="BIM Models" width="700">
 </p>
 
 Some of the conventional Building Information Management (BIM) tools are being used to design out-buildings (greenhouses, sheds, workshop, garage, ...) as illustrated in the panel to the left.  However, the main purpose of this file system is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) as shown in the panel to the right.
