@@ -23,15 +23,17 @@ Some of the reasons for our transitioning to agroforestry with greenhouse includ
 
 - Diversification: Greenhouses and higher-value trees provide income independent of the field crop and distribute work more evenly over the year.   
 
-We are using an open standard 3D file system for design and to manage the farm's data.  For buildings, some of the conventional Building Information Management (BIM) tools are being used to design out-buildings (greenhouses, sheds, workshop, garage, ...).  For example, one of the tools we use can quickly generate a model, that is suitable for visualization and costing, from a simple mark-down text document as illustrated below.
+For managing data, we are using an open standard 3D file system for design and to manage the farm's data.  For buildings, some of the conventional Building Information Management (BIM) tools are being used to design out-buildings (greenhouses, sheds, workshop, garage, ...).  The main purpose of BIM in our case, however, is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) using the BIM extension for [infrastructure and landscaping](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/) known as BIM-IFC5. 
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/slopedRoofFromSpecSheet-githubReadme.png" alt="Farm plan co-gen" width="500">
 </p>
 
-The main purpose of BIM in our case, however, is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) using the BIM extension for [infrastructure and landscaping](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/) (known as BIM-IFC5).  This will make large collections of data, gathered over decades, easier to store, find, and analize when compared to using conventional 2D file folder arrangements which can quickly become overwhelming and difficult for others to use.  Use of the BIM-IFC5 standard should be especially useful to agroforestry projects in regions where that standard is also used by local government for the surrounding public works (roads, drainage, other infrastructure). 
+The IFC standard is the only data format we are aware of that is likely to persist and be supported for a 100 years or more, primarily due to its use by governments for public infrastructure (roads, drainage, other infrastructure) which is typically designed for similiar life spans. 
 
 **Carbon-negative integrated greenhouse**
+
+Agroforestry as described above is an established practice.  Where we will be doing some original work is in our approach to supplying greenhouse utilities.  This is an important area for technical improvement.  
 
 Small-farm agroforestry produces significant amounts of waste biomass that must be managed.  Through gassification this waste can be used to produce heat (e.g. for greenhouses), gas, electricity, treated water, and with some designs, fertilizer and [char](https://biochar-international.org/sustainability-climate-change/) (solid carbon) which can be used as a soil ammendment or sold as a [product](https://national-carbon.com/). A schematic showing the long-term design objectives for our greenhouse integrated application is shown below.
 
