@@ -54,7 +54,7 @@ The technologies for using waste wood and waste crop biomass to provide utility 
 - [Commercial scale heat, electricity, and char](https://www.reset-energy.com/en/syngasmart-plants-use-cases-applications-and-benefits/)
 - [Farm scale 25kW heat, electricity, and char](https://www.allpowerlabs.com/products/product-overview)
 
-However, while the core technology is mature and proven, practical systems todasy are generally cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to equipment, but these reductions are likely to be marginal and slow.  Faster and more significant cost reduction opportunities are likely to be those from:
+However, while the core technology is mature and proven, practical systems today are generally cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to equipment, but these reductions are likely to be marginal and slow.  Faster and more significant cost reduction opportunities are likely to be those from:
 
 1. Improved system integration that provides all utility services as illustrated above. 
 1. Using Smart Contract platforms to lower the cost of project capital and administrative overhead. 
