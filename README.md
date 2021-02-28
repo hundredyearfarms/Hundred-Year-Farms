@@ -33,7 +33,7 @@ The IFC standard is the only data format we are aware of that is likely to persi
 
 **Carbon-negative integrated greenhouse**
 
-Agroforestry as described above is an established practice.  Where we will be doing some original work is in our approach to supplying greenhouse utilities from waste biomass.  That is what could allow this farm to become carbon negative and more profitable.  This is what we consider our unique product.  
+Agroforestry as described above is an established practice.  Where we will be doing some original work is in our approach to supplying greenhouse utilities from waste biomass.  That is what could allow this farm to become carbon negative and potentially more profitable.  This is what we consider our unique product.  
 
 In general, agroforestry produces significant amounts of waste biomass that must be managed.  Through gassification this waste can be used to produce heat (e.g. for greenhouses), gas, electricity, treated water, and with some designs, fertilizer and [char](https://biochar-international.org/sustainability-climate-change/) (solid carbon) which can be used as a soil ammendment or sold as a [product](https://national-carbon.com/). A schematic showing the long-term design objectives for our greenhouse integrated application is shown below.
 
@@ -69,7 +69,7 @@ The first panel in the diagram below depicts conventional project financing from
 
 To illustrate the significance of more efficient financing, a recent [low-carbon biogas-from-waste project](https://www.torontozoo.com/tz/biogas) at the Toronto Zoo (completed in 2021) used a project structure similiar to that in the second panel.  They were able to organize their project as a cooperative since the surrounding community viewed their project as having a social purpose and this allowed them to raise money by selling bonds to those in the surrounding area at 5% as opposed to the 15% or more that an investor led project would require.  For that $5M project, the difference between having to return capital at 5% versus 15% is a more significant cost reduction than could have been acheived through equipment design.  
 
-The proposed smart contract technology, as shown in the third panel, potentially could be used to lower the cost of that approach further whether it is for equipment manufacture, or a system installation. This may be especially important for the smaller social purpose (e.g. carbon negative) projects in which administrative overhead makes them impractical.  How significant improved system integration and smart contracts could bring forward low-carbon technologies is a subject of our feasibility study.  
+The proposed smart contract technology, as shown in the third panel, potentially could be used to lower the cost of that approach further whether it is for equipment manufacture, or a system installation. This may be especially important for the smaller social purpose (e.g. carbon negative) projects in which the cost of finance management can be prohibitive.  How significant improved system integration and smart contracts could bring forward low-carbon technologies is a subject of our feasibility study.  
 
 ## Schedule:  
 
