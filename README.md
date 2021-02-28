@@ -21,13 +21,13 @@ Some of the reasons for our transitioning to agroforestry with greenhouse includ
 - Biodiversity: Mitigates pest and fire risk while making the property more interesting to visit.  
 - Diversification: Greenhouses and high-value trees provide income independent of field crops and distribute work over the year.   
 
-For managing data, we are using an open standard 3D file system ([BIM-IFC5 for infrastructure and landscaping](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/)).  Some of the conventional Building Information Management (BIM) tools are being used to design out-buildings (greenhouses, sheds, workshop, garage, ...) as illustrated in the panel to the left below.  However, the main purpose of this file system is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) as shown in the panel to the right. 
+For managing data, we are using a 3D file system ([BIM-IFC5 for infrastructure and landscaping](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/)) as illustrated below.   
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/slopedRoofFromSpecSheet-githubReadme.svg" alt="BIM Models" width="900">
 </p>
 
-The BIM-IFC standard is the only data format we are aware of that is likely to persist and be supported for a 100 years or more due to its use by governments for public infrastructure which is typically designed for life spans similiar to this farm. 
+Some of the conventional Building Information Management (BIM) tools are being used to design out-buildings (greenhouses, sheds, workshop, garage, ...) as illustrated in the panel to the left.  However, the main purpose of this file system is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) as shown in the panel to the right.
 
 **Carbon-negative integrated greenhouse**
 
