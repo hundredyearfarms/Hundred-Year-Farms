@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="196.16518mm"
+   height="112.90023mm"
+   viewBox="0 0 196.16518 112.90023"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e81, 2020-09-07)"
@@ -19,8 +19,8 @@
      id="defs2">
     <rect
        x="11.220328"
-       y="155.8552"
-       width="98.912335"
+       y="155.85519"
+       width="98.912338"
        height="14.012988"
        id="rect901" />
     <symbol
@@ -34,9 +34,9 @@
     </symbol>
     <rect
        x="11.220328"
-       y="155.8552"
+       y="155.85519"
        width="98.244553"
-       height="19.905217"
+       height="19.905216"
        id="rect911" />
   </defs>
   <sodipodi:namedview
@@ -47,8 +47,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="423.5686"
-     inkscape:cy="580.85879"
+     inkscape:cx="393.57699"
+     inkscape:cy="374.71391"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -73,7 +73,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-7.9352795,-54.542499)">
     <image
        width="93.800568"
        height="57.383873"
