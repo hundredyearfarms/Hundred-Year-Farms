@@ -1,6 +1,6 @@
 ## Overview
 
-Hundred Year Farms refers to two small farm properties (each about 43 acres); one on Prince Edward Island and the other in Manitoba. For both farms our plan is to make a gradual transition to Agroforestry.  Agroforesty involves the planting of crops, including grains, fruits, or vegetables, between rows of trees.  We believe that this type of farming, when combined with greenhouses, can be made so that it becomes carbon-negative while it maintains food production, rebuilds topsoil, and maintains habitat. That, in turn, should lead to higher long-term asset values than would otherwise be the case and make the farms more interesting to visit over the next 100 years.
+Hundred Year Farms refers to two small farm properties (each about 43 acres); one on Prince Edward Island and the other in Manitoba. For both farms our plan is to make a gradual transition to Agroforestry.  Agroforesty involves the planting of crops, including grains, fruits, or vegetables, between rows of trees.  We believe that this type of farming, when combined with a greenhouse, can be made so that it becomes carbon-negative while maintaining food production, rebuilding topsoil, and maintaining habitat. That, in turn, should lead to higher long-term asset values than would otherwise be the case and make the farms more interesting to visit over the next 100 years.
 
 - [What is agroforestry?](https://www.aftaweb.org/)
 - [Agroforestry - Canada](https://www.agr.gc.ca/eng/agriculture-and-climate/agricultural-practices/agroforestry/?id=1177431400694), [Agroforestry - UK](https://www.agforward.eu/index.php/en/silvoarable-agroforestry-in-the-uk.html), [Agroforestry - EU](https://euraf.isa.utl.pt/welcome), [Agroforestry - US](https://www.usda.gov/topics/forestry/agroforestry)
@@ -13,7 +13,7 @@ Our plan for the island farm, as shown by the superposition of trees onto the sa
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/IFCSite-FarmProposedTrees.png" alt="Farm plan - tree overlay" width="500">
 </p>
 
-<u>Image</u>: *Proposed new trees and storm-water collection pond laid over a sattelite image(gradient lines show how the land slopes toward the south where surface run-off water collects). A - water erosion down the centre of this field is evident, but can be controlled by the new rows of trees that follow field contours. B - this prior clear-cut will be diversified to a wider range of native tree species. C - windbreak realligned to follow land contours. D - Greenhouse.*
+<u>Image</u>: *Proposed new trees and storm-water collection pond laid over a satellite image.  Gradient lines show how the land slopes toward the south where surface run-off water collects. A - water erosion down the centre of this field is evident, but can be controlled by the new rows of trees that follow field contours. B - this prior clear-cut will be diversified to a wider range of native tree species. C - windbreak realligned to follow land contours. D - Greenhouse.*
 
 Some of the reasons for our transitioning to agroforestry with greenhouse include:
 
@@ -23,19 +23,13 @@ Some of the reasons for our transitioning to agroforestry with greenhouse includ
 
 - Diversification: Greenhouses and higher-value trees provide income independent of the field crop and distribute work more evenly over the year.   
 
-While agroforestry is not new, what will make our approach somewhat unique is the way we will manage asset data and our development of an integrated carbon-negative greenhouse.  These are expanded upon below.
-
-**Asset Data - Buildings, Infrastructure, and Landscaping using BIM-IFC5**
-
 We are using an open standard 3D file system for design and to manage the farm's data.  For buildings, some of the conventional Building Information Management (BIM) tools are being used to design out-buildings (greenhouses, sheds, workshop, garage, ...).  For example, one of the tools we use can quickly generate a model, that is suitable for visualization and costing, from a simple mark-down text document as illustrated below.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/slopedRoofFromSpecSheet-githubReadme.png" alt="Farm plan co-gen" width="500">
 </p>
 
-The main purpose of BIM in our case, however, is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) using the BIM extension for [infrastructure and landscaping](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/) (known as BIM-IFC5).  This will make large collections of data, gathered over decades, easier to store, find, and analize when compared to using conventional 2D file folder arrangements which can quickly become overwhelming and difficult for others to use.  
-
-Use of the BIM-IFC5 standard should be especially useful to agroforestry projects in regions where that standard is also used by local government for the surrounding public works (roads, drainage, other infrastructure). This git repository will hold the workflow and associated FreeCAD/Blender models as they develop.
+The main purpose of BIM in our case, however, is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) using the BIM extension for [infrastructure and landscaping](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/) (known as BIM-IFC5).  This will make large collections of data, gathered over decades, easier to store, find, and analize when compared to using conventional 2D file folder arrangements which can quickly become overwhelming and difficult for others to use.  Use of the BIM-IFC5 standard should be especially useful to agroforestry projects in regions where that standard is also used by local government for the surrounding public works (roads, drainage, other infrastructure). 
 
 **Carbon-negative integrated greenhouse**
 
