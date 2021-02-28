@@ -13,7 +13,7 @@ Our plan for the island farm, as shown by the superposition of trees onto the sa
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/IFCSite-FarmProposedTrees.png" alt="Farm plan - tree overlay" width="500">
 </p>
 
-<u>Image</u>: *Proposed new trees and storm-water collection pond laid over a satellite image.  Gradient lines show how the land slopes toward the south where surface run-off water collects. A - water erosion down the centre of this field is evident, but can be controlled by the new rows of trees that follow field contours. B - this prior clear-cut will be diversified to a wider range of native tree species. C - windbreak realligned to follow land contours. D - Greenhouse.*
+<u>Image</u>: *Proposed new trees and storm-water collection pond laid over a satellite image.  Gradient lines show how the land slopes toward the south where surface run-off water collects. A - water erosion down the centre of this field is evident, but can be controlled by the new rows of trees that follow field contours. B - prior clear-cut area. C - windbreak realligned to follow land contours. D - Greenhouse.*
 
 Some of the reasons for our transitioning to agroforestry with greenhouse include:
 
@@ -21,7 +21,7 @@ Some of the reasons for our transitioning to agroforestry with greenhouse includ
  
 - Biodiversity: Mitigates pest and fire risk while making the property more interesting to visit.  
 
-- Diversification: Greenhouses and higher-value trees provide income independent of the field crop and distribute work more evenly over the year.   
+- Diversification: Greenhouses and high-value trees provide income independent of field crops and distribute work over the year.   
 
 For managing data, we are using an open standard 3D file system for design and to manage the farm's data.  For buildings, some of the conventional Building Information Management (BIM) tools are being used to design out-buildings (greenhouses, sheds, workshop, garage, ...).  The main purpose of BIM in our case, however, is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) using the BIM extension for [infrastructure and landscaping](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/) known as BIM-IFC5. 
 
