@@ -51,29 +51,21 @@ The technologies for using waste wood and waste crop biomass to provide utility 
 However, while the core technology is mature and proven, practical systems today are generally cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to equipment, but these reductions are likely to be marginal and slow.  Faster and more significant cost reduction opportunities are likely to be those from:
 
 1. Improved system integration that provides all utility services as illustrated above. 
-1. Using Smart Contract platforms to lower the cost of project capital and administrative overhead. 
+1. Using automation (e.g. Smart Contracts) to lower the cost of project capital and administration. 
 
-Of these two, the smart (automated) contracts are judged to be the most important and, if successful, could make carbon-negative technologies in general more cost competitive and thus increase the rate of carbon sequestration. The paper listed below from the US Federal Reserve, the OASIS Standards Body - Baseline Protocol, and the Ernst & Young blockchain intiative summarize the opportunities and tools most relevant to our project. 
+The paper listed below from the US Federal Reserve, the OASIS Standards Body - Baseline Protocol, and the Ernst & Young blockchain intiative summarize the opportunities and tools most relevant to the second bullet above. 
 
 - [US Federal Reserve - Smart Contract Research Report](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)
 - [OASIS Standards Body - Baseline Protocol for Smart Contracts](https://docs.baseline-protocol.org/baseline-protocol/architecture)
 - [Ernst & Younge Blockchain Initiative](https://blockchain.ey.com/)
 
-The first panel in the diagram below depicts conventional project financing from investor shares.  The second panel depicts a common, but less frequently used, form of financing for projects with a social purpose known as a cooperative.  The third panel proposes to improve upon the social purpose cooperative using smart contracts.    
+The first panel in the diagram below depicts conventional project financing from investor shares.  The second panel depicts a common, but less frequently used, form of financing for projects with a social purpose known as a cooperative.  The third panel proposes to improve upon the social purpose cooperative using smart contracts to the extent they become feasible.    
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/SMARTCONTRACTS.svg" alt="Smart Contract Cooperatives" width="800">
 </p>
 
-A recent [low-carbon biogas-from-waste project](https://www.torontozoo.com/tz/biogas) at the Toronto Zoo (completed in 2021) used a project structure similiar to that in the second panel.  They were able to organize their project as a cooperative since the surrounding community viewed their project as having a social purpose and this allowed them to raise money by selling bonds to those in the surrounding area at 5% as opposed to the 15% or more that an investor led project would require.  For this $5M project, the difference between having to return capital at 5% versus 15% is a far more significant cost reduction than could have been acheived through equipment design.  The proposed smart contract technology, as shown in the third panel, could further lower the cost of that approach especially for the smaller social purpose (e.g. carbon negative) projects and allow them to be implemented at scale in a shorter time frame than otherwise possible.  How significant smart contracts could bring forward low-carbon technologies is unknown and the subject of our feasibility study.  
-
-Apart from cost-reduction, the smart-contract cooperative could offer additional advantages, such as those listed below, which we will investigate further as part of our feasibility study:
-
-- No money is pooled.  Instead it remains in the customer/user wallet and released directly to suppliers as needed and as the project meets targets.  This lowers financial risk and administrative oversight costs.  
-- The customer's investment could have much greater liquidity than the typical bond issued by a coop.  
-- When the coop is providing a product, early adopters investing in prototype, alpha, or beta units, could receive automated credits toward future products.  
-- Stable coins tied to a local currency (with traceability) could potentially be used for project payments that ensure automated tracking and records (i.e. reduced administration).     
-- In many cases, small cooperatives are the best solution, but the likelihood of a small group of non-financial experts having the skills and time to operate one can be low.  Automating the financial management function could help ensure regulatory compliance, provide indisputable records, and make these organizations more likely to succeed.  
+A recent [low-carbon biogas-from-waste project](https://www.torontozoo.com/tz/biogas) at the Toronto Zoo (completed in 2021) used a project structure similiar to that in the second panel.  They were able to organize their project as a cooperative since the surrounding community viewed their project as having a social purpose and this allowed them to raise money by selling bonds to those in the surrounding area at 5% as opposed to the 15% or more that an investor led project would require.  For that $5M project, the difference between having to return capital at 5% versus 15% is a more significant cost reduction than could have been acheived through equipment design.  The proposed smart contract technology, as shown in the third panel, potentially could lower the cost of that approach further especially for the smaller social purpose (e.g. carbon negative) projects in which administrative overhead makes them impractical.  How significant smart contracts could bring forward low-carbon technologies is unknown and a subject of our feasibility study.  
 
 ## Schedule:  
 
