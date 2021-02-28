@@ -29,7 +29,7 @@ For managing data, we are using an open standard 3D file system for design and t
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/slopedRoofFromSpecSheet-githubReadme.png" alt="Farm plan co-gen" width="500">
 </p>
 
-The IFC standard is the only data format we are aware of that is likely to persist and be supported for a 100 years or more, primarily due to its use by governments for public infrastructure (roads, drainage, other infrastructure) which is typically designed for similiar life spans. 
+The IFC standard is the only data format we are aware of that is likely to persist and be supported for a 100 years or more, primarily due to its use by governments for public infrastructure (roads, drainage, other infrastructure) which is typically designed for life spans similiar to this farm. 
 
 **Carbon-negative integrated greenhouse**
 
