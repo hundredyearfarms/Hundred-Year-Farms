@@ -52,7 +52,7 @@ The technologies for using waste wood and waste crop biomass to provide utility 
 
 However, while the core technology is proven, practical systems today are generally cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to equipment, but these reductions are likely to continue being marginal and slow.  Faster and more significant cost reduction opportunities are likely to be those from:
 
-1. Improving system integration to provide all utility services as illustrated above. 
+1. Improving system integration to provide all utility services as illustrated above (i.e. not just heat and electricity). 
 1. Using automation (e.g. Smart Contracts) to lower the cost of project capital and administration. 
 
 The paper listed below from the US Federal Reserve, the OASIS Standards Body - Baseline Protocol, and the Ernst & Young blockchain intiative summarize the opportunities and tools most relevant to the second bullet above. 
