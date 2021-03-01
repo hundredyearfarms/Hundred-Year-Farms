@@ -7,7 +7,7 @@ Hundred Year Farms refers to two small farm properties (each about 43 acres); on
 
 **Farm Plan (PEI)**
 
-Our plan for the island farm, as shown by the superposition of trees onto the sattelite image below, is to plant strong wind-break trees along the uppermost ridge with the trees and crops that require more sunlight and wind protection located lower on the farm's south sloping land. The existing trees are a near single species of spruce resulting from a prior clear-cut, but the new trees will be a more diverse mix that may include maple, oak, poplar, birch, hemlock, and apple, among others.  The trees in rows will be arranged to allow for selective harvesting while some blocks will be left to grow unmanaged.  A greenhous will be incorporated into this farm system.
+Our plan for the island farm, as shown by the superposition of trees onto the sattelite image below, is to plant strong wind-break trees along the uppermost ridge with the trees and crops that require more sunlight and wind protection located lower on the farm's south sloping land. The existing trees are a near single species of spruce from a prior clear-cut, but the new trees will be a more diverse mix of maple, oak, poplar, birch, hemlock, and apple, among others.  The trees in rows will be arranged to allow for selective harvesting while some blocks will be left to grow unmanaged.  A greenhouse will be incorporated into this agroforestry system.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/IFCSite-FarmProposedTrees.png" alt="Farm plan - tree overlay" width="500">
@@ -20,14 +20,6 @@ Some of the reasons for our transitioning to agroforestry with greenhouse includ
 - Erosion Control: Trees in rows reduce wind speeds and slow drainage during extreme weather.  
 - Biodiversity: Mitigates pest and fire risk while making the property more interesting to visit.  
 - Diversification: Greenhouses and high-value trees provide income independent of field crops and distribute work over the year.   
-
-For managing data, we are using a 3D file system as illustrated below.   
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/slopedRoofFromSpecSheet-githubReadme.svg" alt="BIM Models" width="600">
-</p>
-
-Some of the conventional Building Information Management (BIM) tools are being used to design out-buildings (greenhouses, sheds, workshop, garage, ...) as shown in the panel to the left.  However, the main purpose of this file system is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) as shown in the panel to the right.  The intent is to adapt the [BIM-IFC5 standard](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/), which includes infrastructure and landscaping, once available.
 
 **Carbon-negative integrated greenhouse**
 
@@ -68,6 +60,16 @@ The first panel in the diagram below depicts conventional project financing from
 To illustrate the significance of more efficient financing, a recent [low-carbon biogas-from-waste project](https://www.torontozoo.com/tz/biogas) at the Toronto Zoo (completed in 2021) used a project structure similiar to that in the second panel.  They were able to organize their project as a cooperative since the surrounding community viewed their project as having a social purpose and this allowed them to raise money by selling bonds to those in the surrounding area at 5% as opposed to the 15% or more that an investor led project would require.  For that $5M project, the difference between having to return capital at 5% versus 15% is a more significant cost reduction than could have been acheived through equipment design.  
 
 The proposed smart contract technology, as shown in the third panel, potentially could be used to lower the cost of that approach further whether it is for equipment manufacture, system installation, or a coop managed property. This may be especially useful to the smaller social purpose (e.g. carbon negative) projects in which the cost of finance management can be prohibitive.  How significant improved system integration and smart contracts could bring forward low-carbon technologies is a subject of our upcoming feasibility study.  
+
+## Data
+
+For managing data, we are using a 3D file system as illustrated below.   
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/slopedRoofFromSpecSheet-githubReadme.svg" alt="BIM Models" width="600">
+</p>
+
+Some of the conventional Building Information Management (BIM) tools are being used to design out-buildings (greenhouses, sheds, workshop, garage, ...) as shown in the panel to the left.  However, the main purpose of this file system is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) as shown in the panel to the right.  The intent is to adapt the [BIM-IFC5 standard](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/), which includes infrastructure and landscaping, once available.
 
 ## Schedule:  
 
