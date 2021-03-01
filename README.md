@@ -13,15 +13,15 @@ Our plan for the island farm, as shown by the superposition of trees onto the sa
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/IFCSite-FarmProposedTrees.png" alt="Farm plan - tree overlay" width="500">
 </p>
 
-<u>Image</u>: *Proposed new trees and storm-water collection pond laid over a satellite image.  Gradient lines show how the land slopes toward the south where surface run-off water collects. A - water erosion down the centre of this field is evident, but can be controlled by the new rows of trees that follow field contours. B - prior clear-cut area. C - windbreak realligned to follow land contours. D - Greenhouse.*
+<u>Image</u>: *Proposed new trees laid over a satellite image.  Gradient lines show how the land slopes toward the south where surface run-off water collects. A - water erosion down the centre of this field is evident, but can be controlled by the new rows of trees that follow field contours. B - prior clear-cut area. C - windbreak realligned to follow land contours. D - Greenhouse.*
 
-Some of the goals we are trying to achieve with the transition to agroforestry with greenhouse include:
+Some of the goals we are trying to achieve through agroforestry with greenhouse include:
 
 - Erosion Control: Trees in rows reduce wind speeds and slow drainage during extreme weather.  
 - Biodiversity: Mitigates pest and fire risk while making the property more interesting to visit.  
 - Diversification: Greenhouses and high-value trees provide income independent of field crops and distribute work over the year.   
 
-Agroforestry is an old and well-established practice that we will be adapting, with the help of various experts, to our specific sites.  Implementation will be gradual and is likely to take decades to implement, or it may even be inter-generational.  While our proposed agroforestry is not unique, where we will be doing some original work is in our approach to supplying greenhouse utilities from the farm's waste biomass.  Those utilities, integrated into our greenhouse, are what could allow this farm to become carbon negative and the technology for those utilities potentially could become a product.
+Agroforestry is an old and well-established practice that we will be adapting, with the help of various experts, to our sites.  Implementation will be gradual and is likely to require decades to complete or it may be inter-generational.  While our proposed agroforestry is not unique, where we will be doing some original work is in our approach to supplying greenhouse utilities from the farm's waste biomass.  Those utilities, integrated into our greenhouse, are what could allow this farm to become carbon negative with the technology potentially becoming a product.
 
 **Carbon-negative integrated greenhouse**
 
@@ -37,15 +37,14 @@ The core technologies for using waste wood and waste crop biomass to provide uti
 - [Practical example - heat and electricity at Scotston Farm](https://www.youtube.com/watch?v=i9xmWJ4hAGs)
 - [Practical example - heat and char at Burt's Greenhouse](https://biochar-international.org/burtsgreenhouse/)
 - [Practical example - heat and char by the City of Stokcholm](https://www.stockholmvattenochavfall.se/en/current-projects/development/biochar/#!/about-the-biochar-project)
-- [Commercial scale heat, electricity, and char](https://www.reset-energy.com/en/syngasmart-plants-use-cases-applications-and-benefits/)
 - [Farm scale 25kW heat, electricity, and char](https://www.allpowerlabs.com/products/product-overview)
 
 However, while the core technology is proven, practical systems today are generally cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to equipment, but those reductions are likely to be marginal and slow.  Faster and more significant cost reduction opportunities are likely to be those from:
 
-1. Improving system integration to provide all utility services as illustrated above (i.e. not just heat and electricity). 
+1. Improving system integration to provide all utility services as illustrated above. 
 1. Using automation (e.g. Smart Contracts) to lower the cost of project capital and administration. 
 
-Of those two bullets, the second is judged to have the most potential for cost reduction of carbon-negative technologies.  
+Of those two bullets, the second is judged to have the most potential for reducing cost.  
 
 - [US Federal Reserve - Smart Contract Research Report](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)
 - [OASIS Standards Body - Baseline Protocol for Smart Contracts](https://docs.baseline-protocol.org/baseline-protocol/architecture)
