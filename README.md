@@ -66,7 +66,7 @@ For managing data, we are using a 3D file system based on the [BIM-IFC5 standard
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/slopedRoofFromSpecSheet-githubReadme.svg" alt="BIM Models" width="600">
 </p>
 
-Some of the conventional Building Information Management (BIM) tools are being used to the design out-buildings (greenhouses, sheds, workshop, garage, ...) as shown in the panel to the left.  However, the main purpose of this file system is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) as shown in the panel to the right.
+Some of the conventional Building Information Management (BIM) tools are being used to design out-buildings (greenhouses, sheds, workshop, garage, ...) as shown in the panel to the left.  However, the main purpose of this file system is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) as shown in the panel to the right.
 
 ## Schedule:  
 
