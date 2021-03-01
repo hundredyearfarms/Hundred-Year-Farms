@@ -15,15 +15,15 @@ Our plan for the island farm, as shown by the superposition of trees onto the sa
 
 <u>Image</u>: *Proposed new trees and storm-water collection pond laid over a satellite image.  Gradient lines show how the land slopes toward the south where surface run-off water collects. A - water erosion down the centre of this field is evident, but can be controlled by the new rows of trees that follow field contours. B - prior clear-cut area. C - windbreak realligned to follow land contours. D - Greenhouse.*
 
-Some of the reasons for our transitioning to agroforestry with greenhouse include:
+Some of the goals we are trying to achieve with the transition to agroforestry with greenhouse include:
 
 - Erosion Control: Trees in rows reduce wind speeds and slow drainage during extreme weather.  
 - Biodiversity: Mitigates pest and fire risk while making the property more interesting to visit.  
 - Diversification: Greenhouses and high-value trees provide income independent of field crops and distribute work over the year.   
 
-**Carbon-negative integrated greenhouse**
+Agroforestry is an old and well-established practice that we will be adapting, with the help of various experts, to our specific sites.  Implementation will be gradual and is likely to take decades to implement, or it may even be inter-generational.  While our proposed agroforestry is not unique, where we will be doing some original work is in our approach to supplying greenhouse utilities from the farm's waste biomass.  Those utilities, integrated into our greenhouse, are what could allow this farm to become carbon negative and they potentially could become a product.
 
-Agroforestry as described above is an established practice.  Where we will be doing some original work is in our approach to supplying greenhouse utilities from waste biomass.  That is what could allow this farm to become carbon negative and potentially more profitable.  This is what we consider our unique product.  
+**Carbon-negative integrated greenhouse**
 
 In general, agroforestry produces significant amounts of waste biomass that must be managed.  Through gassification this waste can be used to produce heat (e.g. for greenhouses), gas, electricity, treated water, and with some designs, fertilizer and [char](https://biochar-international.org/sustainability-climate-change/) (solid carbon) which can be used as a soil ammendment or sold as a [product](https://national-carbon.com/). A schematic showing the long-term design objectives for our greenhouse integrated application is shown below.
 
@@ -40,7 +40,7 @@ The technologies for using waste wood and waste crop biomass to provide utility 
 - [Commercial scale heat, electricity, and char](https://www.reset-energy.com/en/syngasmart-plants-use-cases-applications-and-benefits/)
 - [Farm scale 25kW heat, electricity, and char](https://www.allpowerlabs.com/products/product-overview)
 
-However, while the core technology is proven, practical systems today are generally cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to equipment, but these reductions are likely to continue being marginal and slow.  Faster and more significant cost reduction opportunities are likely to be those from:
+However, while the core technology is proven, practical systems today are generally cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to equipment, but these reductions are likely to be marginal and slow.  Faster and more significant cost reduction opportunities are likely to be those from:
 
 1. Improving system integration to provide all utility services as illustrated above (i.e. not just heat and electricity). 
 1. Using automation (e.g. Smart Contracts) to lower the cost of project capital and administration. 
@@ -69,11 +69,11 @@ For managing data, we are using a 3D file system as illustrated below.
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/slopedRoofFromSpecSheet-githubReadme.svg" alt="BIM Models" width="600">
 </p>
 
-Some of the conventional Building Information Management (BIM) tools are being used to design out-buildings (greenhouses, sheds, workshop, garage, ...) as shown in the panel to the left.  However, the main purpose of this file system is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) as shown in the panel to the right.  The intent is to adapt the [BIM-IFC5 standard](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/), which includes infrastructure and landscaping, once available.
+Some of the conventional Building Information Management (BIM) tools are being used to design out-buildings (greenhouses, sheds, workshop, garage, ...) as shown in the panel to the left.  However, the main purpose of this file system is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) as shown in the panel to the right.  The intent is to adapt the [BIM-IFC5 standard](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/), which includes infrastructure and landscaping.
 
 ## Schedule:  
 
-Over the course of 2021 we will continue to refine the above concept design with the help of consultants.  Following that will be a [feasibility study](https://guides.co/g/vital-steps-a-cooperative-feasibility-study-guide/85047) that considers the state of technology (e.g. IFC5, co-generation, and smart contracts) as well as the relevant industry standards, government regulations, and tax treatments.  The feasibility study is not expected to change our overall concept for carbon-negative agroforestry, but rather will tell us how quickly the greenhouse integrated co-generation system can be implemented and the scope of our activities.  Following feasibility will be the preliminary designs, then the down-selected detailed design, then a business plan for implementation. Implemenation very well may end up being within this decade or we may need to plan for a more gradual inter-generational transition to carbon-negative agroforestry with greenhouse.  
+Over the course of 2021 we are continuing to refine the above concept design with the help of consultants.  Following that will be a [feasibility study](https://guides.co/g/vital-steps-a-cooperative-feasibility-study-guide/85047) that considers the state of technology for the integrated greenhouse as well as the relevant industry standards, government regulations, and tax treatments.  The feasibility study is not expected to change our overall concept for carbon-negative agroforestry, but rather will tell us how quickly the greenhouse integrated co-generation system can be implemented and the scope of our activities.  Following feasibility will be the preliminary designs, then the down-selected detailed design, then a business plan for implementation. Implemenation very well may end up being within this decade or we may need to plan for a more gradual inter-generational transition to carbon-negative agroforestry with greenhouse.  
 
 ## Owners
 
