@@ -45,23 +45,23 @@ However, while the core technology is proven, practical systems today are genera
 1. Improving system integration to provide all utility services as illustrated above (i.e. not just heat and electricity). 
 1. Using automation (e.g. Smart Contracts) to lower the cost of project capital and administration. 
 
-To expand on the second item, the paper listed below from the US Federal Reserve, the OASIS Standards Body - Baseline Protocol, and the Ernst & Young blockchain intiative summarize the opportunities and tools most relevant to that bullet. 
+Of those two bullets, the second is judged to have the most potential for cost reduction of carbon-negative technologies.  
 
 - [US Federal Reserve - Smart Contract Research Report](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)
 - [OASIS Standards Body - Baseline Protocol for Smart Contracts](https://docs.baseline-protocol.org/baseline-protocol/architecture)
 - [Ernst & Younge Blockchain Initiative](https://blockchain.ey.com/)
 
-To illustrate how this may be relevant, the first panel in the diagram below depicts conventional project financing from investor shares.  The second panel depicts a common, but less frequently used, form of financing for projects with a social purpose known as a cooperative.  The third panel proposes to improve upon the social purpose cooperative using smart contracts to the extent they become feasible over the next decade.    
+To illustrate how this may be possible, the first panel in the diagram below depicts conventional project financing from investor shares.  The second panel depicts a common, but less frequently used, form of financing for projects with a social purpose known as a cooperative.  The third panel proposes to improve upon the social purpose cooperative using smart contracts to the extent they become feasible over the next decade.    
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/SMARTCONTRACTS.svg" alt="Smart Contract Cooperatives" width="800">
 </p>
 
-A recent example of efficient financing is given by a [low-carbon biogas-from-waste project](https://www.torontozoo.com/tz/biogas) at the Toronto Zoo (completed in 2021) which used a project structure similiar to that in the second panel.  They were able to organize their project as a cooperative since the surrounding community viewed their project as having a social purpose and this allowed them to raise money by selling bonds to those in the surrounding area at 5% as opposed to the 15% or more that an investor led project would require.  For that $5M project, the difference between having to return capital at 5% versus 15% is a more significant cost reduction than could have been acheived through equipment design.  
+A recent example of efficient financing, using a project structure similiar to that in the second panel, is given by the [low-carbon biogas-from-waste project](https://www.torontozoo.com/tz/biogas) at the Toronto Zoo.  They were able to organize their project as a cooperative since their project had a social purpose and that allowed them to raise money by selling bonds at 5% as opposed to the 15% or more that an investor led project would require.  For that $5M project, the difference between having to return capital at 5% versus 15% is a more significant cost reduction than could have been achieved through equipment design.  
 
 The proposed smart contract technology, as shown in the third panel, potentially could be used to lower the cost of that approach further whether it is for equipment manufacture, system installation, or a coop managed property. This could be especially useful to the smaller social purpose (e.g. carbon negative) projects in which the cost of finance management is otherwise prohibitive.  
 
-How significant improved system integration and smart contracts could bring forward low-carbon technologies is a subject of our upcoming feasibility study.  
+How significant improved system integration and smart contracts could bring forward low-carbon technologies is a subject of our feasibility study.  
 
 ## Data
 
@@ -71,7 +71,7 @@ For managing data, we are using a 3D file system as illustrated below.
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/slopedRoofFromSpecSheet-githubReadme.svg" alt="BIM Models" width="600">
 </p>
 
-Some of the conventional Building Information Management (BIM) tools are being used to design out-buildings (greenhouses, sheds, workshop, garage, ...) as shown in the panel to the left.  However, the main purpose of this file system is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) as shown in the panel to the right.  The intent is to adapt the [BIM-IFC5 standard](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/), which includes infrastructure and landscaping.
+Some of the conventional Building Information Management (BIM) tools are being used to design out-buildings (greenhouses, sheds, workshop, garage, ...) as shown in the panel to the left.  However, the main purpose of this file system is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) as shown in the panel to the right using the [BIM-IFC5 standard](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/) for infrastructure and landscaping.
 
 ## Schedule:  
 
