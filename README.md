@@ -39,12 +39,12 @@ The core technologies for using waste wood and waste crop biomass to provide uti
 - [Practical example - heat and char by the City of Stokcholm](https://www.stockholmvattenochavfall.se/en/current-projects/development/biochar/#!/about-the-biochar-project)
 - [Farm scale 25kW heat, electricity, and char](https://www.allpowerlabs.com/products/product-overview)
 
-However, while the core gassification technology is proven, practical systems today remain cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to equipment, but those reductions are likely to be marginal and slow.  Faster and more significant cost reduction opportunities are likely to be those from:
+However, while the core gassification technology is proven, practical systems today remain cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to equipment, but faster and more significant cost reduction opportunities are likely to be those from:
 
 1. Improving system integration to provide all utility services as illustrated above. 
 1. Using automation (e.g. Smart Contracts) to lower the cost of project capital and administration. 
 
-The diagram below expands upon the second bullet.  The first panel in the diagram depicts conventional project financing from investor shares.  The second panel depicts a common, but less frequently used, form of financing for projects with a social purpose known as a cooperative.  The third panel proposes to improve upon the social purpose cooperative using smart contracts to the extent they become feasible over the next decade.    
+The diagram below expands upon the second bullet.  The first panel in the diagram depicts conventional project financing from investor shares.  The second panel depicts a common, but less frequently used, form of financing for projects with a social purpose known as a cooperative.  The third panel proposes to improve upon the social purpose cooperative using smart contracts.    
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/SMARTCONTRACTS.svg" alt="Smart Contract Cooperatives" width="800">
@@ -52,7 +52,7 @@ The diagram below expands upon the second bullet.  The first panel in the diagra
 
 A recent example of efficient financing, using a project structure similiar to that in the second panel, is given by the [low-carbon biogas-from-waste project](https://www.torontozoo.com/tz/biogas) at the Toronto Zoo.  They were able to organize their project as a cooperative since their project had a social purpose and that allowed them to raise money by selling bonds at 5% as opposed to the 15% or more that an investor led project would require.  For that $5M project, the difference between having to return capital at 5% versus 15% is very significant.  
 
-The proposed smart contract technology, as shown in the third panel, potentially could lower the cost of social purpose (e.g. carbon negative) projects in which the cost of finance management is otherwise prohibitive.  How significant improved system integration and smart contracts could bring forward low-carbon technologies is a subject of our feasibility study.  
+The proposed use of smart contracts, as shown in the third panel, potentially could lower the cost of social purpose (e.g. carbon negative) projects in which the cost of finance management is otherwise prohibitive.  How significant improved system integration and smart contracts could bring forward low-carbon technologies is a subject of our feasibility study.  
 
 - [US Federal Reserve - Smart Contract Research Report](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)
 - [OASIS Standards Body - Baseline Protocol for Smart Contracts](https://docs.baseline-protocol.org/baseline-protocol/architecture)
