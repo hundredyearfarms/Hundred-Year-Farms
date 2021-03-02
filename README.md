@@ -52,7 +52,7 @@ The diagram below expands upon the second bullet.  The first panel in the diagra
 
 A recent example of efficient financing, using a project structure similiar to that in the second panel, is given by the [low-carbon biogas-from-waste project](https://www.torontozoo.com/tz/biogas) at the Toronto Zoo.  They were able to organize their project as a cooperative since their project had a social purpose and that allowed them to raise money by selling bonds at 5% as opposed to the 15% or more that an investor led project would require.  For that $5M project, the difference between having to return capital at 5% versus 15% is substantial.  
 
-The proposed use of smart contracts, as shown in the third panel, potentially could further lower the cost of social purpose (e.g. carbon negative) projects in which the cost of coordination and finance management would otherwise be prohibitive.  While that technology is promising, it should be noted that smart contract platforms at this time are not practical for use in real-world physical projects due to their lack of in-protocol identities (e.g. Know Your Customer, or KYC). While they have the potential to provide that service in a privacy preserving and more efficient manner than in conventional finance, that feature is not yet state-of-the-art.  How significantly improved system integration and smart contracts could bring forward low-carbon technologies is a subject of the feasibility study.     
+The proposed use of smart contracts, as shown in the third panel, potentially could further lower the cost of social purpose (e.g. carbon negative) projects in which the cost of coordination and finance management would otherwise be prohibitive.  While that technology is promising, at this time it is not practical for use in real-world physical projects due to the lack of in-protocol identities (e.g. Know Your Customer, or KYC). While they have the potential to provide that service in a privacy preserving and more efficient manner than in conventional finance, that feature is not yet state-of-the-art.  How significantly improved system integration and smart contracts could bring forward low-carbon technologies is a subject of the feasibility study.     
 
 - [US Federal Reserve - Smart Contract Research Report](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)
 - [OASIS Standards Body - Baseline Protocol for Smart Contracts](https://docs.baseline-protocol.org/baseline-protocol/architecture)
@@ -60,13 +60,13 @@ The proposed use of smart contracts, as shown in the third panel, potentially co
 
 ## Data
 
-For managing data, we are using a 3D file system based on the [BIM-IFC5 standard](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/) whose scope now includes the type of infrastructure, landscaping, and structures relevant to our project as illustrated below.   
+For managing data, we are using a 3D file system based on the [BIM-IFC5 standard](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/) whose scope now includes the type of infrastructure, landscaping, structures, and engineering systems relevant to our project as illustrated below.   
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/BIM-githubReadme.svg" alt="BIM Models" width="600">
 </p>
 
-While the main reason for using the Building Information Management (BIM) file system is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) as shown in the panel to the left, BIM tools are also useful for designing out-buildings (greenhouses, sheds, workshop, garage, ...), as well as engineering system design, as shown in the panel to the right.  FreeCAD and Blender are excellent tools for this purpose.
+While the main reason for using the Building Information Management (BIM) file system is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) as shown in the panel to the left, BIM tools are also useful for designing out-buildings (greenhouses, sheds, workshop, garage, ...), as well as engineering system design, as shown in the panel to the right.  The FreeCAD and Blender software programsare excellent tools for this purpose.
 
 ## Schedule:  
 
