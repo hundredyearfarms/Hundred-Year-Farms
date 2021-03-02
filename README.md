@@ -60,7 +60,7 @@ The proposed use of smart contracts, as shown in the third panel, potentially co
 
 ## Data
 
-For managing data, we are using a 3D file system based on the [BIM-IFC5 standard](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/) whose scope now includes infrastructure, landscaping, and structures relevant to our project as illustrated below.   
+For managing data, we are using a 3D file system based on the [BIM-IFC5 standard](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/) whose scope now includes the infrastructure, landscaping, and structures relevant to our project as illustrated below.   
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/BIM-githubReadme.svg" alt="BIM Models" width="600">
