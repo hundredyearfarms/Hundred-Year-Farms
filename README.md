@@ -1,6 +1,6 @@
 ## Overview
 
-Hundred Year Farms refers to two small farm properties (each about 43 acres); one on Prince Edward Island and the other in Manitoba. For both farms our plan is to make a gradual transition to Agroforestry.  Agroforesty involves the planting of crops, including grains, fruits, or vegetables, between rows of trees.  We believe that this type of farming, when combined with a greenhouse, can be made so that it becomes carbon-negative while maintaining food production, rebuilding topsoil, and maintaining habitat. That, over the next 100 years, should lead to higher long-term asset values than would otherwise be the case and make the farms more interesting to visit.
+Hundred Year Farms refers to two small farm properties (each about 43 acres); one on Prince Edward Island and the other in Manitoba. For both farms our plan is to make a gradual transition to Agroforestry.  Agroforesty involves the planting of crops, including grains, fruits, or vegetables, between rows of trees.  We believe that this type of farming, when combined with a greenhouse, can be made so that it becomes carbon-negative while maintaining food production, rebuilding topsoil, and maintaining habitat. That, over the next 100 years, should lead to higher long-term asset values than would otherwise be the case and make the farms more interesting to live on and visit.
 
 - [What is agroforestry?](https://www.aftaweb.org/)
 - [Agroforestry - Canada](https://www.agr.gc.ca/eng/agriculture-and-climate/agricultural-practices/agroforestry/?id=1177431400694), [Agroforestry - UK](https://www.agforward.eu/index.php/en/silvoarable-agroforestry-in-the-uk.html), [Agroforestry - EU](https://euraf.isa.utl.pt/welcome), [Agroforestry - US](https://www.usda.gov/topics/forestry/agroforestry)
@@ -15,13 +15,13 @@ Our plan for the island farm, as shown by the superposition of trees onto the sa
 
 <u>Image</u>: *Proposed new trees laid over a satellite image.  Gradient lines show how the land slopes toward the south where surface run-off water collects. A - water erosion down the centre of this field is evident, but can be controlled by the new rows of trees that follow field contours. B - prior clear-cut area. C - windbreak realligned to follow land contours. D - Greenhouse.*
 
-Some of the goals we are trying to achieve through greenhouse agroforestry include:
+Some of the goals we are trying to achieve include:
 
 - Erosion Control: Trees in rows reduce wind speeds and slow drainage during extreme weather.  
 - Biodiversity: Mitigates pest and fire risk while making the property more interesting to visit.  
 - Diversification: Greenhouses and high-value trees provide income independent of field crops and distribute work over the year.   
 
-Agroforestry is a well-established practice that we will be adapting, with the help of various experts, to our sites.  Implementation will be gradual and is likely to require decades to complete or it may be inter-generational.  While our proposed agroforestry is not unique, where we will be doing some original work is in our approach to supplying greenhouse utilities from waste biomass.  Those utility services are what could allow this farm to become carbon negative with reduced operating costs.  The technology itself has the potential to be a product.
+Agroforestry is a well-established practice that we will be adapting, with the help of various experts, to our sites.  Implementation will be gradual and is likely to require decades to complete or it may be inter-generational.  While our proposed agroforestry is not unique, where we will be doing some original work is in our approach to supplying greenhouse utilities from the agro-forestry waste biomass.  Those utility services are what could allow this farm to become carbon negative and have reduced operating costs.  
 
 **Carbon-negative integrated greenhouse**
 
@@ -39,12 +39,12 @@ The core technologies for using waste wood and waste crop biomass to provide uti
 - [Practical example - heat and char by the City of Stokcholm](https://www.stockholmvattenochavfall.se/en/current-projects/development/biochar/#!/about-the-biochar-project)
 - [Farm scale 25kW heat, electricity, and char](https://www.allpowerlabs.com/products/product-overview)
 
-However, while the core gassification technology is proven, practical systems today remain cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to equipment, but faster and more significant cost reduction opportunities are likely to be those from:
+However, while the core gassification technology is proven, practical systems today remain cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to equipment, but faster and more significant cost reductions are likely to be from:
 
 1. Improving system integration to provide all utility services as illustrated above. 
 1. Using automation (e.g. Smart Contracts) to lower the cost of project capital and administration. 
 
-The diagram below expands upon the second bullet.  The first panel in the diagram depicts conventional project financing from investor shares.  The second panel depicts a common, but less frequently used, form of financing for projects with a social purpose known as a cooperative.  The third panel proposes to improve upon the social purpose cooperative using smart contracts.    
+The diagram below expands upon the second bullet.  The first panel in the diagram depicts conventional project financing from investor shares for either equipment manufacture, an installation, or support services.  The second panel depicts a common, but less frequently used, form of financing for projects with a social purpose known as a cooperative.  The third panel proposes to improve upon the social purpose cooperative using smart contracts.    
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/SMARTCONTRACTS.svg" alt="Smart Contract Cooperatives" width="800">
@@ -52,25 +52,27 @@ The diagram below expands upon the second bullet.  The first panel in the diagra
 
 A recent example of efficient financing, using a project structure similiar to that in the second panel, is given by the [low-carbon biogas-from-waste project](https://www.torontozoo.com/tz/biogas) at the Toronto Zoo.  They were able to organize their project as a cooperative since their project had a social purpose and that allowed them to raise money by selling bonds at 5% as opposed to the 15% or more that an investor led project would require.  For that $5M project, the difference between having to return capital at 5% versus 15% is substantial.  
 
-The proposed use of smart contracts, as shown in the third panel, potentially could further lower the cost of social purpose (e.g. carbon negative) projects in which the cost of coordination and finance management would otherwise be prohibitive.  While that technology is promising, at this time it is not practical for use in real-world physical projects due to the lack of in-protocol identities (e.g. Know Your Customer, or KYC). While they have the potential to provide that service in a privacy preserving and more efficient manner than in conventional finance, that feature is not yet state-of-the-art.  How significantly improved system integration and smart contracts could bring forward low-carbon technologies is a subject of the feasibility study.     
+The proposed use of smart contracts, as shown in the third panel, potentially could further lower the cost of social purpose (e.g. carbon negative) projects in which the cost of coordination and finance management would otherwise be prohibitive.  
 
 - [US Federal Reserve - Smart Contract Research Report](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)
 - [OASIS Standards Body - Baseline Protocol for Smart Contracts](https://docs.baseline-protocol.org/baseline-protocol/architecture)
 - [Ernst & Younge Blockchain Initiative](https://blockchain.ey.com/)
 
+The degree to which improved system integration and smart contracts could bring forward low-carbon technologies is a subject of the feasibility study.     
+
 ## Data
 
-For managing data, we are using a 3D file system based on the [BIM-IFC5 standard](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/) whose scope now includes the type of infrastructure, landscaping, structures, and engineering systems relevant to our project as illustrated below.   
+We are using a 3D file system based on the [BIM-IFC5 standard](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/) whose scope now includes the type of infrastructure, landscaping, structures, and engineering systems relevant to our project as illustrated below.   
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/BIM-githubReadme.svg" alt="BIM Models" width="600">
 </p>
 
-While the main reason for using the Building Information Management (BIM) file system is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) as shown in the panel to the left, BIM tools (FreeCAD, Blender) are also useful for designing out-buildings (greenhouses, sheds, workshop, garage, ...) as shown in the panel to the right, as well as, at a later point, the engineering systems design (e.g. integrated piping systems).  
+While the main reason for using the Building Information Management (BIM-IFC5) file system is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) as shown in the panel to the left, the same BIM tools (FreeCAD, Blender) are useful in the design of out-buildings (greenhouses, sheds, workshop, garage, and later engineered vessel and piping systems...) as shown in the panel to the right.  
 
 ## Schedule:  
 
-Over the course of 2021 we are continuing to refine the above concept design with the help of consultants.  Following that will be a [feasibility study](https://guides.co/g/vital-steps-a-cooperative-feasibility-study-guide/85047) that considers the state of technology, standards, regulations, and tax treatments for the integrated greenhouse and related smart contracts.  The feasibility study is not expected to change our concept, but rather will tell us how quickly the integrated greenhouse can be implemented and the scope of our activities.  As is typical in physical (non-software) project work, following feasibility will be development of the preliminary designs, one of which will be down-selected for detailed design and then plans generated for implementation. Implemenation may be within this decade or, if the smart contracts are not workable, we may need to plan for a more gradual inter-generational transition to carbon-negative agroforestry.  
+Over the course of 2021 we will continue to refine the above concept design with the help of consultants.  Following that will be a [feasibility study](https://guides.co/g/vital-steps-a-cooperative-feasibility-study-guide/85047) that considers the state of technology, standards, regulations, and tax treatments for the integrated greenhouse and its related smart contracts.  The feasibility study is not expected to change our concept, but rather will tell us how quickly the integrated greenhouse technology can be implemented and the scope of our activities.  As is typical in physical (non-software) project work, following feasibility will be development of the preliminary designs, one of which will be down-selected for detailed design and then plans generated for implementation. Implemenation may be within this decade or, if the smart contracts are not workable, we may need to plan for a more gradual inter-generational transition to carbon-negative agroforestry.  
 
 ## Owners
 
