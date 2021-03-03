@@ -44,15 +44,13 @@ However, while the core gassification technology is proven, practical systems to
 1. Improving system integration to provide all utility services as illustrated above. 
 1. Using automation (e.g. Smart Contracts) to lower the cost of project capital and administration. 
 
-The diagram below expands upon the second bullet.  The first panel in the diagram depicts conventional project financing from investor shares for either equipment manufacture, an installation, or support services.  The second panel depicts a common, but less frequently used, form of financing for projects with a social purpose known as a cooperative.  The third panel proposes to improve upon the social purpose cooperative using smart contracts.    
+The diagram below expands upon the second bullet.  The first panel in the diagram depicts conventional project financing from investor shares for either equipment manufacture, an installation, or regional support services.  The second panel depicts a form of financing, known as a cooperative, that is sometimes used when a project's returns are too low to interest investor-led financing, but where there is a high social purpose.  The third panel proposes to lower the administrative cost of social purpose cooperatives using smart contracts.    
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/SMARTCONTRACTS.svg" alt="Smart Contract Cooperatives" width="800">
 </p>
 
-A recent example of efficient financing, using a project structure similiar to that in the second panel, is given by the [low-carbon biogas-from-waste project](https://www.torontozoo.com/tz/biogas) at the Toronto Zoo.  They were able to organize their project as a cooperative since their project had a social purpose and that allowed them to raise money by selling bonds at 5% as opposed to the 15% or more that an investor led project would require.  For that $5M project, the difference between having to return capital at 5% versus 15% is substantial.  
-
-The proposed use of smart contracts, as shown in the third panel, potentially could further lower the cost of social purpose (e.g. carbon negative) projects in which the cost of coordination and finance management would otherwise be prohibitive.  
+A recent example of cooperative financing, using a project structure similiar to that in the second panel, is given by the [low-carbon biogas-from-waste project](https://www.torontozoo.com/tz/biogas) at the Toronto Zoo.  They were able to organize their project as a cooperative since their project had a social purpose and that allowed them to raise money by selling bonds at 5% as opposed to the 15% or more that an investor led project would require and was most likely not feasible.  The proposed use of smart contracts, as shown in the third panel, potentially could further lower the cost of such social purpose (e.g. carbon negative) cooperatives, especially those where financial administration costs make them impractical.  
 
 - [US Federal Reserve - Smart Contract Research Report](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)
 - [OASIS Standards Body - Baseline Protocol for Smart Contracts](https://docs.baseline-protocol.org/baseline-protocol/architecture)
