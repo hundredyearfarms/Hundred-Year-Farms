@@ -60,7 +60,7 @@ The proposed use of smart contracts, as shown in the third panel, potentially co
 
 The degree to which improved system integration and smart contracts could bring forward low-carbon technologies is a subject of the feasibility study.     
 
-## Data
+**Data**
 
 We are using a 3D file system based on the [BIM-IFC5 standard](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/) whose scope now includes the type of infrastructure, landscaping, structures, and engineering systems relevant to our project as illustrated below.   
 
@@ -68,7 +68,7 @@ We are using a 3D file system based on the [BIM-IFC5 standard](https://www.build
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/BIM-githubReadme.svg" alt="BIM Models" width="600">
 </p>
 
-While the main reason for using the Building Information Management (BIM-IFC5) file system is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) as shown in the panel to the left, the same BIM tools (FreeCAD, Blender) are useful in the design of out-buildings (greenhouses, sheds, workshop, garage, and later engineered vessel and piping systems...) as shown in the panel to the right.  
+While the main reason for using the Building Information Management (BIM-IFC5) file system is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) as shown in the panel to the left, the same BIM tools (e.g. FreeCAD, Blender) are useful for design of the out-buildings (greenhouses, sheds, workshop, garage, and later the engineered vessel and piping systems...) as shown in the panel to the right.  
 
 ## Schedule:  
 
