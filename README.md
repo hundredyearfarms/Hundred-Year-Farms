@@ -50,13 +50,13 @@ The diagram below expands upon the second bullet.  The first panel in the diagra
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/SMARTCONTRACTS.svg" alt="Smart Contract Cooperatives" width="800">
 </p>
 
-A recent example of cooperative financing, using a project structure similiar to that in the second panel, is given by the [low-carbon biogas-from-waste project](https://www.torontozoo.com/tz/biogas) at the Toronto Zoo.  They were able to organize their project as a cooperative since their project had a social purpose and that allowed them to raise money by selling bonds at 5% as opposed to the 15% or more that an investor led project would require and was most likely not feasible.  The proposed use of smart contracts, as shown in the third panel, potentially could further lower the cost of such social purpose (e.g. carbon negative) cooperatives, especially those where financial administration costs make them impractical.  
+A recent example of cooperative financing, using a project structure similiar to that in the second panel, is given by the [low-carbon biogas-from-waste project](https://www.torontozoo.com/tz/biogas) at the Toronto Zoo.  They were able to organize their project as a cooperative since their project had a social purpose and that allowed them to raise money by selling bonds at 5% as opposed to the 15% or more that an investor led project would requiree.  The proposed use of smart contracts, as shown in the third panel, potentially could further lower the cost of such social purpose (e.g. carbon negative) cooperatives.  
 
 - [US Federal Reserve - Smart Contract Research Report](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)
 - [OASIS Standards Body - Baseline Protocol for Smart Contracts](https://docs.baseline-protocol.org/baseline-protocol/architecture)
 - [Ernst & Younge Blockchain Initiative](https://blockchain.ey.com/)
 
-The degree to which improved system integration and smart contracts could bring forward low-carbon technologies is a subject of the feasibility study.     
+The degree to which improved system integration and smart contracts could bring forward carbon-negative agroforestry is a subject of the feasibility study.     
 
 **Data**
 
@@ -70,7 +70,7 @@ While the main reason for using the Building Information Management (BIM-IFC5) f
 
 ## Schedule:  
 
-Over the course of 2021 we will continue to refine the above concept design with the help of consultants.  Following that will be a [feasibility study](https://guides.co/g/vital-steps-a-cooperative-feasibility-study-guide/85047) that considers the state of technology, standards, regulations, and tax treatments for the integrated greenhouse and its related smart contracts.  The feasibility study is not expected to change our concept, but rather will tell us how quickly the integrated greenhouse technology can be implemented and the scope of our activities.  As is typical in physical (non-software) project work, following feasibility will be development of the preliminary designs, one of which will be down-selected for detailed design and then plans generated for implementation. Implemenation may be within this decade or, if the smart contracts are not workable, we may need to plan for an inter-generational transition to carbon-negative agroforestry.  
+Over the course of 2021 we will refine the above concept design with the help of consultants.  Following that will be a [feasibility study](https://guides.co/g/vital-steps-a-cooperative-feasibility-study-guide/85047) that considers the state of technology, standards, regulations, and tax treatments for the integrated greenhouse and its related smart contracts.  The feasibility study is not expected to change our concept, but rather will tell us how quickly the integrated greenhouse technology can be implemented and the scope of our activities.  As is typical in physical (non-software) project work, following feasibility will be development of the preliminary designs, one of which will be down-selected for detailed design and then plans generated for implementation. Implemenation may be within this decade or, if the smart contracts are not workable, we may need to plan for an inter-generational transition to carbon-negative agroforestry.  
 
 ## Owners
 
