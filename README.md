@@ -28,7 +28,7 @@ Agroforestry is a well-established practice that we will be adapting, with the h
 Agroforestry produces significant amounts of waste biomass that must be managed.  Through gassification this waste can be used to produce heat (e.g. for greenhouses), gas, electricity, treated water, fertilizer, and [char](https://biochar-international.org/sustainability-climate-change/) (solid carbon) which can be used as a carbon sequestering [soil ammendment or other products](https://national-carbon.com/). A schematic showing design objectives for our integrated greenhouse application is shown below.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/biogassifier2021-02-12.svg" alt="Farm plan co-gen" width="600">
+<img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/biogassifier2021-02-12.svg" alt="Farm plan co-gen" width="500">
 </p>
 
 The core technologies for using waste wood and waste crop biomass to provide utility services have received strong research and development support from governments where climate change is a priority.  That is because the technology is one of the very few that integrates so completely with the natural environment, can realistically become carbon-negative, be fabricated by any modern country with common metals, and deployed at scale.  A good summary of the gassification technology is provided by this [Energy and Environmental Science Article](https://pubs.rsc.org/en/content/articlepdf/2016/ee/c6ee00935b) from the Royal Society of Chemistry.
