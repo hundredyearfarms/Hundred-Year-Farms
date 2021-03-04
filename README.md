@@ -44,7 +44,7 @@ However, while the core gassification technology is proven, practical systems to
 1. Improving system integration to provide all utility services as illustrated above. 
 1. Using automation (e.g. Smart Contracts) to lower the cost of project capital and administration. 
 
-The diagram below expands upon the second bullet.  The first panel in the diagram depicts conventional project financing from investor shares for either equipment manufacture, an installation, or regional support services.  The second panel depicts a form of financing, known as a cooperative, that is sometimes used when a project's returns are too low to interest investor-led financing, but where there is a high social purpose.  The third panel proposes to lower the administrative cost of social purpose cooperatives using smart contracts.    
+The diagram below expands upon the second bullet.  The first panel in the diagram depicts conventional project financing from investor shares .  The second panel depicts a form of financing, known as a cooperative, that is sometimes used when a project's returns are too low to interest investor-led financing, but where there is a high social purpose.  The third panel proposes to lower the administrative cost of social purpose cooperatives using smart contracts.    
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/SMARTCONTRACTS.svg" alt="Smart Contract Cooperatives" width="800">
