@@ -7,7 +7,7 @@ Hundred Year Farms refers to two small farm properties (each about 43 acres); on
 
 **Farm Plan (PEI)**
 
-Our plan for the island farm, as shown by the superposition of trees onto the sattelite image below, is to plant strong wind-break trees along the uppermost ridge with the trees and crops that require more sunlight and wind protection located lower on the farm's south sloping land. The existing trees are a near single species of spruce from a prior clear-cut, but the new trees will be a more diverse mix of maple, oak, poplar, birch, hemlock, and apple, among others.  The trees in rows will be arranged to allow for selective harvesting while some blocks will be left to grow unmanaged.  A greenhouse will be incorporated into this agroforestry system.
+Our plan for the island farm, as shown by the superposition of trees onto the sattelite image below, is to plant strong wind-break trees along the uppermost ridge with the trees and crops that require more sunlight and wind protection located lower on the farm's south sloping land. The existing trees are a near single species of spruce from a prior clear-cut, but the new trees will be a more diverse mix of native species including maple, oak, poplar, birch, hemlock, apple, among others that help reduce fire and pest risk.  The trees in rows will be arranged to allow for selective harvesting while some blocks will be left to grow unmanaged.  A greenhouse will be incorporated into this agroforestry system.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/IFCSite-FarmProposedTrees.png" alt="Farm plan - tree overlay" width="500">
@@ -19,9 +19,9 @@ Some of the goals we are trying to achieve are:
 
 - Erosion Control: Trees in rows reduce wind speeds and slow drainage during extreme weather.  
 - More Biodiversity: Reduces pest and fire risk while making the property more interesting to visit.  
-- Diversification: Greenhouses and high-value trees provide income independent of field crops and distribute work over the year.   
+- Diversification: Greenhouses and high-value trees, but less field crop, helps distribute work over the year.   
 
-Agroforestry is a well-established practice that we will be adapting, with the help of various experts, to our sites.  Implementation will be gradual and is likely to require decades to complete or it may be inter-generational.  While our proposed agroforestry is not unique, where we will be doing some original work is in our approach to supplying greenhouse utilities from the agro-forestry waste biomass.  Those utility services are what could allow the farms to become carbon negative and have reduced operating costs.  
+Agroforestry is a well-established practice that we will gradually transition to, over the next few decades, with the help of experts.  While agroforestry is not new, where we will be doing some original work is in our approach to supplying greenhouse utilities from the agro-forestry waste biomass.  Those utility services are what could allow the farms to some day become carbon negative and have reduced operating costs as expanded upon below.  
 
 **Carbon-negative integrated greenhouse**
 
