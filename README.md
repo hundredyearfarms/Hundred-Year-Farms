@@ -21,7 +21,7 @@ Some of the goals we are trying to achieve include:
 - Biodiversity: Mitigates pest and fire risk while making the property more interesting to visit.  
 - Diversification: Greenhouses and high-value trees provide income independent of field crops and distribute work over the year.   
 
-Agroforestry is a well-established practice that we will be adapting, with the help of various experts, to our sites.  Implementation will be gradual and is likely to require decades to complete or it may be inter-generational.  While our proposed agroforestry is not unique, where we will be doing some original work is in our approach to supplying greenhouse utilities from the agro-forestry waste biomass.  Those utility services are what could allow this farm to become carbon negative and have reduced operating costs.  
+Agroforestry is a well-established practice that we will be adapting, with the help of various experts, to our sites.  Implementation will be gradual and is likely to require decades to complete or it may be inter-generational.  While our proposed agroforestry is not unique, where we will be doing some original work is in our approach to supplying greenhouse utilities from the agro-forestry waste biomass.  Those utility services are what could allow the farms to become carbon negative and have reduced operating costs.  
 
 **Carbon-negative integrated greenhouse**
 
