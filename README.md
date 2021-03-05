@@ -68,7 +68,7 @@ The main purpose of that file system is to manage the farm's asset data over tim
 
 ## Schedule:  
 
-Over the course of 2021 we are refining our concept designs with the help of consultants. The agroforestry portion of our project will be implemented over the course of this decade, however, the greenhouse will wait until a workable integrated system design has been modelled and smart contracts are available to lower project cost.
+Over the course of 2021 we are refining our concept designs with the help of consultants. The agroforestry portion of our project will be implemented over the course of this decade, however, the greenhouse will wait until a workable integrated system design has been sucessfully modelled and smart contracts are available to lower project cost (perhaps in the next few years).
 
 ## Owners
 
