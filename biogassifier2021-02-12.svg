@@ -628,8 +628,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="360.92571"
-     inkscape:cy="262.92292"
+     inkscape:cx="369.53984"
+     inkscape:cy="229.39935"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -669,18 +669,16 @@
      style="display:inline"
      transform="translate(-29.341562,-54.010931)">
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777;"
        id="text61915-5-53-36-3"
        x="70.215195"
-       y="82.61293"><tspan
+       y="80.227219"><tspan
          sodipodi:role="line"
-         id="tspan4222"
-         x="70.215195"
-         y="82.61293">Liquid</tspan><tspan
+         id="tspan7041">Sterile</tspan><tspan
          sodipodi:role="line"
-         id="tspan4228"
-         x="70.215195"
-         y="85.258766">Fertilizer</tspan></text>
+         id="tspan7043">liquid</tspan><tspan
+         sodipodi:role="line"
+         id="tspan7045">fertilizer</tspan></text>
     <ellipse
        style="fill:#fbfbfb;fill-opacity:1;stroke:none;stroke-width:0.365001;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path104102"
@@ -936,47 +934,51 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
        id="text61915-5-53-36"
        x="85.807159"
-       y="80.216179"><tspan
+       y="77.581383"><tspan
          sodipodi:role="line"
-         id="tspan6885"
+         id="tspan7033"
          x="85.807159"
-         y="80.216179">Clean</tspan><tspan
+         y="77.581383">Clean</tspan><tspan
          sodipodi:role="line"
-         id="tspan6887"
+         id="tspan7035"
          x="85.807159"
-         y="82.862015">irrigation</tspan><tspan
+         y="80.227219">Irrigation/</tspan><tspan
          sodipodi:role="line"
-         id="tspan6889"
+         id="tspan7037"
          x="85.807159"
-         y="85.507851">water</tspan></text>
+         y="82.873055">equipment</tspan><tspan
+         sodipodi:role="line"
+         id="tspan7039"
+         x="85.807159"
+         y="85.518898">washwater</tspan></text>
     <text
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
        id="text10178"
        x="135.58426"
-       y="85.507851"><tspan
+       y="85.51889"><tspan
          sodipodi:role="line"
          id="tspan10180"
          x="135.58426"
-         y="85.507851">CO<tspan
+         y="85.51889">CO<tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
    id="tspan6873">2</tspan></tspan></text>
     <text
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
        id="text10184"
        x="129.73943"
-       y="80.246147"><tspan
+       y="80.257187"><tspan
          sodipodi:role="line"
          id="tspan3216"
          x="129.73943"
-         y="80.246147">Hot</tspan><tspan
+         y="80.257187">Hot</tspan><tspan
          sodipodi:role="line"
          id="tspan3218"
          x="129.73943"
-         y="82.891983">water</tspan><tspan
+         y="82.903023">water</tspan><tspan
          sodipodi:role="line"
          id="tspan3220"
          x="129.73943"
-         y="85.537819">in</tspan></text>
+         y="85.548859">in</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart)"
        d="m 92.902634,118.11075 h 18.323656 v 37.35011"
@@ -1258,15 +1260,15 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
        id="text1681"
        x="153.62805"
-       y="82.801567"><tspan
+       y="82.873055"><tspan
          sodipodi:role="line"
          id="tspan6881"
          x="153.62805"
-         y="82.801567">Green waste,</tspan><tspan
+         y="82.873055">Green waste,</tspan><tspan
          sodipodi:role="line"
          id="tspan6883"
          x="153.62805"
-         y="85.447403">waste water</tspan></text>
+         y="85.51889">waste water</tspan></text>
     <path
        style="fill:none;stroke:#000085;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6004)"
        d="m 122.87645,86.950582 0.0911,38.015938 4.11939,-0.0228 4.82352,0.063"
@@ -1276,19 +1278,19 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
        id="text1691"
        x="120.79475"
-       y="80.216179"><tspan
+       y="80.227219"><tspan
          sodipodi:role="line"
          id="tspan3210"
          x="120.79475"
-         y="80.216179">Cold</tspan><tspan
+         y="80.227219">Cold</tspan><tspan
          sodipodi:role="line"
          id="tspan3212"
          x="120.79475"
-         y="82.862015">water</tspan><tspan
+         y="82.873055">water</tspan><tspan
          sodipodi:role="line"
          id="tspan3214"
          x="120.79475"
-         y="85.507851">out</tspan></text>
+         y="85.51889">out</tspan></text>
     <text
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00038px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
        id="text103794-1"
@@ -1342,12 +1344,16 @@
     <text
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
        id="text6252"
-       x="51.411293"
-       y="85.507851"><tspan
+       x="45.151875"
+       y="82.873055"><tspan
          sodipodi:role="line"
-         id="tspan6258"
-         x="51.411293"
-         y="85.507851">Char</tspan></text>
+         id="tspan7013"
+         x="45.151875"
+         y="82.873055">Char - soil</tspan><tspan
+         sodipodi:role="line"
+         id="tspan7015"
+         x="45.151875"
+         y="85.51889">ammendment</tspan></text>
     <g
        id="g69925-0-6-6"
        transform="matrix(0,0.28552375,0.28552375,0,-830.85909,195.29938)"
@@ -1386,9 +1392,9 @@
        y="188.03188"
        xml:space="preserve"><tspan
          x="31.150784"
-         y="188.03188"><tspan>Simplified schematic showing the four main system components 1) wood gassifier, 2) vapour </tspan></tspan><tspan
+         y="188.03188"><tspan>Simplified schematic showing the five main system components 1) wood gassifier, 2) vapour </tspan></tspan><tspan
          x="31.150784"
-         y="191.78235"><tspan>compression distillation, 3) anaerobic digester, 4) engine generator.</tspan></tspan></text>
+         y="191.78235"><tspan>compression distillation, 3) anaerobic digester, 4) aerobic biofilter, 5) engine generator.</tspan></tspan></text>
     <text
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
        id="text6526"
@@ -1483,49 +1489,42 @@
          id="g3153-1"
          transform="matrix(0.1745421,0,0,0.1745421,27.127505,-270.14218)">
         <path
-           d="m 470.188,2236.457 h 22.684 v 44.785 h -22.684 z"
+           d="m 451.99755,2236.457 h 59.0649 v 44.785 h -59.0649 z"
            style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           id="path3155-7" />
+           id="path3155-7"
+           sodipodi:nodetypes="ccccc" />
       </g>
       <g
          id="g3157-7"
          transform="matrix(0.1745421,0,0,0.1745421,27.127505,-270.14218)">
         <path
-           d="m 470.188,2245.414 h 22.683"
+           d="m 451.99755,2245.414 h 59.0639"
            style="fill:none;stroke:#000000;stroke-width:0.70875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1.77188, 1.77188;stroke-dashoffset:0;stroke-opacity:1"
-           id="path3159-1" />
+           id="path3159-1"
+           sodipodi:nodetypes="cc" />
       </g>
       <g
          id="g3161-1"
          transform="matrix(0.1745421,0,0,0.1745421,27.127505,-270.14218)">
         <path
-           d="m 470.188,2272.285 h 22.683"
+           d="m 451.99755,2272.285 h 59.0639"
            style="fill:none;stroke:#000000;stroke-width:0.70875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1.77188, 1.77188;stroke-dashoffset:0;stroke-opacity:1"
-           id="path3163-5" />
+           id="path3163-5"
+           sodipodi:nodetypes="cc" />
       </g>
       <text
-         style="font-variant:normal;font-weight:normal;font-size:1.48448px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.174542"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.48448px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.174542"
          id="text3167-9"
-         x="109.76364"
-         y="124.28674"><tspan
-           x="109.76364 110.75231 111.16351"
-           y="124.28674"
+         x="108.38685"
+         y="123.66973"><tspan
            sodipodi:role="line"
-           id="tspan3165-7"
-           style="stroke-width:0.174542">BIO</tspan></text>
-      <text
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
-         id="text6945"
-         x="109.47436"
-         y="126.00608"><tspan
+           id="tspan6987"
+           x="108.38685"
+           y="123.66973">Aerobic</tspan><tspan
            sodipodi:role="line"
-           id="tspan6941"
-           x="109.47436"
-           y="126.00608">filter</tspan><tspan
-           sodipodi:role="line"
-           id="tspan6943"
-           x="109.47436"
-           y="127.76997"></tspan></text>
+           id="tspan6989"
+           x="108.38685"
+           y="125.52533">Bio-filter</tspan></text>
     </g>
   </g>
   <g
