@@ -15,10 +15,10 @@ Our plan for the island farm, as shown by the superposition of trees onto the sa
 
 <u>Image</u>: *Proposed new trees laid over a satellite image.  Gradient lines show how the land slopes toward the south where surface run-off water collects. A - water erosion down the centre of this field is evident, but can be controlled by the new rows of trees that follow field contours. B - prior clear-cut area. C - windbreak realligned to follow land contours. D - Greenhouse.*
 
-Some of the goals we are trying to achieve include:
+Some of the goals we are trying to achieve are:
 
 - Erosion Control: Trees in rows reduce wind speeds and slow drainage during extreme weather.  
-- Biodiversity: Mitigates pest and fire risk while making the property more interesting to visit.  
+- More Biodiversity: Reduces pest and fire risk while making the property more interesting to visit.  
 - Diversification: Greenhouses and high-value trees provide income independent of field crops and distribute work over the year.   
 
 Agroforestry is a well-established practice that we will be adapting, with the help of various experts, to our sites.  Implementation will be gradual and is likely to require decades to complete or it may be inter-generational.  While our proposed agroforestry is not unique, where we will be doing some original work is in our approach to supplying greenhouse utilities from the agro-forestry waste biomass.  Those utility services are what could allow the farms to become carbon negative and have reduced operating costs.  
