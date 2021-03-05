@@ -60,13 +60,13 @@ The degree to which improved system integration and smart contracts could bring 
 
 **Data**
 
-We are using a 3D file system based on the [BIM-IFC5 standard](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/) whose scope now includes the type of infrastructure, landscaping, structures, and engineering systems relevant to our project as illustrated below.   
+We are using a 3D file system based on the [Building Information Management (BIM-IFC5) standard](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/) .   
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/BIM-githubReadme.svg" alt="BIM Models" width="600">
 </p>
 
-While the main reason for using the Building Information Management (BIM-IFC5) file system is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) as shown in the panel to the left, the same BIM tools (e.g. FreeCAD, Blender) are useful for design of the out-buildings (greenhouses, sheds, workshop, garage, and later the engineered vessel and piping systems...) as shown in the panel to the right.  
+The main purpose of that file system is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) as shown in the panel to the left.  The same BIM tools (e.g. FreeCAD, Blender) are also useful for the design of out-buildings (greenhouses, sheds, workshop, garage, and later the engineered vessel and piping systems...) as shown in the panel to the right.  
 
 ## Schedule:  
 
