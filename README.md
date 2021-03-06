@@ -5,23 +5,27 @@ Hundred Year Farms refers to two small farm properties (each about 43 acres); on
 - [What is agroforestry?](https://www.aftaweb.org/)
 - [Agroforestry - Canada](https://www.agr.gc.ca/eng/agriculture-and-climate/agricultural-practices/agroforestry/?id=1177431400694), [Agroforestry - UK](https://www.agforward.eu/index.php/en/silvoarable-agroforestry-in-the-uk.html), [Agroforestry - EU](https://euraf.isa.utl.pt/welcome), [Agroforestry - US](https://www.usda.gov/topics/forestry/agroforestry)
 
-**Farm Plan (PEI)**
+**Farm Plans**
 
-Our plan for the island farm, as shown by the superposition of trees onto the sattelite image below, is to plant strong wind-break trees along the uppermost ridge with the trees and crops that require more sunlight and wind protection located lower on the farm's south sloping land. The existing trees are a near single species of spruce from a prior clear-cut, but the new trees will be a more diverse mix of native species including maple, oak, poplar, birch, hemlock, apple, among others that help reduce fire and pest risk.  The trees in rows will be arranged to allow for selective harvesting while some blocks will be left to grow unmanaged.  A greenhouse will be incorporated into this agroforestry system.
+Our plan for the island farm, as shown by the superposition of trees onto the sattelite image below, is to plant strong wind-break trees along the uppermost ridge with the trees and crops that require more sunlight and wind protection located lower on the farm's south sloping land. The existing trees are a near single species of spruce resulting from a prior clear-cut, but the new trees will be a more diverse mix of native species including maple, oak, poplar, birch, hemlock, apple, among others, that help reduce the risk of fire and pests.  The trees in rows will be arranged to allow for selective harvesting while some blocks will be left to grow unmanaged.  A greenhouse will be incorporated into this agroforestry system.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/IFCSite-FarmProposedTrees.png" alt="Farm plan - tree overlay" width="500">
 </p>
 
-<u>Image</u>: *Proposed new trees laid over a satellite image.  Gradient lines show how the land slopes toward the south where surface run-off water collects. A - water erosion down the centre of this field is evident, but can be controlled by the new rows of trees that follow field contours. B - prior clear-cut area. C - windbreak realligned to follow land contours. D - Greenhouse.*
+<u>Image</u>: *Proposed new trees laid over a satellite image.  Gradient lines show how the land slopes toward the south where surface run-off water collects. A - water erosion down the centre of this field is already evident, but can be controlled by the new rows of trees that follow field contours. B - prior clear-cut area. C - windbreak realligned to follow land contours. D - Greenhouse.*
 
 Some of the goals we are trying to achieve are:
 
 - Erosion Control: Trees in rows reduce wind speeds and slow drainage during extreme weather.  
 - More Biodiversity: Reduces pest and fire risk while making the property more interesting to visit.  
-- Diversification: Greenhouses and high-value trees, but less field crop, helps distribute work over the year.   
+- Level Work: Greenhouse and high-value trees, but less field crop, distributes work over the year.   
 
-Agroforestry is a well-established practice that we will gradually transition to, over the next few decades, with the help of experts.  While agroforestry is not new, where we will be doing some original work is in our approach to supplying greenhouse utilities from the agro-forestry waste biomass.  Those utility services are what could allow the farms to some day become carbon negative and have reduced operating costs as expanded upon below.  
+While agroforestry is an established practice, where we will be doing original work is in our approach to supplying greenhouse utilities from the agro-forestry waste biomass.  Those utility services are what could allow the farms to some day become carbon negative and have reduced operating costs.
+
+  
+
+
 
 **Carbon-negative integrated greenhouse**
 
