@@ -56,20 +56,18 @@ A recent (2020) example of cooperative financing, using a project structure simi
 - [US Federal Reserve - Smart Contract Research Report](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)
 - [OASIS Standards Body - Baseline Protocol for Smart Contracts](https://docs.baseline-protocol.org/baseline-protocol/architecture)
 - [Ernst & Younge Blockchain Initiative](https://blockchain.ey.com/)
-   
+
+The agroforestry portion of our project will be implemented over the course of this decade, however, the integrated greenhouse will wait until a workable system design has been sucessfully modelled and smart contracts are available to lower project cost.
+
 **Data**
 
-We are using a 3D file system based on [Building Information Management (BIM) IFC5](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/).   
+We use a 3D file system based on [Building Information Management (BIM) IFC5 - scope includes infrastructure and landscaping](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/).   
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/BIM-githubReadme.svg" alt="BIM Models" width="600">
 </p>
 
 The main purpose of that file system is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) as shown in the panel to the left.  However, BIM tools (e.g. FreeCAD, Blender), are also useful for the design of out-buildings (greenhouses, sheds, workshop, garage,...) as shown in the panel to the right and will be especially useful for design of the engineered vessel and piping systems.
-
-## Schedule:  
-
-Over the course of 2021 we are refining our concept designs with the help of consultants. The agroforestry portion of our project will be implemented over the course of this decade, however, the integrated greenhouse will wait until a workable system design has been sucessfully modelled and smart contracts are available to lower project cost (perhaps in the next few years).
 
 ## Owners
 
