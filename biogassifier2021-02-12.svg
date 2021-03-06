@@ -983,18 +983,19 @@
        id="path10196"
        sodipodi:nodetypes="ccc" />
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666995px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;white-space:pre;inline-size:15.0578;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777;"
        id="text10202"
        x="145.37044"
-       y="77.581383"><tspan
-         sodipodi:role="line"
-         id="tspan1290">Electrical</tspan><tspan
-         sodipodi:role="line"
-         id="tspan1292">Power for</tspan><tspan
-         sodipodi:role="line"
-         id="tspan1294">Building and</tspan><tspan
-         sodipodi:role="line"
-         id="tspan1296">Vehicles</tspan></text>
+       y="77.581383"
+       xml:space="preserve"><tspan
+         x="145.37044"
+         y="77.581383"><tspan>Electrical </tspan></tspan><tspan
+         x="145.37044"
+         y="80.227218"><tspan>Power for </tspan></tspan><tspan
+         x="145.37044"
+         y="82.873054"><tspan>Building &amp; </tspan></tspan><tspan
+         x="145.37044"
+         y="85.51889"><tspan>Vehicles</tspan></tspan></text>
     <text
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
        id="text61915-5-53-6"
