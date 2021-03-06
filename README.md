@@ -20,7 +20,7 @@ Some of the goals we are trying to achieve are:
 - Erosion control: Trees in rows reduce wind speeds and slow drainage during extreme weather.  
 - Reduced pest and fire risk: Through increased biodiversity.  
 - Level work: Greenhouses, trees, and field crops require work at different times of year.
-- Higher asset values: By improving productivity, increasing biodiveristy, and enriching topsoil.  
+- Higher asset values: By improving productivity, increasing biodiveristy, and building topsoil.  
 
 Agroforestry is an established practice that we will be following.  Where we will be doing original work is in our approach to supplying greenhouse utilities from the agro-forestry waste biomass.  Those utility services are what could allow small agroforestry farms to some day become carbon negative with reduced operating costs.  This may create a template for similiar farm properties where:
 
