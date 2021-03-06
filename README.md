@@ -13,7 +13,7 @@ Our plan for the island farm, as shown by the superposition of trees onto the sa
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/IFCSite-FarmProposedTrees.png" alt="Farm plan - tree overlay" width="600">
 </p>
 
-<u>Image</u>: *Proposed new trees laid over a satellite image.  Gradient lines show how the land slopes toward the south where surface run-off water collects. A - water erosion down the centre of this field is already evident, but can be controlled by the new rows of trees that follow field contours. B - prior clear-cut area. C - windbreak realligned to follow land contours. D - Greenhouse.*
+<u>Image</u>: *Proposed new trees laid over a satellite image.  Gradient lines show how the land slopes toward the south where surface run-off water collects. A - water erosion down the centre of this field is evident, but can be controlled by the new rows of trees that follow field contours. B - prior clear-cut area. C - windbreak realligned to follow land contours. D - Greenhouse.*
 
 Some of the goals we are trying to achieve are:
 
