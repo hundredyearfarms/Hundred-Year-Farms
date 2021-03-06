@@ -51,13 +51,13 @@ The diagram below expands upon the second bullet.  The first panel in the diagra
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/SMARTCONTRACTS.svg" alt="Smart Contract Cooperatives" width="800">
 </p>
 
-A recent (2020) example of cooperative financing, using a project structure similiar to that in the second panel, is given by the [low-carbon biogas-from-waste project](https://www.torontozoo.com/tz/biogas) at the Toronto Zoo.  They were able to organize their project as a cooperative since their project had a social purpose and that allowed them to raise money by selling bonds at 5% as opposed to the 15% or more that an investor led project would requiree.  Smart contracts, as shown in the third panel, have the potential to further lower the cost of social purpose (e.g. carbon negative) cooperatives.  
+A recent (2020) example of cooperative financing, using a project structure similiar to that in the second panel, is given by the [low-carbon biogas-from-waste project](https://www.torontozoo.com/tz/biogas) at the Toronto Zoo.  They were able to organize their project as a cooperative since their project had a social purpose which allowed them to raise money by selling bonds with 5% returns as opposed to the 15% or more that an investor-led project would requiree.  Smart contracts, as shown in the third panel, have the potential to further lower the cost of running a social purpose cooperatives which could help bring certain carbon negative technologies forward (whether for running an installation or, in our case, equipment manufacture).  
 
 - [US Federal Reserve - Smart Contract Research Report](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)
 - [OASIS Standards Body - Baseline Protocol for Smart Contracts](https://docs.baseline-protocol.org/baseline-protocol/architecture)
 - [Ernst & Younge Blockchain Initiative](https://blockchain.ey.com/)
 
-The agroforestry portion of our project will be implemented over the course of this decade, however, the integrated greenhouse will wait until a workable system design has been sucessfully modelled and smart contracts are available to lower project cost.
+The agroforestry portion of our project will be implemented over the course of this decade, however, the integrated greenhouse will wait until a workable integrated system design has been sucessfully modelled and smart contracts are available to lower project cost.
 
 **Data**
 
