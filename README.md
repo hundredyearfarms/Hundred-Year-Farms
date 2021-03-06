@@ -17,7 +17,7 @@ Our plan for the island farm, as shown by the superposition of trees onto the sa
 
 Some of the goals we are trying to achieve are:
 
-- Erosion control: Trees in rows reduce wind speeds and slow drainage.  
+- Erosion control: Trees in rows reduce wind speeds and slow drainage on sloped land.  
 - Reduced pest and fire risk: By increasing the number of tree species.  
 - Level work: Greenhouses, trees, and field crops require work at different times of year.
 - Higher asset values: Higher value trees, greenhouse, biodiveristy, and improved topsoil.  
