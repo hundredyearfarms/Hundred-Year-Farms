@@ -40,10 +40,10 @@ The core technologies for using waste wood and waste crop biomass to provide uti
 - [Practical example - heat and char by the City of Stokcholm](https://www.stockholmvattenochavfall.se/en/current-projects/development/biochar/#!/about-the-biochar-project)
 - [Farm scale 25kW heat, electricity, and char](https://www.allpowerlabs.com/products/product-overview)
 
-However, while the core gassification technology is proven, practical systems today remain cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to equipment, but faster and more significant cost reductions are likely to be from:
+However, while the core technologies are proven, most commercial systems remain cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to equipment, but faster and more significant cost reductions are likely to be from:
 
 1. Improving system integration to provide all utility services as illustrated above. 
-1. Using automation (e.g. Smart Contracts) to lower the cost of project capital and administration. 
+1. Using automation (e.g. smart contracts) to lower the cost of project capital and administration. 
 
 The diagram below expands upon the second bullet.  The first panel in the diagram depicts conventional project financing from investor shares.  The second panel depicts a form of financing, known as a cooperative, that is sometimes used when a project's returns are too low to interest investor-led financing, but where there is a high social purpose.  The third panel proposes to lower the administrative cost of social purpose cooperatives using smart contracts.    
 
