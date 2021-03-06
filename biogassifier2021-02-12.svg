@@ -637,7 +637,7 @@
      inkscape:window-width="3354"
      inkscape:window-height="1995"
      inkscape:window-x="259"
-     inkscape:window-y="107"
+     inkscape:window-y="81"
      inkscape:window-maximized="0"
      inkscape:snap-text-baseline="false"
      inkscape:snap-others="false"
@@ -983,18 +983,18 @@
        id="path10196"
        sodipodi:nodetypes="ccc" />
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777;"
        id="text10202"
-       x="146.42876"
-       y="82.873055"><tspan
+       x="145.37044"
+       y="77.581383"><tspan
          sodipodi:role="line"
-         id="tspan6262"
-         x="146.42876"
-         y="82.873055">Electrical</tspan><tspan
+         id="tspan1290">Electrical</tspan><tspan
          sodipodi:role="line"
-         id="tspan6264"
-         x="146.42876"
-         y="85.51889">Power</tspan></text>
+         id="tspan1292">Power for</tspan><tspan
+         sodipodi:role="line"
+         id="tspan1294">Building and</tspan><tspan
+         sodipodi:role="line"
+         id="tspan1296">Vehicles</tspan></text>
     <text
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
        id="text61915-5-53-6"
@@ -1475,7 +1475,7 @@
            sodipodi:role="line"
            id="tspan6939"
            x="134.9361"
-           y="137.11119"></tspan></text>
+           y="137.11119" /></text>
     </g>
     <g
        id="g6966">
