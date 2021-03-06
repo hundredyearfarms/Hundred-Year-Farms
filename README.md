@@ -17,15 +17,15 @@ Our plan for the island farm, as shown by the superposition of trees onto the sa
 
 Some of the goals we are trying to achieve are:
 
-- Erosion Control: Trees in rows reduce wind speeds and slow drainage during extreme weather.  
-- More Biodiversity: Reduces pest and fire risk while making the property more interesting to visit.  
-- Level Work: Greenhouse and high-value trees, but less field crop, distributes work over the year.   
+- Erosion control: Trees in rows reduce wind speeds and slow drainage during extreme weather.  
+- Reduced pest and fire risk: Through increased biodiversity.  
+- Level work: Greenhouses, trees, and field crops require work at different times of year.
+- Higher asset values: By improving productivity, increasing biodiveristy, and enriching topsoil.  
 
-While agroforestry is an established practice, where we will be doing original work is in our approach to supplying greenhouse utilities from the agro-forestry waste biomass.  Those utility services are what could allow the farms to some day become carbon negative and have reduced operating costs.
+Agroforestry is an established practice that we will be following.  Where we will be doing original work is in our approach to supplying greenhouse utilities from the agro-forestry waste biomass.  Those utility services are what could allow small agroforestry farms to some day become carbon negative with reduced operating costs.  This may create a template for similiar farm properties where:
 
-  
-
-
+1) The property is too small for large agribusiness equipment.
+2) The land is degraded with low agribusiness profitability.
 
 **Carbon-negative integrated greenhouse**
 
