@@ -7,7 +7,7 @@ Hundred Year Farms refers to two small farm properties (each about 43 acres); on
 
 **Farm Plans**
 
-Our plan for the island farm, as shown by the superposition of trees onto the sattelite image below, is to plant strong wind-break trees along the uppermost ridge with the trees and crops that require more sunlight and wind protection located lower on the farm's south sloping land. The existing trees are a near single species of spruce resulting from a prior clear-cut, but the new trees will be a more diverse mix of native species including maple, oak, poplar, birch, hemlock, apple, among others, that help reduce the risk of fire and pests.  The trees in rows will be arranged to allow for selective harvesting while some blocks will be left to grow unmanaged.  A greenhouse will be incorporated into this agroforestry system.
+Our plan for the island farm, as shown by the superposition of trees onto the sattelite image below, is to plant strong wind-break trees along the uppermost ridge with the trees and crops that require more sunlight and wind protection located lower on the farm's south sloping land. The existing trees are a near single species of spruce resulting from a prior clear-cut, but the new trees will be a more diverse mix of native species.  The trees in rows will be arranged to allow for selective harvesting while some blocks will be left to grow unmanaged.  A greenhouse will be incorporated into this agroforestry system.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/IFCSite-FarmProposedTrees.png" alt="Farm plan - tree overlay" width="500">
@@ -20,9 +20,9 @@ Some of the goals we are trying to achieve are:
 - Erosion control: Trees in rows reduce wind speeds and slow drainage during extreme weather.  
 - Reduced pest and fire risk: Through increased biodiversity.  
 - Level work: Greenhouses, trees, and field crops require work at different times of year.
-- Higher asset values: By improving productivity, increasing biodiveristy, and building topsoil.  
+- Higher asset values: Higher value trees, greenhouse, biodiveristy, and improved topsoil.  
 
-Agroforestry is an established practice.  Where we will be doing original work is in our approach to supplying greenhouse utilities from the agro-forestry waste biomass.  Those utility services are what could allow small agroforestry farms to some day become carbon negative with reduced operating costs.  
+Agroforestry is an established practice.  Where we will be doing original work is in our approach to supplying greenhouse utilities from the agro-forestry waste biomass.  Those utility services are what could allow small agroforestry farms to some day become carbon negative and more profitable.  
 
 **Carbon-negative integrated greenhouse**
 
