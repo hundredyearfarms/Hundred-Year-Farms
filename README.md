@@ -45,7 +45,7 @@ However, while the core technologies are proven, most commercial systems remain 
 1. Improving system integration to provide all utility services as illustrated above. 
 1. Using smart contracts to lower the cost of project capital and administration. 
 
-The second bulleted opportunity is new and expanded upon in the diagram below.  The first panel in the diagram depicts conventional project financing from investor shares.  The second panel depicts a form of financing, known as a cooperative, that is sometimes used when a project's returns are too low to interest investor-led financing, but where there is high social purpose.  The third panel proposes to lower the administrative cost of social purpose cooperatives using smart contracts.    
+The second bulleted opportunity is new and expanded upon in the diagram below.  The first panel in the diagram depicts conventional project financing from investor shares.  The second panel depicts a form of financing, known as a cooperative, that is sometimes used when a project's returns are too low to interest investor-led financing, but where there is high social purpose.  The third panel proposes to lower the administrative cost of those social purpose cooperatives using smart contracts.    
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/SMARTCONTRACTS.svg" alt="Smart Contract Cooperatives" width="1000">
@@ -58,6 +58,8 @@ A recent (2020) example of cooperative financing, using a project structure simi
 - [Ernst & Younge Blockchain Initiative](https://blockchain.ey.com/)
 
 The agroforestry portion of our project will be implemented over the course of this decade, however, the integrated greenhouse will wait until a workable integrated system design has been sucessfully modelled and smart contracts are available to lower project cost.
+
+The PEI farm property is well suited to the agroforestry with integrated greenhouse concept since the island has no natural gas lines and electricity is among the highest in the country. Further, ours is a greenfield site with no existing utilities for water, sewer, or electricity. At the same time, we have abundant wood waste that is underutilized and has disposal issues that we want a solution for. These features make this site a good place to develop this technology, but it should be noted that an integrated greenhouse is unlikely to viable where utilities already exist or electricity is moderately priced.   
 
 **Data**
 
