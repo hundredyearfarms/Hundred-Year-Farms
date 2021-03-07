@@ -67,7 +67,7 @@ We use a 3D file system based on Building Information Management (BIM)-IFC5 stan
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/BIM-githubReadme.svg" alt="BIM Models" width="800">
 </p>
 
-The main reason for using that file system is to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) as shown in the panel to the left.  However, BIM tools (e.g. FreeCAD, Blender), are also useful for the design of out-buildings (greenhouses, sheds, workshop, garage,...) as shown in the panel to the right and will be especially useful for design of the engineered vessel and piping systems.
+The main reason for using that file system is that it allows us to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) as shown in the panel to the left.  However, BIM tools (e.g. FreeCAD, Blender), are also useful for the design of out-buildings (greenhouses, sheds, workshop, garage,...) as shown in the panel to the right and will be especially useful for design of the engineered vessel and piping systems.
 
 ## Owners
 
