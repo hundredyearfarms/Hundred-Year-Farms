@@ -22,9 +22,9 @@ Some of the goals we are trying to achieve are:
 - Level work: Greenhouses, trees, and field crops require work at different times of year.
 - Higher asset values: Higher value trees, greenhouses, and improved habitat/topsoil.  
 
-Agroforestry is an established practice.  Where we will be doing original work is in our approach to supplying greenhouse utilities from the agro-forestry and crop waste.  Those utility services are what could allow small agroforestry farms to some day become carbon negative and more profitable.  
+Agroforestry is an established practice that we plan to implement, with the help of experts, over the next 10-20 years.  Where we will be doing original work is in our approach to supplying greenhouse utilities from the agro-forestry and crop waste.  Those utility services are what could allow small agroforestry farms to some day become carbon negative and more profitable.  
 
-**Carbon-negative integrated greenhouse**
+**A Carbon-negative integrated greenhouse**
 
 Agroforestry produces significant amounts of waste biomass that must be managed.  Through gassification this waste can be used to produce heat (e.g. for greenhouses), gas, electricity, treated water, fertilizer, and [char](https://biochar-international.org/sustainability-climate-change/) (solid carbon) which can be used as a carbon sequestering [soil ammendment or other products](https://national-carbon.com/). A schematic showing design objectives for our integrated greenhouse application is shown below.
 
@@ -59,7 +59,7 @@ A recent (2020) example of cooperative financing, using a project structure simi
 
 The PEI farm property is well suited to the agroforestry integrated greenhouse concept since the island has no natural gas lines and electricity is among the highest in the country. Further, ours is a greenfield site with no existing utilities for water, sewer, or electricity. At the same time, the site has abundant wood waste that is underutilized and requires disposal in some manner. These features make this site a good place to develop this technology toward it someday being of interest at locations where utilities exist.   
 
-The agroforestry portion of our project will be implemented over the next 10-20 years, however, the integrated greenhouse will wait until a workable system design has been sucessfully modelled and smart contracts are available to lower project cost.  After that feasibility on paper has been demonstrated, it should be possible to build a prototype within another 5 years and an initial product 5 years after that.
+The next step for the integrated greenhouse concept is to model a workable system design using smart contracts as part of project management.  Assuming that approach is shown to be feasible on paper, it should then be possible to build a prototype within another 5 years and that, and an alpha version product 5 years after that.
 
 **Data**
 
