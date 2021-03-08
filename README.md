@@ -57,9 +57,9 @@ A recent (2020) example of cooperative financing, using a project structure simi
 - [OASIS Standards Body - Baseline Protocol for Smart Contracts](https://docs.baseline-protocol.org/baseline-protocol/architecture)
 - [Ernst & Younge Blockchain Initiative](https://blockchain.ey.com/)
 
-The PEI farm property is well suited to the agroforestry integrated greenhouse concept since the island has no natural gas lines and electricity is among the highest in the country. Further, ours is a greenfield site with no existing utilities for water, sewer, or electricity. At the same time, the site has abundant wood waste that is underutilized and requires disposal in some manner. These features make this site a good place to develop this technology toward it someday being of interest at locations where utilities exist.   
+The PEI farm property is well suited to the agroforestry with integrated-greenhouse concept since the island has no natural gas lines and electricity is among the highest in the country. Further, the site has no existing utilities for water, sewer, or electricity while at the same time it has abundant wood waste that is underutilized and requires disposal in some manner. These features make this site a good place to develop this carbon-negative technology toward it someday being of interest at locations where utilities already exist.   
 
-The next step for the integrated greenhouse concept is to model a workable system design using smart contracts as part of project management.  Assuming that approach is shown to be feasible on paper, it should then be possible to build a prototype within another 5 years and that, and an alpha version product 5 years after that.
+The next step for the integrated greenhouse concept is to work with academia to model a workable integrated system design and to establish the effect smart contracts could have in reducing project management costs.  Assuming both are shown to be feasible on paper, it should then be possible to build a prototype within another 5 years and an alpha version product perhaps 5 years after that.
 
 **Data**
 
