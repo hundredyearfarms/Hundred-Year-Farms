@@ -57,19 +57,19 @@ A recent (2020) example of cooperative financing, using a project structure simi
 - [OASIS Standards Body - Baseline Protocol for Smart Contracts](https://docs.baseline-protocol.org/baseline-protocol/architecture)
 - [Ernst & Younge Blockchain Initiative](https://blockchain.ey.com/)
 
-The agroforestry portion of our project will be implemented over the course of this decade, however, the integrated greenhouse will wait until a workable integrated system design has been sucessfully modelled and smart contracts are available to lower project cost.
+The PEI farm property is well suited to the agroforestry with integrated greenhouse concept since the island has no natural gas lines and electricity is among the highest in the country. Further, ours is a greenfield site with no existing utilities for water, sewer, or electricity. At the same time, we have abundant wood waste that is underutilized and has disposal issues. These features make this site a good place to develop this technology so that someday it may even be of interest at locations where utilities exist.   
 
-The PEI farm property is well suited to the agroforestry with integrated greenhouse concept since the island has no natural gas lines and electricity is among the highest in the country. Further, ours is a greenfield site with no existing utilities for water, sewer, or electricity. At the same time, we have abundant wood waste that is underutilized and has disposal issues that we want a solution for. These features make this site a good place to develop this technology, but it should be noted that an integrated greenhouse is unlikely to viable where utilities already exist or electricity is moderately priced.   
+The agroforestry portion of our project will be implemented over the next 10 years, however, the integrated greenhouse will wait until a workable system design has been sucessfully modelled and smart contracts are available to lower project cost (that may take 10 - 20 years).
 
 **Data**
 
-We use a 3D file system based on Building Information Management (BIM)-IFC5 standard whose scope now includes infrastructure and [landscaping](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/).   
+We use a 3D file system based on the Building Information Management (BIM)-IFC5 standard whose scope now includes infrastructure and [landscaping](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/).   
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/BIM-githubReadme.svg" alt="BIM Models" width="800">
 </p>
 
-The main reason for using that file system is that it allows us to manage the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) as shown in the panel to the left.  However, BIM tools (e.g. FreeCAD, Blender), are also useful for the design of out-buildings (greenhouses, sheds, workshop, garage,...) as shown in the panel to the right and will be especially useful for design of the engineered vessel and piping systems.
+The main reason for using that file system is that it allows the farm's asset data over time (e.g. trees, soil conditions, crop yields, and infrastructure) as shown in the panel to the left which will make the data more useful for management and research puroses.  The BIM tools (e.g. FreeCAD, Blender), are also useful for the design of out-buildings (greenhouses, sheds, workshop, garage,...) as shown in the panel to the right and will be especially useful for design of the engineered vessel and piping systems.
 
 ## Owners
 
