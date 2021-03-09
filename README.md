@@ -24,7 +24,7 @@ Some of the goals we are trying to achieve are:
 
 Agroforestry is an established practice that we plan to implement, with the help of experts, over the next 10-20 years.  Where we will be doing original work is in our approach to supplying greenhouse utilities from the agro-forestry and crop waste.  Those utility services are what could allow small agroforestry farms to some day become carbon negative and more profitable.  
 
-**A Carbon-negative integrated greenhouse**
+**A carbon-negative integrated greenhouse**
 
 Agroforestry produces significant amounts of waste biomass that must be managed.  Through gassification this waste can be used to produce heat (e.g. for greenhouses), gas, electricity, treated water, fertilizer, and [char](https://biochar-international.org/sustainability-climate-change/) (solid carbon) which can be used as a carbon sequestering [soil ammendment or other products](https://national-carbon.com/). A schematic showing design objectives for our integrated greenhouse application is shown below.
 
