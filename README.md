@@ -22,7 +22,7 @@ Some of the goals we are trying to achieve are:
 - Level work: Greenhouses, trees, and field crops require work at different times of year.
 - Higher asset values: Higher value trees, greenhouses, and improved habitat/topsoil.  
 
-Agroforestry is an established practice that we plan to implement, with the help of experts, over the next 10-20 years.  Where we will be doing original work is in our approach to supplying greenhouse utilities from the agro-forestry and crop waste.  Those utility services are what could allow small agroforestry farms to some day become carbon negative and more profitable.  
+Agroforestry is an established practice that we plan to implement with the help of experts over the next 20 years.  While agroforestry is not new, where we will be doing original work is in our approach to supplying greenhouse utilities from the agroforestry waste.  Those utility services are what could allow small agroforestry farms to some day become carbon negative and more profitable.  
 
 **A carbon-negative integrated greenhouse**
 
