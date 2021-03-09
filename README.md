@@ -1,6 +1,6 @@
 ## Overview
 
-Hundred Year Farms refers to two small farm properties (each about 43 acres); one on Prince Edward Island and the other in Manitoba. For both farms our plan is to make a gradual transition to Agroforestry.  Agroforesty involves the planting of crops, including grains, fruits, or vegetables, between rows of trees.  We believe that this type of farming, when combined with a greenhouse, can be made so that it becomes carbon-negative while maintaining food production, rebuilding topsoil, and maintaining habitat. That, over the next 100 years, should lead to higher long-term asset values than would otherwise be the case and make the farms more interesting to live on and visit.
+Hundred Year Farms refers to two small farm properties (each about 43 acres); one on Prince Edward Island and the other in Manitoba. For both farms our plan is to make a gradual transition to Agroforestry.  Agroforesty involves the planting of crops, including grains, fruits, or vegetables, between rows of trees.  We believe that this type of farming, when combined with a greenhouse, can be made so that it becomes carbon-negative while maintaining food production, rebuilding topsoil, and maintaining habitat. That, over the next 100 years, should lead to higher long-term asset values than would otherwise be the case while making the farms more interesting to live on and visit.
 
 - [What is agroforestry?](https://www.aftaweb.org/)
 - [Agroforestry - Canada](https://www.agr.gc.ca/eng/agriculture-and-climate/agricultural-practices/agroforestry/?id=1177431400694), [Agroforestry - UK](https://www.agforward.eu/index.php/en/silvoarable-agroforestry-in-the-uk.html), [Agroforestry - EU](https://euraf.isa.utl.pt/welcome), [Agroforestry - US](https://www.usda.gov/topics/forestry/agroforestry)
@@ -32,7 +32,7 @@ Agroforestry produces significant amounts of waste biomass that must be managed.
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/biogassifier2021-02-12.svg" alt="Farm plan co-gen" width="600">
 </p>
 
-The core technologies for using waste wood and waste crop biomass to provide utility services have received strong research and development support from governments where climate change is a priority.  That is because the technology is one of the very few that integrates so completely with the natural environment, can realistically become carbon-negative, be fabricated by any modern country with common metals, and deployed at scale.  A good summary of the gassification technology is provided by this [Energy and Environmental Science Article](https://pubs.rsc.org/en/content/articlepdf/2016/ee/c6ee00935b) from the Royal Society of Chemistry.
+The core technologies for using waste wood and waste crop biomass to provide utility services have received strong research and development support from governments where climate change is a priority.  That is because the technology is one of the very few that integrates so completely with the natural environment, can realistically become carbon-negative, be fabricated by any modern country with common metals, helps re-deploy technology and skills from the oil and gas sector, and it can be deployed at scale.  A good summary of the gassification technology is provided by this [Energy and Environmental Science Article](https://pubs.rsc.org/en/content/articlepdf/2016/ee/c6ee00935b) from the Royal Society of Chemistry.
 
 - [Agroforestry for Biomass Production - Benefiting Canadians](https://www.aftaweb.org/latest-newsletter/temporate-agroforester/97-2008-vol-17/april-no-1/74-agroforestry-for-biomass-production-benefiting-canadians.html)
 - [Practical example - heat and electricity at Scotston Farm](https://www.youtube.com/watch?v=i9xmWJ4hAGs)
@@ -40,7 +40,7 @@ The core technologies for using waste wood and waste crop biomass to provide uti
 - [Practical example - heat and char by the City of Stokcholm](https://www.stockholmvattenochavfall.se/en/current-projects/development/biochar/#!/about-the-biochar-project)
 - [Farm scale 25kW heat, electricity, and char](https://www.allpowerlabs.com/products/product-overview)
 
-However, while the core technologies are proven, most commercial systems remain cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to equipment, but faster and more significant cost reductions are likely to be from:
+However, while the core technologies are proven, most commercial systems today remain cost-prohibitive.  Some cost-reduction will be achieved over the next few decades through improvements to equipment, but faster and more significant cost reductions are likely to be from:
 
 1. Improving system integration to provide all utility services as illustrated above. 
 1. Using smart contracts to lower the cost of project capital and administration. 
@@ -57,7 +57,7 @@ A recent (2020) example of cooperative financing, using a project structure simi
 - [OASIS Standards Body - Baseline Protocol for Smart Contracts](https://docs.baseline-protocol.org/baseline-protocol/architecture)
 - [Ernst & Younge Blockchain Initiative](https://blockchain.ey.com/)
 
-The PEI farm property is well suited to the integrated-greenhouse concept since the island has no natural gas lines and electricity prices are among the highest in the country. Further, the site is a greenfield with no water, sewer, or electrical utilities while at the same time it has abundant wood waste that is underutilized and requires disposal in some manner. From an environmental perspective this technology has the potential to provide better environmental and financial returns than any other technology available and it potentially could be developed into a product.  
+The PEI farm property is well suited to the integrated-greenhouse concept since the island has no natural gas lines and electricity prices are among the highest in the country. Further, the site is a greenfield with no existing water, sewer, or electrical utilities while at the same time it has abundant wood waste that is underutilized and requires disposal in some manner. From an environmental perspective this technology has the potential to provide better environmental and financial returns than any other technology available and it potentially could allow technology and skills from the oil and gas sector to be developed into a product.  
 
 The next step for the integrated greenhouse concept is to model a workable integrated system design and to determine the effect smart contracts could have in reducing project management costs.  Assuming both are shown to be feasible on paper, it should then be possible for us to build a demonstration integrated greenhouse within another 5 years and an alpha version product perhaps 5 years after that.
 
