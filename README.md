@@ -45,7 +45,7 @@ However, while the core technologies are proven, most commercial systems today r
 1. Improving system integration to provide all utility services as illustrated above. 
 1. Using smart contracts to lower the cost of project capital and administration. 
 
-The second bulleted opportunity is new and so is expanded upon in the diagram below.  The first panel in the diagram depicts conventional project financing from investor shares.  The second panel depicts a form of direct financing that is sometimes used when a project's returns are too low to attract investor-led financing, but where there is a social purpose the customers are willing to fund.  The third panel proposes to lower the administrative cost of those direct funded projects using smart contracts ().    
+The second bulleted opportunity is new and so is expanded upon in the diagram below.  The first panel in the diagram depicts conventional project financing from investor shares.  The second panel depicts a form of direct financing that is sometimes used when a project's returns are too low to attract investor-led financing, but where there is a social purpose the customers are willing to fund.  The third panel proposes to lower the administrative cost of those direct funded projects using smart contracts.    
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/SMARTCONTRACTS.svg" alt="Smart Contract Cooperatives" width="1000">
@@ -60,7 +60,7 @@ A recent (2020) example of direct financing, using a project structure similiar 
 
 The PEI farm property is suited to the integrated-greenhouse concept since the island has no natural gas lines and electricity prices are among the highest in the country. Further, the site is a greenfield with no existing water, sewer, or electric utilities while at the same time it has abundant wood waste that requires handling and disposal in some manner. 
 
-The next step is to model a workable integrated system and to determine the role smart contracts could have in reducing project costs.  After that feasibility study, and assuming it is workable, it should  be possible for us to build a demonstration (non-commercial, personal-use) greenhouse within an additional 6-10 years.  The developed technology potentially could become a product some time after that.
+The next step is to model a workable integrated system and to determine the role smart contracts could have in reducing project costs.  After that feasibility study, assuming it proves workable, it should then be possible for us to build a demonstration (non-commercial, personal-use) greenhouse within an additional 6-10 years.  The developed technology potentially could become a product some time after that.
 
 **Data**
 
