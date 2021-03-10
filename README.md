@@ -45,13 +45,13 @@ However, while the core technologies are proven, most commercial systems today r
 1. Improving system integration to provide all utility services as illustrated above. 
 1. Using smart contracts to lower the cost of project capital and administration. 
 
-The second bulleted opportunity is new and so is expanded upon in the diagram below.  The first panel in the diagram depicts conventional project financing from investor shares.  The second panel depicts a form of direct financing that is sometimes used when a project's returns are too low to interest investor-led financing, but where there is a social purpose.  The third panel proposes to lower the administrative cost of those social purpose projects using smart contracts.    
+The second bulleted opportunity is new and so is expanded upon in the diagram below.  The first panel in the diagram depicts conventional project financing from investor shares.  The second panel depicts a form of direct financing that is sometimes used when a project's returns are too low to attract investor-led financing, but where there is a social purpose the customers are willing to fund.  The third panel proposes to lower the administrative cost of those direct funded projects using smart contracts.    
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/SMARTCONTRACTS.svg" alt="Smart Contract Cooperatives" width="1000">
 </p>
 
-A recent (2020) example of direct financing, using a project structure similiar to that in the second panel, is given by the [low-carbon biogas-from-waste project](https://www.torontozoo.com/tz/biogas) at the Toronto Zoo.  Their project had a social purpose which allowed them to raise money by selling bonds directly to users at 5% return as opposed to the 15% or more that an investor-led project would require.  Smart contracts, as shown in the third panel, have the potential to further lower the cost of direct funded social purpose projects and that could help bring certain carbon negative technologies forward (installations or equipment manufacture).  
+A recent (2020) example of direct financing, using a project structure similiar to that in the second panel, is given by the [low-carbon biogas-from-waste project](https://www.torontozoo.com/tz/biogas) at the Toronto Zoo.  Their project had a social purpose which allowed them to raise money by selling bonds directly to customers at 5% return as opposed to the 15% or more that an investor-led project would require.  Many electric utilities in the US are funded this way. Smart contracts, as shown in the third panel, have the potential to further lower the cost of direct funded social purpose projects and that could help bring certain carbon negative technologies forward (either installations or equipment manufacture).  
 
 - [US Federal Reserve - Smart Contract Research Report](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)
 - [OASIS Standards Body - Baseline Protocol for Smart Contracts](https://docs.baseline-protocol.org/baseline-protocol/architecture)
