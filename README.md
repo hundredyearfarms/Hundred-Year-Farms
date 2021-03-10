@@ -59,7 +59,7 @@ A recent (2020) example of direct financing, using a project structure similiar 
 
 The PEI farm property is suited to the integrated-greenhouse concept since the island has no natural gas lines and electricity prices are among the highest in the country. Further, the site is a greenfield with no existing water, sewer, or electrical utilities while at the same time it has abundant wood waste that requires disposal in some manner. 
 
-The next step is to model a workable integrated system and to determine the role smart contracts could have in reducing project costs.  After that feasibility study it should  be possible for us to build a demonstration (non-commercial, personal-use) greenhouse within another 6-10 years.  The developed technology potentially could become a product some time after that.
+The next step is to model a workable integrated system and to determine the role smart contracts could have in reducing project costs.  After that feasibility study, and assuming it is positive, it should  be possible for us to build a demonstration (non-commercial, personal-use) greenhouse within an additional 6-10 years.  The developed technology potentially could become a product some time after that.
 
 **Data**
 
