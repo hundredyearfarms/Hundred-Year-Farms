@@ -45,7 +45,7 @@ However, while the core technologies are proven, most commercial systems today r
 1. Improving system integration to provide all utility services as illustrated above. 
 1. Using smart contracts to lower the cost of project capital and administration. 
 
-The second bulleted opportunity is new and so is expanded upon in the diagram below.  The first panel in the diagram depicts conventional project financing from investor shares.  The second panel depicts a form of direct financing that is sometimes used when a project's returns are too low to interest investor-led financing, but where there is high social purpose.  The third panel proposes to lower the administrative cost of those social purpose projects using smart contracts.    
+The second bulleted opportunity is new and so is expanded upon in the diagram below.  The first panel in the diagram depicts conventional project financing from investor shares.  The second panel depicts a form of direct financing that is sometimes used when a project's returns are too low to interest investor-led financing, but where there is a social purpose.  The third panel proposes to lower the administrative cost of those social purpose projects using smart contracts.    
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/SMARTCONTRACTS.svg" alt="Smart Contract Cooperatives" width="1000">
@@ -57,9 +57,9 @@ A recent (2020) example of direct financing, using a project structure similiar 
 - [OASIS Standards Body - Baseline Protocol for Smart Contracts](https://docs.baseline-protocol.org/baseline-protocol/architecture)
 - [Ernst & Younge Blockchain Initiative](https://blockchain.ey.com/)
 
-The PEI farm property is suited to the integrated-greenhouse concept since the island has no natural gas lines and electricity prices are among the highest in the country. Further, the site is a greenfield with no existing water, sewer, or electrical utilities while at the same time it has abundant wood waste that requires disposal in some manner. The concept is largely a redeployment of technology and skills from the oil and gas sector that has the potential to provide better environmental and financial returns than any other clean technology available.  
+The PEI farm property is suited to the integrated-greenhouse concept since the island has no natural gas lines and electricity prices are among the highest in the country. Further, the site is a greenfield with no existing water, sewer, or electrical utilities while at the same time it has abundant wood waste that requires disposal in some manner. 
 
-The next step for the integrated greenhouse concept is to model a workable integrated system and to determine the effect smart contracts could have in reducing project costs.  After that feasibility study it should  be possible for us to build a demonstration (non-commercial, personal-use) greenhouse within another 6-10 years.  The developed technology potentially could become a product some time after that.
+The next step is to model a workable integrated system and to determine the role smart contracts could have in reducing project costs.  After that feasibility study it should  be possible for us to build a demonstration (non-commercial, personal-use) greenhouse within another 6-10 years.  The developed technology potentially could become a product some time after that.
 
 **Data**
 
