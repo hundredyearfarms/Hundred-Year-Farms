@@ -20,7 +20,7 @@ Some of the goals we are trying to achieve are:
 - Erosion control: Trees in rows reduce wind speeds and slow drainage on sloped land.  
 - Reduced pest and fire risk: By increasing diversity of tree species and improving habitat.  
 - Level work: Greenhouses, trees, and field crops require work at different times of year.
-- Higher asset values: Through higher value trees, greenhouses, and improved habitat/topsoil.  
+- Higher asset values: Through higher value trees, greenhouse, and improved habitat/topsoil.  
 
 Agroforestry is an established practice that we plan to implement with the help of experts over the next 20 years.  While agroforestry is not new, where we will be doing original work is in our approach to supplying greenhouse utilities from the agroforestry waste.  Those utility services are what could allow small agroforestry farms to some day become carbon negative and more profitable.  
 
@@ -32,7 +32,7 @@ Agroforestry produces significant amounts of waste biomass that must be managed.
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/biogassifier2021-02-12.svg" alt="Farm plan co-gen" width="600">
 </p>
 
-The core technologies for using waste wood and waste crop biomass to provide utility services have received strong research and development support from governments where climate change is a priority.  That is because the technology is one of the very few that integrates so completely with the natural environment, can realistically become carbon-negative, be fabricated by any modern country with common metals, helps re-deploy technology and skills from the oil and gas sector, and can be deployed at scale.  A good summary of the gassification technology is provided by this [Energy and Environmental Science Article](https://pubs.rsc.org/en/content/articlepdf/2016/ee/c6ee00935b) from the Royal Society of Chemistry.
+The core technologies for using waste wood and waste crop biomass to provide utility services have received strong research and development support from governments where climate change is a priority.  That is because the technology is one of the very few that integrates with the natural environment, can be carbon-negative, fabricated with common metals, re-deploy technology and skills from the oil and gas sector, and deployed at scale.  A good summary of the gassification technology is provided by this [Energy and Environmental Science Article](https://pubs.rsc.org/en/content/articlepdf/2016/ee/c6ee00935b) from the Royal Society of Chemistry.
 
 - [Agroforestry for Biomass Production - Benefiting Canadians](https://www.aftaweb.org/latest-newsletter/temporate-agroforester/97-2008-vol-17/april-no-1/74-agroforestry-for-biomass-production-benefiting-canadians.html)
 - [Practical example - heat and electricity at Scotston Farm](https://www.youtube.com/watch?v=i9xmWJ4hAGs)
@@ -45,13 +45,13 @@ However, while the core technologies are proven, most commercial systems today r
 1. Improving system integration to provide all utility services as illustrated above. 
 1. Using smart contracts to lower the cost of project capital and administration. 
 
-The second bulleted opportunity is new and so is expanded upon in the diagram below.  The first panel in the diagram depicts conventional project financing from investor shares.  The second panel depicts a form of financing, known as a cooperative, that is sometimes used when a project's returns are too low to interest investor-led financing, but where there is high social purpose.  The third panel proposes to lower the administrative cost of those social purpose cooperatives using smart contracts.    
+The second bulleted opportunity is new and so is expanded upon in the diagram below.  The first panel in the diagram depicts conventional project financing from investor shares.  The second panel depicts a form of direct financing that is sometimes used when a project's returns are too low to interest investor-led financing, but where there is high social purpose.  The third panel proposes to lower the administrative cost of those social purpose projects using smart contracts.    
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/SMARTCONTRACTS.svg" alt="Smart Contract Cooperatives" width="1000">
 </p>
 
-A recent (2020) example of cooperative financing, using a project structure similiar to that in the second panel, is given by the [low-carbon biogas-from-waste project](https://www.torontozoo.com/tz/biogas) at the Toronto Zoo.  They were able to organize their project as a cooperative since their project had a social purpose which allowed them to raise money by selling bonds with 5% returns as opposed to the 15% or more that an investor-led project would require.  Smart contracts, as shown in the third panel, have the potential to further lower the cost of running social purpose cooperatives which could help bring certain carbon negative technologies forward (installations or equipment manufacture).  
+A recent (2020) example of direct financing, using a project structure similiar to that in the second panel, is given by the [low-carbon biogas-from-waste project](https://www.torontozoo.com/tz/biogas) at the Toronto Zoo.  Their project had a social purpose which allowed them to raise money by selling bonds directly to users at 5% return as opposed to the 15% or more that an investor-led project would require.  Smart contracts, as shown in the third panel, have the potential to further lower the cost of direct funded social purpose projects and that could help bring certain carbon negative technologies forward (installations or equipment manufacture).  
 
 - [US Federal Reserve - Smart Contract Research Report](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)
 - [OASIS Standards Body - Baseline Protocol for Smart Contracts](https://docs.baseline-protocol.org/baseline-protocol/architecture)
