@@ -57,9 +57,9 @@ A recent (2020) example of direct financing, using a project structure similiar 
 - [OASIS Standards Body - Baseline Protocol for Smart Contracts](https://docs.baseline-protocol.org/baseline-protocol/architecture)
 - [Ernst & Younge Blockchain Initiative](https://blockchain.ey.com/)
 
-The PEI farm property is well suited to the integrated-greenhouse concept since the island has no natural gas lines and electricity prices are among the highest in the country. Further, the site is a greenfield with no existing water, sewer, or electrical utilities while at the same time it has abundant wood waste that is underutilized and requires disposal in some manner. From an environmental perspective this technology has the potential to provide better environmental and financial returns than any other technology available and it potentially could allow technology and skills from the oil and gas sector to be developed into a product.  
+The PEI farm property is suited to the integrated-greenhouse concept since the island has no natural gas lines and electricity prices are among the highest in the country. Further, the site is a greenfield with no existing water, sewer, or electrical utilities while at the same time it has abundant wood waste that requires disposal in some manner. The concept is largely a redeployment of technology and skills from the oil and gas sector that has the potential to provide better environmental and financial returns than any other clean technology available.  
 
-The next step for the integrated greenhouse concept is to model a workable integrated system design and to determine the effect smart contracts could have in reducing project management costs.  Assuming both are shown to be feasible on paper, it should then be possible for us to build a demonstration integrated greenhouse within another 5 years and an alpha version product perhaps 5 years after that.
+The next step for the integrated greenhouse concept is to model a workable integrated system and to determine the effect smart contracts could have in reducing project costs.  After that feasibility study it should  be possible for us to build a demonstration (non-commercial, personal-use) greenhouse within another 6-10 years.  The developed technology potentially could become a product some time after that.
 
 **Data**
 
