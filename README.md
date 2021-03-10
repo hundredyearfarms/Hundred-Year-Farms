@@ -26,7 +26,7 @@ Agroforestry is an established practice that we plan to transition into, with th
 
 **A carbon-negative integrated greenhouse**
 
-Agroforestry produces significant amounts of waste biomass that must be managed.  Through gassification this waste can be used to produce heat (e.g. for greenhouses), gas, electricity, treated water, fertilizer, and [char](https://biochar-international.org/sustainability-climate-change/) (solid carbon) which can be used as a carbon sequestering [soil ammendment or other products](https://national-carbon.com/). A schematic showing design objectives for our integrated greenhouse application is shown below.
+Agroforestry produces waste biomass that must be managed.  Through gassification this waste can be used to produce heat (e.g. for greenhouses), gas, electricity, treated water, fertilizer, and [char](https://biochar-international.org/sustainability-climate-change/) (solid carbon) which can be used as a carbon sequestering [soil ammendment or other products](https://national-carbon.com/). A schematic showing design objectives for our integrated greenhouse application is shown below.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/biogassifier2021-02-12.svg" alt="Farm plan co-gen" width="600">
