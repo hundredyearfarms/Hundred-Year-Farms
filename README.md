@@ -51,16 +51,16 @@ The second bulleted opportunity is new and so is expanded upon in the diagram be
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/SMARTCONTRACTS.svg" alt="Smart Contract Cooperatives" width="1000">
 </p>
 
-A recent (2020) example of direct financing, using a project structure similiar to that in the second panel, is given by the [low-carbon biogas-from-waste project](https://www.torontozoo.com/tz/biogas) at the Toronto Zoo.  Their project had a social purpose which allowed them to raise money by selling bonds directly to customers at 5% return as opposed to the 15% or more that an investor-led project would require.  Many electric utilities in the US are funded this way. Smart contracts, as shown in the third panel, have the potential to further lower the cost of direct funded social projects and that could help bring certain carbon negative technologies forward (either installations or equipment manufacture).  
+A recent (2020) example of direct financing, using a project structure similiar to that in the second panel, is given by the [low-carbon biogas-from-waste project](https://www.torontozoo.com/tz/biogas) at the Toronto Zoo.  Their project had a social purpose which allowed them to raise money by selling bonds to customers and supporters at 5% return as opposed to the 15% or more that an investor-led project would require.  Many electric utilities in the US are funded this way. Smart contracts, as shown in the third panel, have the potential to further lower the cost of direct funded social projects and that could help bring certain carbon negative technologies forward (for either installations or equipment manufacture).  
 
 - [US Federal Reserve - Smart Contract Research Report](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)
 - [OASIS Standards Body - Baseline Protocol for Smart Contracts](https://docs.baseline-protocol.org/baseline-protocol/architecture)
 - [Ernst & Younge Blockchain Initiative](https://blockchain.ey.com/)
 - [Wyoming DAO Bill - smart contracts](https://cryptoslate.com/this-u-s-state-could-legally-recognize-ethereum-daos/)
 
-The PEI farm property is suited to the integrated-greenhouse concept since the island has no natural gas lines and electricity prices are among the highest in the country. Further, the site is a greenfield with no existing water, sewer, or electrical utilities while at the same time it has abundant wood waste that requires handling and disposal in some manner. 
+The PEI farm property is suited to the integrated-greenhouse concept since the island has no natural gas lines and electricity prices are among the highest in the country. Further, the site is a greenfield with no existing water, sewer, or electric utilities while at the same time it has abundant wood waste that requires handling and disposal in some manner. 
 
-The next step is to model a workable integrated system and to determine the role smart contracts could have in reducing project costs.  After that feasibility study, and assuming it is positive, it should  be possible for us to build a demonstration (non-commercial, personal-use) greenhouse within an additional 6-10 years.  The developed technology potentially could become a product some time after that.
+The next step is to model a workable integrated system and to determine the role smart contracts could have in reducing project costs.  After that feasibility study, and assuming it is workable, it should  be possible for us to build a demonstration (non-commercial, personal-use) greenhouse within an additional 6-10 years.  The developed technology potentially could become a product some time after that.
 
 **Data**
 
