@@ -22,7 +22,7 @@ Some of the goals we are trying to achieve are:
 - Leveled workload: Greenhouses, trees, and field crops require work at different times of year.
 - Higher asset values: Through higher value trees, greenhouse, and improved habitat/topsoil.  
 
-Agroforestry is an established practice that we plan to implement with the help of experts over the next 20 years.  While agroforestry is not new, where we will be doing original work is in our approach to supplying greenhouse utilities from the agroforestry waste.  Those utility services are what could allow small agroforestry farms to some day become carbon negative and more profitable.  
+Agroforestry is an established practice that we plan to transition into, with the help of experts, over the next 20 years.  While agroforestry is not new, where we will be doing original work is in our approach to supplying greenhouse utilities from the agroforestry waste.  Those utility services are what could allow small agroforestry farms to some day become carbon negative and more profitable.  
 
 **A carbon-negative integrated greenhouse**
 
@@ -32,7 +32,7 @@ Agroforestry produces significant amounts of waste biomass that must be managed.
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/biogassifier2021-02-12.svg" alt="Farm plan co-gen" width="600">
 </p>
 
-The core technologies for using waste wood and waste crop biomass to provide utility services have received strong research and development support from governments where climate change is a priority.  That is because the technology is one of the very few that integrates with the natural environment, can be carbon-negative, fabricated with common metals, re-deploy technology and skills from the oil and gas sector, and deployed at scale.  A good summary of the gassification technology is provided by this [Energy and Environmental Science Article](https://pubs.rsc.org/en/content/articlepdf/2016/ee/c6ee00935b) from the Royal Society of Chemistry.
+The core technologies for using wood and crop waste to provide utility services has received strong research and development support from governments where climate change is a priority.  That is because the technology is one of the very few that integrates with the natural environment, can be carbon-negative, fabricated with common metals, re-deploy technology and skills from the oil and gas sector, and deployed at scale.  A good summary of the gassification technology is provided by this [Energy and Environmental Science Article](https://pubs.rsc.org/en/content/articlepdf/2016/ee/c6ee00935b) from the Royal Society of Chemistry.
 
 - [Agroforestry for Biomass Production - Benefiting Canadians](https://www.aftaweb.org/latest-newsletter/temporate-agroforester/97-2008-vol-17/april-no-1/74-agroforestry-for-biomass-production-benefiting-canadians.html)
 - [Practical example - heat and electricity at Scotston Farm](https://www.youtube.com/watch?v=i9xmWJ4hAGs)
