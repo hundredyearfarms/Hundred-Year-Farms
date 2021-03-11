@@ -64,13 +64,13 @@ The next step is to model a workable integrated system and to determine the role
 
 **Data**
 
-We use a 3D file system based on the Building Information Management (BIM)-IFC5 standard whose scope now includes infrastructure and [landscaping](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/).   
+We use a 3D file system based on the Building Information Management (BIM)-IFC5 standard whose scope now includes infrastructure and [landscaping](https://www.buildingsmart.org/ifc-for-site-landscape-and-urban-planning-call-for-participation/) which makes BIM-IFC5 relevant to agroforestry.   
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hundredyearfarms/Hundred-Year-Farms/main/BIM-githubReadme.svg" alt="BIM Models" width="800">
 </p>
 
-The main reason for using that file system is that it allow for management of the farm's asset data, such as trees, soil conditions, crop yields, and infrastructure, as shown in panel to the left.  The BIM tools (e.g. FreeCAD, Blender), are also useful for the design of out-buildings (greenhouses, sheds, workshop, garage,...) as shown in the panel to the right and will be especially useful for design of the engineered vessel and piping systems.
+The main reason for using that file system is that it allows for management of the farm's asset data, such as trees, soil conditions, crop yields, and infrastructure, as shown in panel to the left.  The BIM tools we use (e.g. FreeCAD, Blender), are also useful for the design of out-buildings (greenhouses, sheds, workshop, garage,...) as shown in the panel to the right and will be especially useful for design of the engineered vessel and piping systems.
 
 ## Owners
 
