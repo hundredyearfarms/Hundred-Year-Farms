@@ -20,6 +20,20 @@
      id="defs46032">
     <marker
        style="overflow:visible"
+       id="marker1354"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1352" />
+    </marker>
+    <marker
+       style="overflow:visible"
        id="marker6677"
        refX="0"
        refY="0"
@@ -39,7 +53,8 @@
        refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Mend"
-       inkscape:isstock="true">
+       inkscape:isstock="true"
+       inkscape:collect="always">
       <path
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
@@ -894,7 +909,7 @@
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker10308)"
-       d="m 146.56741,123.94164 4.09363,0.0151 -0.0422,-36.868192"
+       d="m 146.56741,123.94164 5.68113,0.0151 -0.0422,-36.868192"
        id="path10114"
        sodipodi:nodetypes="ccc" />
     <path
@@ -954,16 +969,16 @@
          x="85.807159"
          y="85.518898">washwater</tspan></text>
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777;"
        id="text10178"
-       x="136.64258"
-       y="85.51889"><tspan
+       x="136.56438"
+       y="85.52037"><tspan
          sodipodi:role="line"
-         id="tspan10180"
-         x="136.64258"
-         y="85.51889">CO<tspan
+         id="tspan1346"
+         x="136.56438"
+         y="85.52037">CO<tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-   id="tspan6873">2</tspan></tspan></text>
+   id="tspan1348">2</tspan></tspan></text>
     <text
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
        id="text10184"
@@ -983,11 +998,12 @@
        id="path10196"
        sodipodi:nodetypes="ccc" />
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666995px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;white-space:pre;inline-size:15.0578;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;white-space:pre;inline-size:15.0578;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
        id="text10202"
        x="145.37044"
        y="77.581383"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       transform="translate(2.1166667)"><tspan
          x="145.37044"
          y="77.581383"><tspan>Electrical </tspan></tspan><tspan
          x="145.37044"
@@ -1521,6 +1537,62 @@
            x="108.38685"
            y="125.52533">Bio-filter</tspan></text>
     </g>
+    <g
+       id="g6966-1"
+       style="display:inline"
+       transform="translate(28.473556,-26.349324)">
+      <g
+         id="g3153-1-5"
+         transform="matrix(0.1745421,0,0,0.1745421,27.127505,-270.14218)">
+        <path
+           d="m 451.99755,2236.457 h 46.93793 v 44.785 h -46.93793 z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path3155-7-9"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <g
+         id="g3157-7-7"
+         transform="matrix(0.1745421,0,0,0.1745421,27.127505,-270.14218)">
+        <path
+           d="m 451.99755,2245.414 h 46.93693"
+           style="fill:none;stroke:#000000;stroke-width:0.70875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1.77188, 1.77188;stroke-dashoffset:0;stroke-opacity:1"
+           id="path3159-1-7"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <g
+         id="g3161-1-6"
+         transform="matrix(0.1745421,0,0,0.1745421,27.127505,-270.14218)">
+        <path
+           d="m 451.99755,2272.285 h 46.93693"
+           style="fill:none;stroke:#000000;stroke-width:0.70875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1.77188, 1.77188;stroke-dashoffset:0;stroke-opacity:1"
+           id="path3163-5-7"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.48448px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.174542"
+         id="text3167-9-3"
+         x="106.27017"
+         y="123.66973"><tspan
+           sodipodi:role="line"
+           id="tspan6987-6"
+           x="106.27017"
+           y="123.66973">CO2</tspan><tspan
+           sodipodi:role="line"
+           id="tspan6989-5"
+           x="106.27017"
+           y="125.52533">Separator</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker1354)"
+         d="m 114.29034,124.04716 h 2.9624"
+         id="path1350" />
+    </g>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777;"
+       id="text1498"
+       x="142.91429"
+       y="96.103714"><tspan
+         sodipodi:role="line"
+         id="tspan1500">Exhaust</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
